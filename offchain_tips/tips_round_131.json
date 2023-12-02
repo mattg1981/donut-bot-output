@@ -26908,5 +26908,18 @@
         "submission_content_id": "1887cdf",
         "community": "ethtrader",
         "created_date": "2023-12-01 19:40:05.940988"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "from_address": "0x7AdAe2238B6BCa88D9f64E468d2fD551E0587c96",
+        "to_address": "0x83E590540fc9f70EB29d5BB8dFc98930ba3253bE",
+        "to_user": "Bringerofsalvation",
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kbmtb21",
+        "parent_content_id": "t3_188synq",
+        "submission_content_id": "188synq",
+        "community": "ethtrader",
+        "created_date": "2023-12-01 20:26:17.671564"
     }
 ]
