@@ -35384,5 +35384,18 @@
         "submission_content_id": "18atb7d",
         "community": "ethtrader",
         "created_date": "2023-12-04 15:21:08.634018"
+    },
+    {
+        "from_user": "thealiensguy",
+        "from_address": "0x7b5ac3994803D5c92E26D7b3d5E1C676F4F167c2",
+        "to_address": null,
+        "to_user": "Degos_diktator",
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kc0m609",
+        "parent_content_id": "t1_kbzw1m1",
+        "submission_content_id": "18aoqf1",
+        "community": "ethtrader",
+        "created_date": "2023-12-04 16:38:26.422304"
     }
 ]
