@@ -38881,5 +38881,44 @@
         "submission_content_id": "18b3mt5",
         "community": "ethtrader",
         "created_date": "2023-12-05 15:31:30.274847"
+    },
+    {
+        "from_user": "TheOneWhoCared",
+        "from_address": "0x20644e4F409b9D9cAd1c858730a5D020ec482Ca4",
+        "to_address": "0x45051312DeA7a0b7302bCbCCC979E88e28a08e3F",
+        "to_user": "Fredzoor",
+        "amount": 1.5,
+        "token": "donut",
+        "content_id": "t1_kc5utxu",
+        "parent_content_id": "t3_18bl7ty",
+        "submission_content_id": "18bl7ty",
+        "community": "ethtrader",
+        "created_date": "2023-12-05 18:18:14.571086"
+    },
+    {
+        "from_user": "Murky-Statistician45",
+        "from_address": "0xDBCaB1c771c87b3BDeD8EE7E8Df5cBd17DD84145",
+        "to_address": "0x2dBB136D8DC31698ADA7C56E0853C255629d0cA6",
+        "to_user": "FattestLion",
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kc5uxdi",
+        "parent_content_id": "t1_kc5r0q6",
+        "submission_content_id": "18ayvxh",
+        "community": "ethtrader",
+        "created_date": "2023-12-05 18:19:07.648160"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "from_address": "0x7AdAe2238B6BCa88D9f64E468d2fD551E0587c96",
+        "to_address": "0xd762e68a2d30ab4d836683c421121AbB5b3e1DcC",
+        "to_user": "mattg1981",
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kc603bb",
+        "parent_content_id": "t3_18b3mt5",
+        "submission_content_id": "18b3mt5",
+        "community": "ethtrader",
+        "created_date": "2023-12-05 18:56:59.353743"
     }
 ]
