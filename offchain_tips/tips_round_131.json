@@ -42274,5 +42274,57 @@
         "submission_content_id": "18cipbg",
         "community": "ethtrader",
         "created_date": "2023-12-06 21:09:11.025838"
+    },
+    {
+        "from_user": "MonitorFlat229",
+        "from_address": "0x2ccE323E044Fe6669Bc7286f5445A20c93890d2b",
+        "to_address": "0x801dd958bA458Cbd68D663d7D76432dD3c6EE60a",
+        "to_user": "dont_agree_with_me",
+        "amount": 20,
+        "token": "donut",
+        "content_id": "t1_kcbig7q",
+        "parent_content_id": "t1_kcbi4co",
+        "submission_content_id": "18cipbg",
+        "community": "ethtrader",
+        "created_date": "2023-12-06 21:10:06.459879"
+    },
+    {
+        "from_user": "SuperbCantaloupe1929",
+        "from_address": "0x33493c3DB1F4Fa1061C0199ab81111236375F74b",
+        "to_address": "0x45051312DeA7a0b7302bCbCCC979E88e28a08e3F",
+        "to_user": "Fredzoor",
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kcbil3l",
+        "parent_content_id": "t1_kc9zgg7",
+        "submission_content_id": "18br1gd",
+        "community": "ethtrader",
+        "created_date": "2023-12-06 21:11:24.511434"
+    },
+    {
+        "from_user": "Buzzalu",
+        "from_address": "0xb89CB46A5Cf811b99A3608C8b9e63aD0DE990Fe0",
+        "to_address": "0x3A11c76440655D4DdFF16a4aDAbBa15E98E89786",
+        "to_user": "TheNano100",
+        "amount": 50,
+        "token": "donut",
+        "content_id": "t1_kcbm8zv",
+        "parent_content_id": "t3_18cik5b",
+        "submission_content_id": "18cik5b",
+        "community": "ethtrader",
+        "created_date": "2023-12-06 21:40:04.233057"
+    },
+    {
+        "from_user": "Prog132487",
+        "from_address": "0x1dE6FfC60B876124e315734C4772386192e67d96",
+        "to_address": "0x177FcF75AF5a0324AfFFdfA578F7b14d42f71d80",
+        "to_user": "Goonzoo",
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kcbolkd",
+        "parent_content_id": "t3_18c60bf",
+        "submission_content_id": "18c60bf",
+        "community": "ethtrader",
+        "created_date": "2023-12-06 21:59:09.983232"
     }
 ]
