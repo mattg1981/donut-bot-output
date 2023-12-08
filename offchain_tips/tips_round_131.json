@@ -45732,5 +45732,57 @@
         "submission_content_id": "18cv2y1",
         "community": "ethtrader",
         "created_date": "2023-12-07 18:44:30.152096"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "from_address": "0xFEdD14d3a32FaAbfbd6E290fAA73Aec58e894650",
+        "to_address": "0x870d6C65E99EeE634165150282c68Ee88A5eC6b1",
+        "to_user": "ASingleGuitarString",
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kcfw7ic",
+        "parent_content_id": "t3_18d6kab",
+        "submission_content_id": "18d6kab",
+        "community": "ethtrader",
+        "created_date": "2023-12-07 19:13:36.459658"
+    },
+    {
+        "from_user": "Prog132487",
+        "from_address": "0x1dE6FfC60B876124e315734C4772386192e67d96",
+        "to_address": "0x51fa5238F563A48B050bdc69A1Ca91358f1BB337",
+        "to_user": "Every_Hunt_160",
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kcfyd4k",
+        "parent_content_id": "t3_18cv2y1",
+        "submission_content_id": "18cv2y1",
+        "community": "ethtrader",
+        "created_date": "2023-12-07 19:29:33.437768"
+    },
+    {
+        "from_user": "lordciders",
+        "from_address": "0x4b1f1C251Ce3Dc74C9Bb2EcBcEbC9bc7f855eF27",
+        "to_address": null,
+        "to_user": "Outrageous-Shoe3406",
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kcg2ldk",
+        "parent_content_id": "t3_18daspa",
+        "submission_content_id": "18daspa",
+        "community": "ethtrader",
+        "created_date": "2023-12-07 20:00:07.107108"
+    },
+    {
+        "from_user": "lordciders",
+        "from_address": "0x4b1f1C251Ce3Dc74C9Bb2EcBcEbC9bc7f855eF27",
+        "to_address": "0xe56A20D10C94DCecB575e64C7ee72C2bFCD81DD0",
+        "to_user": "Affectionate-Ice6827",
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kcg3ghf",
+        "parent_content_id": "t3_18dbwas",
+        "submission_content_id": "18dbwas",
+        "community": "ethtrader",
+        "created_date": "2023-12-07 20:06:22.342583"
     }
 ]
