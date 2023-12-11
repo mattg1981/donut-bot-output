@@ -1,0 +1,12 @@
+[
+    {
+        "user": "aminok",
+        "amount": 50000,
+        "token": "DONUT",
+        "block_number": 31316874,
+        "tx_hash": "0x5a92683d63aeade9506acd099d926efff7a8ccff1abc24ba387042105767ad23",
+        "tx_timestamp": "2023-12-06 23:21:40",
+        "processed_at": "2023-12-07 09:46:18.761828",
+        "created_at": "2023-12-07 09:46:17.392858"
+    }
+]
