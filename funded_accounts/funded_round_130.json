@@ -1,6 +1,7 @@
 [
     {
         "user": "mattg1981",
+        "address": "0xd762e68a2d30ab4d836683c421121abb5b3e1dcc",
         "amount": 1,
         "token": "DONUT",
         "block_number": 30952177,
@@ -11,6 +12,7 @@
     },
     {
         "user": "aminok",
+        "address": "0xbea18a39a1cee253705eb5e966fe23f26dd109ef",
         "amount": 100,
         "token": "DONUT",
         "block_number": 31054019,
@@ -21,6 +23,7 @@
     },
     {
         "user": "aminok",
+        "address": "0xbea18a39a1cee253705eb5e966fe23f26dd109ef",
         "amount": 60000,
         "token": "DONUT",
         "block_number": 31059955,
