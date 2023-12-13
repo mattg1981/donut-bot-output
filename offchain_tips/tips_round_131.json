@@ -58318,5 +58318,65 @@
         "submission_content_id": "18hhhrm",
         "community": "ethtrader",
         "created_date": "2023-12-13 08:47:27.869845"
+    },
+    {
+        "from_user": "Bringerofsalvation",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kd6sk8v",
+        "parent_content_id": "t3_18hhhrm",
+        "submission_content_id": "18hhhrm",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 09:18:57.845217"
+    },
+    {
+        "from_user": "Bringerofsalvation",
+        "to_user": "lordciders",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kd6slmv",
+        "parent_content_id": "t3_18hg16l",
+        "submission_content_id": "18hg16l",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 09:19:12.623673"
+    },
+    {
+        "from_user": "DrDynamicyt",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kd6u1qo",
+        "parent_content_id": "t3_18hhhrm",
+        "submission_content_id": "18hhhrm",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 09:28:52.722913"
+    },
+    {
+        "from_user": "Fredzoor",
+        "to_user": "rootpl",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kd6whdl",
+        "parent_content_id": "t3_18hjfhk",
+        "submission_content_id": "18hjfhk",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 09:44:27.774288"
+    },
+    {
+        "from_user": "MonitorFlat229",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kd6yibh",
+        "parent_content_id": "t3_18he0p9",
+        "submission_content_id": "18he0p9",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 09:57:21.367330"
     }
 ]
