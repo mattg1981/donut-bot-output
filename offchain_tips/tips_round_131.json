@@ -59314,5 +59314,65 @@
         "submission_content_id": "18hu4k9",
         "community": "ethtrader",
         "created_date": "2023-12-13 17:58:52.867130"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "SusanForeman",
+        "to_user_registered": 1,
+        "amount": 100,
+        "token": "donut",
+        "content_id": "t1_kd9b45m",
+        "parent_content_id": "t1_kd4hidf",
+        "submission_content_id": "18h3zfr",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 18:58:41.418384"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "Planktons_Eye",
+        "to_user_registered": 1,
+        "amount": 100,
+        "token": "donut",
+        "content_id": "t1_kd9b5om",
+        "parent_content_id": "t1_kd4fx09",
+        "submission_content_id": "18h3zfr",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 18:58:55.108250"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "lordciders",
+        "to_user_registered": 1,
+        "amount": 100,
+        "token": "donut",
+        "content_id": "t1_kd9b7z2",
+        "parent_content_id": "t1_kd5dfof",
+        "submission_content_id": "18h3zfr",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 18:59:34.722762"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "Carretje",
+        "to_user_registered": 1,
+        "amount": 100,
+        "token": "donut",
+        "content_id": "t1_kd9b9c8",
+        "parent_content_id": "t1_kd4i9s8",
+        "submission_content_id": "18h3zfr",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 18:59:39.965596"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "NSFWCryptoPosting",
+        "to_user_registered": 1,
+        "amount": 100,
+        "token": "donut",
+        "content_id": "t1_kd9b9xu",
+        "parent_content_id": "t1_kd4s4ym",
+        "submission_content_id": "18h3zfr",
+        "community": "ethtrader",
+        "created_date": "2023-12-13 18:59:45.130605"
     }
 ]
