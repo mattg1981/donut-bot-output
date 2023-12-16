@@ -66070,5 +66070,17 @@
         "submission_content_id": "18iovi5",
         "community": "ethtrader",
         "created_date": "2023-12-15 17:53:12.550774"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "PublicSleeper",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kdjmx3r",
+        "parent_content_id": "t3_18j2kuk",
+        "submission_content_id": "18j2kuk",
+        "community": "ethtrader",
+        "created_date": "2023-12-15 18:09:29.063689"
     }
 ]
