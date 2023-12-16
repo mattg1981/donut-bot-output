@@ -66082,5 +66082,65 @@
         "submission_content_id": "18j2kuk",
         "community": "ethtrader",
         "created_date": "2023-12-15 18:09:29.063689"
+    },
+    {
+        "from_user": "DrDynamicyt",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kdk5erh",
+        "parent_content_id": "t3_18j84fj",
+        "submission_content_id": "18j84fj",
+        "community": "ethtrader",
+        "created_date": "2023-12-15 20:28:48.274437"
+    },
+    {
+        "from_user": "DrDynamicyt",
+        "to_user": "Repulsive-Minimum-20",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kdk5q37",
+        "parent_content_id": "t3_18j7rrx",
+        "submission_content_id": "18j7rrx",
+        "community": "ethtrader",
+        "created_date": "2023-12-15 20:31:15.899663"
+    },
+    {
+        "from_user": "DrDynamicyt",
+        "to_user": "Dapper-Horror3112",
+        "to_user_registered": 1,
+        "amount": 1.2,
+        "token": "donut",
+        "content_id": "t1_kdk5w14",
+        "parent_content_id": "t3_18j7ncq",
+        "submission_content_id": "18j7ncq",
+        "community": "ethtrader",
+        "created_date": "2023-12-15 20:32:27.829703"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "goldyluckinblokchain",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kdk8lin",
+        "parent_content_id": "t3_18jcipa",
+        "submission_content_id": "18jcipa",
+        "community": "ethtrader",
+        "created_date": "2023-12-15 20:54:20.251817"
+    },
+    {
+        "from_user": "ablablababla",
+        "to_user": "mattg1981",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kdkaati",
+        "parent_content_id": "t3_18c821k",
+        "submission_content_id": "18c821k",
+        "community": "ethtrader",
+        "created_date": "2023-12-15 21:07:49.200803"
     }
 ]
