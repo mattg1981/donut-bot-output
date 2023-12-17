@@ -68938,5 +68938,89 @@
         "submission_content_id": "18k0k3o",
         "community": "ethtrader",
         "created_date": "2023-12-16 15:42:38.396584"
+    },
+    {
+        "from_user": "Ben_Pars",
+        "to_user": "yester_philippines",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kdo98y2",
+        "parent_content_id": "t3_18jprpa",
+        "submission_content_id": "18jprpa",
+        "community": "ethtrader",
+        "created_date": "2023-12-16 16:03:21.978657"
+    },
+    {
+        "from_user": "Ben_Pars",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kdo9dm2",
+        "parent_content_id": "t3_18k0k3o",
+        "submission_content_id": "18k0k3o",
+        "community": "ethtrader",
+        "created_date": "2023-12-16 16:04:16.023572"
+    },
+    {
+        "from_user": "CreepToeCurrentSea",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 69,
+        "token": "donut",
+        "content_id": "t1_kdo9ktb",
+        "parent_content_id": "t3_18k0k3o",
+        "submission_content_id": "18k0k3o",
+        "community": "ethtrader",
+        "created_date": "2023-12-16 16:05:26.507571"
+    },
+    {
+        "from_user": "MajoraAfterMidnight",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kdobmv0",
+        "parent_content_id": "t3_18k0k3o",
+        "submission_content_id": "18k0k3o",
+        "community": "ethtrader",
+        "created_date": "2023-12-16 16:17:42.927644"
+    },
+    {
+        "from_user": "emyfsh201",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kdocpf4",
+        "parent_content_id": "t3_18k0k3o",
+        "submission_content_id": "18k0k3o",
+        "community": "ethtrader",
+        "created_date": "2023-12-16 16:24:19.692343"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kdokx3a",
+        "parent_content_id": "t3_18k0k3o",
+        "submission_content_id": "18k0k3o",
+        "community": "ethtrader",
+        "created_date": "2023-12-16 17:17:02.046143"
+    },
+    {
+        "from_user": "timbulance",
+        "to_user": "MrPuma86",
+        "to_user_registered": 1,
+        "amount": 10,
+        "token": "donut",
+        "content_id": "t1_kdolm79",
+        "parent_content_id": "t3_18gwvpf",
+        "submission_content_id": "18gwvpf",
+        "community": "ethtrader",
+        "created_date": "2023-12-16 17:21:53.690481"
     }
 ]
