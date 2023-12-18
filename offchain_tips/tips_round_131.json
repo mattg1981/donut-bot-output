@@ -72346,5 +72346,17 @@
         "submission_content_id": "18ktlyg",
         "community": "ethtrader",
         "created_date": "2023-12-17 17:26:18.217835"
+    },
+    {
+        "from_user": "tahiraslam8k",
+        "to_user": "goldyluckinblokchain",
+        "to_user_registered": 1,
+        "amount": 10,
+        "token": "donut",
+        "content_id": "t1_kdtp6xh",
+        "parent_content_id": "t3_18ktlyg",
+        "submission_content_id": "18ktlyg",
+        "community": "ethtrader",
+        "created_date": "2023-12-17 18:07:56.072728"
     }
 ]
