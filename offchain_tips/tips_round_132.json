@@ -8374,5 +8374,41 @@
         "submission_content_id": "18opi56",
         "community": "ethtrader",
         "created_date": "2023-12-22 15:52:41.656293"
+    },
+    {
+        "from_user": "Barcode011011",
+        "to_user": "yester_philippines",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_keiuraj",
+        "parent_content_id": "t3_18oiz03",
+        "submission_content_id": "18oiz03",
+        "community": "ethtrader",
+        "created_date": "2023-12-22 16:27:52.419751"
+    },
+    {
+        "from_user": "ablablababla",
+        "to_user": "Thoufeeq_TaK",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kej2qxq",
+        "parent_content_id": "t3_18opi56",
+        "submission_content_id": "18opi56",
+        "community": "ethtrader",
+        "created_date": "2023-12-22 17:21:19.121224"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "Prog132487",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kej7fqk",
+        "parent_content_id": "t3_18oouiz",
+        "submission_content_id": "18oouiz",
+        "community": "ethtrader",
+        "created_date": "2023-12-22 17:53:40.219999"
     }
 ]
