@@ -14062,5 +14062,65 @@
         "submission_content_id": "18q3crp",
         "community": "ethtrader",
         "created_date": "2023-12-24 17:26:54.754621"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ket0ly8",
+        "parent_content_id": "t3_18q274a",
+        "submission_content_id": "18q274a",
+        "community": "ethtrader",
+        "created_date": "2023-12-24 18:09:41.894516"
+    },
+    {
+        "from_user": "Abdeliq",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ket17ma",
+        "parent_content_id": "t3_18q3crp",
+        "submission_content_id": "18q3crp",
+        "community": "ethtrader",
+        "created_date": "2023-12-24 18:14:30.401746"
+    },
+    {
+        "from_user": "Abdeliq",
+        "to_user": "DrDynamicyt",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ket1a48",
+        "parent_content_id": "t3_18q2xs3",
+        "submission_content_id": "18q2xs3",
+        "community": "ethtrader",
+        "created_date": "2023-12-24 18:14:57.060788"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "Electrical_Tension",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_ketacos",
+        "parent_content_id": "t3_18pzesv",
+        "submission_content_id": "18pzesv",
+        "community": "ethtrader",
+        "created_date": "2023-12-24 19:30:27.458932"
+    },
+    {
+        "from_user": "Downtown_Yam9137",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_ketdm2h",
+        "parent_content_id": "t3_18q3crp",
+        "submission_content_id": "18q3crp",
+        "community": "ethtrader",
+        "created_date": "2023-12-24 19:59:17.643719"
     }
 ]
