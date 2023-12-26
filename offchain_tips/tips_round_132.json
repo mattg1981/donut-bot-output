@@ -17882,7 +17882,7 @@
     {
         "from_user": "Lokiee0077",
         "to_user": "Ok_Teacher_6834",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 1,
         "token": "donut",
         "content_id": "t1_keyluer",
@@ -20170,5 +20170,101 @@
         "submission_content_id": "18r7mde",
         "community": "ethtrader",
         "created_date": "2023-12-26 13:58:52.526741"
+    },
+    {
+        "from_user": "TheNano100",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 3.14,
+        "token": "donut",
+        "content_id": "t1_kf12au2",
+        "parent_content_id": "t3_18r7rpp",
+        "submission_content_id": "18r7rpp",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 14:22:18.633666"
+    },
+    {
+        "from_user": "TheNano100",
+        "to_user": "aminok",
+        "to_user_registered": 1,
+        "amount": 3.33,
+        "token": "donut",
+        "content_id": "t1_kf13g6r",
+        "parent_content_id": "t3_18r5uce",
+        "submission_content_id": "18r5uce",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 14:29:31.821470"
+    },
+    {
+        "from_user": "Repulsive-Minimum-20",
+        "to_user": "DrDynamicyt",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kf14cdx",
+        "parent_content_id": "t3_18re98r",
+        "submission_content_id": "18re98r",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 14:35:21.376191"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "Elon_mkus",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kf18b2n",
+        "parent_content_id": "t3_18rd85c",
+        "submission_content_id": "18rd85c",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 15:00:47.630319"
+    },
+    {
+        "from_user": "pythonskynet",
+        "to_user": "Boo-Lemon",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kf19083",
+        "parent_content_id": "t3_18ri3bw",
+        "submission_content_id": "18ri3bw",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 15:05:30.096747"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kf19n0g",
+        "parent_content_id": "t3_18r2z1n",
+        "submission_content_id": "18r2z1n",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 15:09:33.905130"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "Weekly-Leather7581",
+        "to_user_registered": 0,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kf19s3e",
+        "parent_content_id": "t3_18r793p",
+        "submission_content_id": "18r793p",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 15:10:27.817588"
+    },
+    {
+        "from_user": "TheNano100",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kf1f7w1",
+        "parent_content_id": "t3_18riv4d",
+        "submission_content_id": "18riv4d",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 15:45:30.299906"
     }
 ]
