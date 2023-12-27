@@ -20398,5 +20398,53 @@
         "submission_content_id": "18rl5c0",
         "community": "ethtrader",
         "created_date": "2023-12-26 17:55:11.767900"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kf211ww",
+        "parent_content_id": "t3_18rbc4p",
+        "submission_content_id": "18rbc4p",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 18:14:37.224361"
+    },
+    {
+        "from_user": "mattg1981",
+        "to_user": "DrDynamicyt",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kf23g64",
+        "parent_content_id": "t3_18re98r",
+        "submission_content_id": "18re98r",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 18:31:45.206339"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "BackgroundEntrance44",
+        "to_user_registered": 0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kf2epth",
+        "parent_content_id": "t3_18rbuya",
+        "submission_content_id": "18rbuya",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 19:52:27.142950"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "Elon_mkus",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kf2erwy",
+        "parent_content_id": "t3_18rd85c",
+        "submission_content_id": "18rd85c",
+        "community": "ethtrader",
+        "created_date": "2023-12-26 19:52:54.702488"
     }
 ]
