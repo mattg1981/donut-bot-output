@@ -29314,5 +29314,77 @@
         "submission_content_id": "18tpzcu",
         "community": "ethtrader",
         "created_date": "2023-12-29 09:55:18.198042"
+    },
+    {
+        "from_user": "bvandepol",
+        "to_user": "FattestLion",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kfffgal",
+        "parent_content_id": "t1_kff6ei6",
+        "submission_content_id": "18t96x4",
+        "community": "ethtrader",
+        "created_date": "2023-12-29 10:18:12.340401"
+    },
+    {
+        "from_user": "DrRobbe",
+        "to_user": "Hotwinter88",
+        "to_user_registered": 0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kffi340",
+        "parent_content_id": "t3_18tpzcu",
+        "submission_content_id": "18tpzcu",
+        "community": "ethtrader",
+        "created_date": "2023-12-29 10:34:31.013699"
+    },
+    {
+        "from_user": "Fredzoor",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 4,
+        "token": "donut",
+        "content_id": "t1_kffiqxi",
+        "parent_content_id": "t3_18tq7tk",
+        "submission_content_id": "18tq7tk",
+        "community": "ethtrader",
+        "created_date": "2023-12-29 10:38:27.881364"
+    },
+    {
+        "from_user": "timbulance",
+        "to_user": "Hotwinter88",
+        "to_user_registered": 0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfft4a1",
+        "parent_content_id": "t3_18tpzcu",
+        "submission_content_id": "18tpzcu",
+        "community": "ethtrader",
+        "created_date": "2023-12-29 11:41:21.366653"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "Sharp-Subject-047",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kffup04",
+        "parent_content_id": "t3_18tfh4s",
+        "submission_content_id": "18tfh4s",
+        "community": "ethtrader",
+        "created_date": "2023-12-29 11:50:51.139114"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "DrDynamicyt",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kffvt3b",
+        "parent_content_id": "t3_18trbio",
+        "submission_content_id": "18trbio",
+        "community": "ethtrader",
+        "created_date": "2023-12-29 11:57:16.986840"
     }
 ]
