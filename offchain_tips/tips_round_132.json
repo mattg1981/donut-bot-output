@@ -27838,5 +27838,41 @@
         "submission_content_id": "18swxl4",
         "community": "ethtrader",
         "created_date": "2023-12-28 17:39:46.247209"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "ASingleGuitarString",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kfce7gs",
+        "parent_content_id": "t3_18t3u4x",
+        "submission_content_id": "18t3u4x",
+        "community": "ethtrader",
+        "created_date": "2023-12-28 18:24:24.693701"
+    },
+    {
+        "from_user": "ASingleGuitarString",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 1.2,
+        "token": "donut",
+        "content_id": "t1_kfce8kp",
+        "parent_content_id": "t3_18t5e4d",
+        "submission_content_id": "18t5e4d",
+        "community": "ethtrader",
+        "created_date": "2023-12-28 18:24:30.634227"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Fredzoor",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kfcpqll",
+        "parent_content_id": "t3_18swwf4",
+        "submission_content_id": "18swwf4",
+        "community": "ethtrader",
+        "created_date": "2023-12-28 19:42:31.383395"
     }
 ]
