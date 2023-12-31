@@ -33070,5 +33070,41 @@
         "submission_content_id": "18up2i2",
         "community": "ethtrader",
         "created_date": "2023-12-30 17:30:55.026811"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "eat-sleep-rave",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kfmmn74",
+        "parent_content_id": "t3_18um62w",
+        "submission_content_id": "18um62w",
+        "community": "ethtrader",
+        "created_date": "2023-12-30 18:15:41.629358"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kfmnl4c",
+        "parent_content_id": "t3_18upcmf",
+        "submission_content_id": "18upcmf",
+        "community": "ethtrader",
+        "created_date": "2023-12-30 18:21:46.684622"
+    },
+    {
+        "from_user": "timbulance",
+        "to_user": "Downtown_Yam9137",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfn1mlc",
+        "parent_content_id": "t3_18uvun8",
+        "submission_content_id": "18uvun8",
+        "community": "ethtrader",
+        "created_date": "2023-12-30 19:53:07.256548"
     }
 ]
