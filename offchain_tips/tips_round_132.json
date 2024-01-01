@@ -35470,5 +35470,65 @@
         "submission_content_id": "18vbz7r",
         "community": "ethtrader",
         "created_date": "2023-12-31 14:55:39.442257"
+    },
+    {
+        "from_user": "nakamo-toe",
+        "to_user": "Gubbie99",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfrajzb",
+        "parent_content_id": "t3_18v5bjh",
+        "submission_content_id": "18v5bjh",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 16:20:11.718364"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kfrkp82",
+        "parent_content_id": "t3_18v2szi",
+        "submission_content_id": "18v2szi",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 17:30:59.113686"
+    },
+    {
+        "from_user": "Fredzoor",
+        "to_user": "teeceaustralia",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kfrn5z6",
+        "parent_content_id": "t3_18vhywr",
+        "submission_content_id": "18vhywr",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 17:47:56.173946"
+    },
+    {
+        "from_user": "Fredzoor",
+        "to_user": "bzzking",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kfrn7ai",
+        "parent_content_id": "t3_18vd51z",
+        "submission_content_id": "18vd51z",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 17:48:18.376788"
+    },
+    {
+        "from_user": "Abdeliq",
+        "to_user": "MasterpieceLoud4931",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfrnow8",
+        "parent_content_id": "t3_18ve04z",
+        "submission_content_id": "18ve04z",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 17:51:35.913379"
     }
 ]
