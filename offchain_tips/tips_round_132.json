@@ -35698,5 +35698,101 @@
         "submission_content_id": "18v366g",
         "community": "ethtrader",
         "created_date": "2023-12-31 21:49:55.104553"
+    },
+    {
+        "from_user": "proandromeda",
+        "to_user": "Prog132487",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfsklw4",
+        "parent_content_id": "t3_18u990o",
+        "submission_content_id": "18u990o",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 22:04:51.286030"
+    },
+    {
+        "from_user": "proandromeda",
+        "to_user": "bzzking",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfskqyk",
+        "parent_content_id": "t3_18vd51z",
+        "submission_content_id": "18vd51z",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 22:06:12.319479"
+    },
+    {
+        "from_user": "proandromeda",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfsku55",
+        "parent_content_id": "t1_kfq7i3z",
+        "submission_content_id": "18vd51z",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 22:06:57.662771"
+    },
+    {
+        "from_user": "ASingleGuitarString",
+        "to_user": "Downtown_Yam9137",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfsllhv",
+        "parent_content_id": "t3_18vn7lj",
+        "submission_content_id": "18vn7lj",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 22:13:57.105550"
+    },
+    {
+        "from_user": "Dieselpump510",
+        "to_user": "boiboi3434",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfslvwp",
+        "parent_content_id": "t3_18vnhzd",
+        "submission_content_id": "18vnhzd",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 22:16:31.311257"
+    },
+    {
+        "from_user": "NSFWCryptoPosting",
+        "to_user": "lebbadnurzzm",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfsteb5",
+        "parent_content_id": "t1_kfst65z",
+        "submission_content_id": "18vkxbv",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 23:31:02.039559"
+    },
+    {
+        "from_user": "rare1994",
+        "to_user": "bzzking",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kfsv5rj",
+        "parent_content_id": "t3_18vd51z",
+        "submission_content_id": "18vd51z",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 23:49:10.266504"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "FlashyAd8082",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kfsvwtq",
+        "parent_content_id": "t3_18vpvv1",
+        "submission_content_id": "18vpvv1",
+        "community": "ethtrader",
+        "created_date": "2023-12-31 23:56:54.230142"
     }
 ]
