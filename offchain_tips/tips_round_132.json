@@ -37810,5 +37810,65 @@
         "submission_content_id": "18vtsnw",
         "community": "ethtrader",
         "created_date": "2024-01-01 13:59:49.634819"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "FattestLion",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kfvifxp",
+        "parent_content_id": "t3_18vr5nc",
+        "submission_content_id": "18vr5nc",
+        "community": "ethtrader",
+        "created_date": "2024-01-01 14:05:27.544637"
+    },
+    {
+        "from_user": "timbulance",
+        "to_user": "Ben_Pars",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kfvt2iw",
+        "parent_content_id": "t1_kfvqhqc",
+        "submission_content_id": "18w6ats",
+        "community": "ethtrader",
+        "created_date": "2024-01-01 15:07:51.488977"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kfvw509",
+        "parent_content_id": "t3_18w6ats",
+        "submission_content_id": "18w6ats",
+        "community": "ethtrader",
+        "created_date": "2024-01-01 15:26:05.909901"
+    },
+    {
+        "from_user": "rare1994",
+        "to_user": "No-Elephant-Dies",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kfvwxms",
+        "parent_content_id": "t3_18w12g8",
+        "submission_content_id": "18w12g8",
+        "community": "ethtrader",
+        "created_date": "2024-01-01 15:30:59.550614"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kfw15g3",
+        "parent_content_id": "t3_18vus2f",
+        "submission_content_id": "18vus2f",
+        "community": "ethtrader",
+        "created_date": "2024-01-01 15:56:36.193913"
     }
 ]
