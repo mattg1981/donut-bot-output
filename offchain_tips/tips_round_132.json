@@ -41362,5 +41362,77 @@
         "submission_content_id": "18wshkg",
         "community": "ethtrader",
         "created_date": "2024-01-02 13:56:26.898807"
+    },
+    {
+        "from_user": "Fredzoor",
+        "to_user": "Sky-876",
+        "to_user_registered": 1,
+        "amount": 4,
+        "token": "donut",
+        "content_id": "t1_kg0wzqj",
+        "parent_content_id": "t3_18ws4t1",
+        "submission_content_id": "18ws4t1",
+        "community": "ethtrader",
+        "created_date": "2024-01-02 14:26:02.562322"
+    },
+    {
+        "from_user": "DrDynamicyt",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 2.5,
+        "token": "donut",
+        "content_id": "t1_kg0xg9v",
+        "parent_content_id": "t3_18ww737",
+        "submission_content_id": "18ww737",
+        "community": "ethtrader",
+        "created_date": "2024-01-02 14:28:32.260831"
+    },
+    {
+        "from_user": "DrRobbe",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kg16xki",
+        "parent_content_id": "t3_18ww737",
+        "submission_content_id": "18ww737",
+        "community": "ethtrader",
+        "created_date": "2024-01-02 15:22:44.837295"
+    },
+    {
+        "from_user": "pythonskynet",
+        "to_user": "DrDynamicyt",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kg193hk",
+        "parent_content_id": "t3_18wz62p",
+        "submission_content_id": "18wz62p",
+        "community": "ethtrader",
+        "created_date": "2024-01-02 15:34:54.660159"
+    },
+    {
+        "from_user": "Abdeliq",
+        "to_user": "ShadowKnight324",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kg19iws",
+        "parent_content_id": "t1_kg0y0sc",
+        "submission_content_id": "18wbegb",
+        "community": "ethtrader",
+        "created_date": "2024-01-02 15:37:22.765767"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kg19no1",
+        "parent_content_id": "t3_18x0c26",
+        "submission_content_id": "18x0c26",
+        "community": "ethtrader",
+        "created_date": "2024-01-02 15:38:11.198936"
     }
 ]
