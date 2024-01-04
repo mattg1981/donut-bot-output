@@ -45346,5 +45346,77 @@
         "submission_content_id": "18xnpls",
         "community": "ethtrader",
         "created_date": "2024-01-03 17:10:02.535332"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "Positive-Gazelle2603",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kg7gopq",
+        "parent_content_id": "t3_18xt6q5",
+        "submission_content_id": "18xt6q5",
+        "community": "ethtrader",
+        "created_date": "2024-01-03 18:24:35.878660"
+    },
+    {
+        "from_user": "timbulance",
+        "to_user": "Positive-Gazelle2603",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kg7h1wv",
+        "parent_content_id": "t3_18xt6q5",
+        "submission_content_id": "18xt6q5",
+        "community": "ethtrader",
+        "created_date": "2024-01-03 18:26:53.349046"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kg7hnok",
+        "parent_content_id": "t3_18xwgeu",
+        "submission_content_id": "18xwgeu",
+        "community": "ethtrader",
+        "created_date": "2024-01-03 18:30:42.300610"
+    },
+    {
+        "from_user": "timbulance",
+        "to_user": "foreignGER",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kg7hx52",
+        "parent_content_id": "t3_18xqvm2",
+        "submission_content_id": "18xqvm2",
+        "community": "ethtrader",
+        "created_date": "2024-01-03 18:32:27.423483"
+    },
+    {
+        "from_user": "timbulance",
+        "to_user": "Electrical_Tension",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kg7jkcd",
+        "parent_content_id": "t3_18xqmdg",
+        "submission_content_id": "18xqmdg",
+        "community": "ethtrader",
+        "created_date": "2024-01-03 18:42:52.630622"
+    },
+    {
+        "from_user": "Mrwiowijo",
+        "to_user": "MrPuma86",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kg7ngm5",
+        "parent_content_id": "t1_kg7hucu",
+        "submission_content_id": "18x57za",
+        "community": "ethtrader",
+        "created_date": "2024-01-03 19:07:25.945785"
     }
 ]
