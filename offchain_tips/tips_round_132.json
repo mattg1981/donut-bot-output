@@ -49654,5 +49654,29 @@
         "submission_content_id": "18yg9q3",
         "community": "ethtrader",
         "created_date": "2024-01-04 19:40:03.023985"
+    },
+    {
+        "from_user": "Consistent-Revenue61",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 2.1,
+        "token": "donut",
+        "content_id": "t1_kgdp6tj",
+        "parent_content_id": "t3_18yqq62",
+        "submission_content_id": "18yqq62",
+        "community": "ethtrader",
+        "created_date": "2024-01-04 21:11:26.511193"
+    },
+    {
+        "from_user": "FattestLion",
+        "to_user": "TruthSeeekeer",
+        "to_user_registered": 1,
+        "amount": 69,
+        "token": "donut",
+        "content_id": "t1_kgdr5i8",
+        "parent_content_id": "t1_kgdr0mw",
+        "submission_content_id": "18yst30",
+        "community": "ethtrader",
+        "created_date": "2024-01-04 21:25:04.595838"
     }
 ]
