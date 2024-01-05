@@ -49678,5 +49678,17 @@
         "submission_content_id": "18yst30",
         "community": "ethtrader",
         "created_date": "2024-01-04 21:25:04.595838"
+    },
+    {
+        "from_user": "HarryDotter420",
+        "to_user": "ASingleGuitarString",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kgeal2p",
+        "parent_content_id": "t3_18yxdqy",
+        "submission_content_id": "18yxdqy",
+        "community": "ethtrader",
+        "created_date": "2024-01-04 23:59:17.783810"
     }
 ]
