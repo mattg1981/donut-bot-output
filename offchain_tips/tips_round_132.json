@@ -70498,5 +70498,101 @@
         "submission_content_id": "192qjgr",
         "community": "ethtrader",
         "created_date": "2024-01-09 21:40:59.456692"
+    },
+    {
+        "from_user": "Bringerofsalvation",
+        "to_user": "Electrical_Tension",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kh5wflr",
+        "parent_content_id": "t3_192yzpq",
+        "submission_content_id": "192yzpq",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 22:32:15.989922"
+    },
+    {
+        "from_user": "Bringerofsalvation",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kh5wgfp",
+        "parent_content_id": "t3_192yhf5",
+        "submission_content_id": "192yhf5",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 22:32:16.815909"
+    },
+    {
+        "from_user": "Bringerofsalvation",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kh5wgyv",
+        "parent_content_id": "t3_192ybe8",
+        "submission_content_id": "192ybe8",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 22:32:19.706313"
+    },
+    {
+        "from_user": "ASingleGuitarString",
+        "to_user": "Electrical_Tension",
+        "to_user_registered": 1,
+        "amount": 1.7,
+        "token": "donut",
+        "content_id": "t1_kh5ydir",
+        "parent_content_id": "t3_192yzpq",
+        "submission_content_id": "192yzpq",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 22:47:45.344890"
+    },
+    {
+        "from_user": "NSFWCryptoPosting",
+        "to_user": "proandromeda",
+        "to_user_registered": 1,
+        "amount": 10,
+        "token": "donut",
+        "content_id": "t1_kh5yl81",
+        "parent_content_id": "t3_192hqio",
+        "submission_content_id": "192hqio",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 22:49:42.840985"
+    },
+    {
+        "from_user": "Buzzalu",
+        "to_user": "Electrical_Tension",
+        "to_user_registered": 1,
+        "amount": 2.22,
+        "token": "donut",
+        "content_id": "t1_kh5z9gi",
+        "parent_content_id": "t3_192yzpq",
+        "submission_content_id": "192yzpq",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 22:55:11.256952"
+    },
+    {
+        "from_user": "Honey_-_Badger",
+        "to_user": "FattestLion",
+        "to_user_registered": 1,
+        "amount": 4.2069,
+        "token": "donut",
+        "content_id": "t1_kh62iuu",
+        "parent_content_id": "t1_kh62bsx",
+        "submission_content_id": "192ui5d",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 23:22:46.705211"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "Electrical_Tension",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kh62nlj",
+        "parent_content_id": "t3_192yzpq",
+        "submission_content_id": "192yzpq",
+        "community": "ethtrader",
+        "created_date": "2024-01-09 23:24:02.740908"
     }
 ]
