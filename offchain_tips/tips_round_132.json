@@ -74902,5 +74902,29 @@
         "submission_content_id": "193l3jt",
         "community": "ethtrader",
         "created_date": "2024-01-10 17:23:17.424017"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_khafhpg",
+        "parent_content_id": "t3_193k5v2",
+        "submission_content_id": "193k5v2",
+        "community": "ethtrader",
+        "created_date": "2024-01-10 18:16:51.584475"
+    },
+    {
+        "from_user": "PeacockMamba",
+        "to_user": "Titozar13",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_khatz3p",
+        "parent_content_id": "t1_kha8g23",
+        "submission_content_id": "193lz8l",
+        "community": "ethtrader",
+        "created_date": "2024-01-10 19:48:54.845414"
     }
 ]
