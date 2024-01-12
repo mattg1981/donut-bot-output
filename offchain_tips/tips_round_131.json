@@ -31538,7 +31538,7 @@
     {
         "from_user": "Ben_Dover1234",
         "to_user": "kbytzer",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 1,
         "token": "donut",
         "content_id": "t1_kby1wyn",
