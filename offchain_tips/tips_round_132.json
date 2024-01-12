@@ -80350,5 +80350,29 @@
         "submission_content_id": "194f8m9",
         "community": "ethtrader",
         "created_date": "2024-01-11 19:52:28.050535"
+    },
+    {
+        "from_user": "Carretje",
+        "to_user": "Prog132487",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_khgk17q",
+        "parent_content_id": "t3_194cjzc",
+        "submission_content_id": "194cjzc",
+        "community": "ethtrader",
+        "created_date": "2024-01-11 20:26:46.563408"
+    },
+    {
+        "from_user": "nakamo-toe",
+        "to_user": "SeatedDruid",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_khgma3y",
+        "parent_content_id": "t1_khghu1e",
+        "submission_content_id": "193swnr",
+        "community": "ethtrader",
+        "created_date": "2024-01-11 20:41:29.996504"
     }
 ]
