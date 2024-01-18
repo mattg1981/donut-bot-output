@@ -2878,5 +2878,53 @@
         "submission_content_id": "19917em",
         "community": "ethtrader",
         "created_date": "2024-01-17 16:37:04.233465"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "ReitHodlr",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kics3vj",
+        "parent_content_id": "t3_199amoq",
+        "submission_content_id": "199amoq",
+        "community": "ethtrader",
+        "created_date": "2024-01-17 17:12:29.715650"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "ReitHodlr",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kicv08y",
+        "parent_content_id": "t3_199amoq",
+        "submission_content_id": "199amoq",
+        "community": "ethtrader",
+        "created_date": "2024-01-17 17:30:32.806848"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "pythonskynet",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kicvceb",
+        "parent_content_id": "t3_199a7zl",
+        "submission_content_id": "199a7zl",
+        "community": "ethtrader",
+        "created_date": "2024-01-17 17:32:44.078159"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "Fritz1818",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kicvqzu",
+        "parent_content_id": "t3_1999iln",
+        "submission_content_id": "1999iln",
+        "community": "ethtrader",
+        "created_date": "2024-01-17 17:35:19.652582"
     }
 ]
