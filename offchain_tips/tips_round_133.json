@@ -10918,5 +10918,29 @@
         "submission_content_id": "19bluc4",
         "community": "ethtrader",
         "created_date": "2024-01-20 19:20:07.505008"
+    },
+    {
+        "from_user": "Buzzalu",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 10,
+        "token": "donut",
+        "content_id": "t1_kiu8siy",
+        "parent_content_id": "t3_19bt7ec",
+        "submission_content_id": "19bt7ec",
+        "community": "ethtrader",
+        "created_date": "2024-01-20 21:34:48.399603"
+    },
+    {
+        "from_user": "Buzzalu",
+        "to_user": "ASingleGuitarString",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kiu92jv",
+        "parent_content_id": "t3_19borv7",
+        "submission_content_id": "19borv7",
+        "community": "ethtrader",
+        "created_date": "2024-01-20 21:36:41.433503"
     }
 ]
