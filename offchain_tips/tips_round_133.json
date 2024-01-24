@@ -14450,7 +14450,7 @@
     {
         "from_user": "kirtash93",
         "to_user": "Civil-Wash2352",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 3,
         "token": "donut",
         "content_id": "t1_kj0bp3z",
@@ -20702,7 +20702,7 @@
     {
         "from_user": "kirtash93",
         "to_user": "Civil-Wash2352",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 5,
         "token": "donut",
         "content_id": "t1_kj9bvan",
@@ -20722,5 +20722,77 @@
         "submission_content_id": "19dn5eu",
         "community": "ethtrader",
         "created_date": "2024-01-23 15:55:35.289739"
+    },
+    {
+        "from_user": "Jojo_0513",
+        "to_user": "Jake123194",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kj9depm",
+        "parent_content_id": "t1_kj9cz9j",
+        "submission_content_id": "19db4aa",
+        "community": "ethtrader",
+        "created_date": "2024-01-23 16:03:39.550871"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 10,
+        "token": "donut",
+        "content_id": "t1_kj9ffb0",
+        "parent_content_id": "t3_19e0enx",
+        "submission_content_id": "19e0enx",
+        "community": "ethtrader",
+        "created_date": "2024-01-23 16:15:19.484275"
+    },
+    {
+        "from_user": "Samir2298",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kj9gm82",
+        "parent_content_id": "t3_19e0enx",
+        "submission_content_id": "19e0enx",
+        "community": "ethtrader",
+        "created_date": "2024-01-23 16:21:56.102822"
+    },
+    {
+        "from_user": "Samir2298",
+        "to_user": "MrPuma86",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kj9gpez",
+        "parent_content_id": "t3_19ds9dy",
+        "submission_content_id": "19ds9dy",
+        "community": "ethtrader",
+        "created_date": "2024-01-23 16:22:27.384819"
+    },
+    {
+        "from_user": "Samir2298",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kj9gr4a",
+        "parent_content_id": "t3_19dq6jr",
+        "submission_content_id": "19dq6jr",
+        "community": "ethtrader",
+        "created_date": "2024-01-23 16:22:42.851020"
+    },
+    {
+        "from_user": "Samir2298",
+        "to_user": "SuperbCantaloupe1929",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kj9gsym",
+        "parent_content_id": "t3_19dxcs8",
+        "submission_content_id": "19dxcs8",
+        "community": "ethtrader",
+        "created_date": "2024-01-23 16:22:58.132645"
     }
 ]
