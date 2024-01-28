@@ -37750,5 +37750,65 @@
         "submission_content_id": "1abj7eh",
         "community": "ethtrader",
         "created_date": "2024-01-27 15:31:22.858360"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "Affectionate-Ice6827",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kjvc5fl",
+        "parent_content_id": "t3_1acm612",
+        "submission_content_id": "1acm612",
+        "community": "ethtrader",
+        "created_date": "2024-01-27 16:51:03.840905"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kjveji4",
+        "parent_content_id": "t3_1acgz92",
+        "submission_content_id": "1acgz92",
+        "community": "ethtrader",
+        "created_date": "2024-01-27 17:06:39.900587"
+    },
+    {
+        "from_user": "Sky-876",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kjvelzx",
+        "parent_content_id": "t3_1ac4mih",
+        "submission_content_id": "1ac4mih",
+        "community": "ethtrader",
+        "created_date": "2024-01-27 17:07:09.215958"
+    },
+    {
+        "from_user": "SuccessOtherwise2760",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kjvhiao",
+        "parent_content_id": "t3_19cxlap",
+        "submission_content_id": "19cxlap",
+        "community": "ethtrader",
+        "created_date": "2024-01-27 17:26:42.084123"
+    },
+    {
+        "from_user": "eat-sleep-rave",
+        "to_user": "Prog132487",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kjvm3iz",
+        "parent_content_id": "t3_1acet38",
+        "submission_content_id": "1acet38",
+        "community": "ethtrader",
+        "created_date": "2024-01-27 17:57:35.324161"
     }
 ]
