@@ -71050,5 +71050,41 @@
         "submission_content_id": "1ait44j",
         "community": "ethtrader",
         "created_date": "2024-02-04 18:17:58.524955"
+    },
+    {
+        "from_user": "Mrwiowijo",
+        "to_user": "Modern_Orange",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_koyusn9",
+        "parent_content_id": "t1_koys19o",
+        "submission_content_id": "1aj4t98",
+        "community": "ethtrader",
+        "created_date": "2024-02-04 20:12:10.619822"
+    },
+    {
+        "from_user": "Mrwiowijo",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_koz7h2c",
+        "parent_content_id": "t1_koz6x0m",
+        "submission_content_id": "1aj4t98",
+        "community": "ethtrader",
+        "created_date": "2024-02-04 21:40:06.370620"
+    },
+    {
+        "from_user": "DrRobbe",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_koz7qnd",
+        "parent_content_id": "t3_1aj1k0w",
+        "submission_content_id": "1aj1k0w",
+        "community": "ethtrader",
+        "created_date": "2024-02-04 21:42:01.000475"
     }
 ]
