@@ -75442,5 +75442,65 @@
         "submission_content_id": "1ajy2i4",
         "community": "ethtrader",
         "created_date": "2024-02-05 19:52:04.345386"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Sky-876",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kp4juo7",
+        "parent_content_id": "t3_1ajo4jj",
+        "submission_content_id": "1ajo4jj",
+        "community": "ethtrader",
+        "created_date": "2024-02-05 21:04:34.585289"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kp4kyd7",
+        "parent_content_id": "t3_1ajwxt0",
+        "submission_content_id": "1ajwxt0",
+        "community": "ethtrader",
+        "created_date": "2024-02-05 21:12:08.164650"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kp4kzry",
+        "parent_content_id": "t3_1ajr82n",
+        "submission_content_id": "1ajr82n",
+        "community": "ethtrader",
+        "created_date": "2024-02-05 21:12:11.017868"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Fredzoor",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kp4l2zj",
+        "parent_content_id": "t3_1ajmmyb",
+        "submission_content_id": "1ajmmyb",
+        "community": "ethtrader",
+        "created_date": "2024-02-05 21:12:55.684067"
+    },
+    {
+        "from_user": "feric89",
+        "to_user": "AgentProvocateur666",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kp4oimc",
+        "parent_content_id": "t3_1ajxjon",
+        "submission_content_id": "1ajxjon",
+        "community": "ethtrader",
+        "created_date": "2024-02-05 21:37:03.617767"
     }
 ]
