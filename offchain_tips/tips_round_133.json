@@ -79762,5 +79762,53 @@
         "submission_content_id": "1akfuxh",
         "community": "ethtrader",
         "created_date": "2024-02-06 17:47:15.448338"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 3.69,
+        "token": "donut",
+        "content_id": "t1_kp9fgol",
+        "parent_content_id": "t3_1akoz6f",
+        "submission_content_id": "1akoz6f",
+        "community": "ethtrader",
+        "created_date": "2024-02-06 18:38:02.775332"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Fredzoor",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kp9onfj",
+        "parent_content_id": "t3_1akl93y",
+        "submission_content_id": "1akl93y",
+        "community": "ethtrader",
+        "created_date": "2024-02-06 19:36:44.889363"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "mattg1981",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kp9ovxz",
+        "parent_content_id": "t3_1akfuxh",
+        "submission_content_id": "1akfuxh",
+        "community": "ethtrader",
+        "created_date": "2024-02-06 19:38:28.887756"
+    },
+    {
+        "from_user": "Mrwiowijo",
+        "to_user": "Carretje",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kp9qopj",
+        "parent_content_id": "t1_kp9q6pt",
+        "submission_content_id": "1akr69a",
+        "community": "ethtrader",
+        "created_date": "2024-02-06 19:49:41.313428"
     }
 ]
