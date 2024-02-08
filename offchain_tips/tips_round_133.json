@@ -78926,7 +78926,7 @@
     {
         "from_user": "kirtash93",
         "to_user": "I_know_my_Stuff",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 5,
         "token": "donut",
         "content_id": "t1_kp7alcp",
@@ -78938,7 +78938,7 @@
     {
         "from_user": "rikbona",
         "to_user": "I_know_my_Stuff",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 10,
         "token": "donut",
         "content_id": "t1_kp7dmnh",
@@ -78962,7 +78962,7 @@
     {
         "from_user": "rikbona",
         "to_user": "I_know_my_Stuff",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 5,
         "token": "donut",
         "content_id": "t1_kp7gpy7",
@@ -84050,7 +84050,7 @@
     {
         "from_user": "Sky-876",
         "to_user": "qldvaper88",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 2,
         "token": "donut",
         "content_id": "t1_kpef4dv",
@@ -84062,7 +84062,7 @@
     {
         "from_user": "dead-spiral",
         "to_user": "qldvaper88",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 6.9,
         "token": "donut",
         "content_id": "t1_kpef6g8",
@@ -84106,5 +84106,41 @@
         "submission_content_id": "1al8i03",
         "community": "ethtrader",
         "created_date": "2024-02-07 17:58:59.068335"
+    },
+    {
+        "from_user": "FattestLion",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kpexeoj",
+        "parent_content_id": "t3_1alhwh7",
+        "submission_content_id": "1alhwh7",
+        "community": "ethtrader",
+        "created_date": "2024-02-07 18:29:53.543271"
+    },
+    {
+        "from_user": "jennyYESs",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kpez3il",
+        "parent_content_id": "t3_1alhwh7",
+        "submission_content_id": "1alhwh7",
+        "community": "ethtrader",
+        "created_date": "2024-02-07 18:40:40.530653"
+    },
+    {
+        "from_user": "FattestLion",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kpf0yeb",
+        "parent_content_id": "t3_1al7mu4",
+        "submission_content_id": "1al7mu4",
+        "community": "ethtrader",
+        "created_date": "2024-02-07 18:52:31.657459"
     }
 ]
