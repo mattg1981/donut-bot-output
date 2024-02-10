@@ -90562,5 +90562,77 @@
         "submission_content_id": "1amqroi",
         "community": "ethtrader",
         "created_date": "2024-02-09 15:57:18.429195"
+    },
+    {
+        "from_user": "ContemplatingMeth_",
+        "to_user": "cryptonitelife",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kpp83ns",
+        "parent_content_id": "t3_1amz6hs",
+        "submission_content_id": "1amz6hs",
+        "community": "ethtrader",
+        "created_date": "2024-02-09 16:19:02.931932"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "Diligent_Eye1248",
+        "to_user_registered": 0,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kpp9ra6",
+        "parent_content_id": "t3_1amzk8i",
+        "submission_content_id": "1amzk8i",
+        "community": "ethtrader",
+        "created_date": "2024-02-09 16:29:20.364302"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "abcoathup",
+        "to_user_registered": 1,
+        "amount": 20,
+        "token": "donut",
+        "content_id": "t1_kpphlzx",
+        "parent_content_id": "t3_1an1inq",
+        "submission_content_id": "1an1inq",
+        "community": "ethtrader",
+        "created_date": "2024-02-09 17:18:51.418803"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "abcoathup",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kppj0sq",
+        "parent_content_id": "t3_1an1inq",
+        "submission_content_id": "1an1inq",
+        "community": "ethtrader",
+        "created_date": "2024-02-09 17:28:15.406702"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "cryptonitelife",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kppj6bm",
+        "parent_content_id": "t3_1an0xy1",
+        "submission_content_id": "1an0xy1",
+        "community": "ethtrader",
+        "created_date": "2024-02-09 17:29:02.400247"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "_AegonTarg",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kppjca0",
+        "parent_content_id": "t3_1an0ecm",
+        "submission_content_id": "1an0ecm",
+        "community": "ethtrader",
+        "created_date": "2024-02-09 17:30:06.934755"
     }
 ]
