@@ -78914,7 +78914,7 @@
     {
         "from_user": "kirtash93",
         "to_user": "pre_buchi",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 3,
         "token": "donut",
         "content_id": "t1_kp7a14y",
@@ -105946,5 +105946,65 @@
         "submission_content_id": "1aq3xfi",
         "community": "ethtrader",
         "created_date": "2024-02-13 15:56:53.985500"
+    },
+    {
+        "from_user": "DrRobbe",
+        "to_user": "mattg1981",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kqapuo1",
+        "parent_content_id": "t3_1apzz09",
+        "submission_content_id": "1apzz09",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 16:02:34.150594"
+    },
+    {
+        "from_user": "Major-Remove-7190",
+        "to_user": "MrPuma86",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kqav6e2",
+        "parent_content_id": "t1_kqaui8g",
+        "submission_content_id": "1aq0zkj",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 16:33:27.201127"
+    },
+    {
+        "from_user": "Ben_Pars",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kqavxxz",
+        "parent_content_id": "t3_1aq5lge",
+        "submission_content_id": "1aq5lge",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 16:38:04.159481"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "yamaniac123",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kqb7o5c",
+        "parent_content_id": "t3_1aq73jf",
+        "submission_content_id": "1aq73jf",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 17:51:33.583699"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kqb7wgn",
+        "parent_content_id": "t3_1aq5lge",
+        "submission_content_id": "1aq5lge",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 17:52:51.064260"
     }
 ]
