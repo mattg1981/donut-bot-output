@@ -106246,5 +106246,65 @@
         "submission_content_id": "1aqd42j",
         "community": "ethtrader",
         "created_date": "2024-02-13 21:58:49.518528"
+    },
+    {
+        "from_user": "Every_Hunt_160",
+        "to_user": "MonitorFlat229",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kqcbhwh",
+        "parent_content_id": "t1_kqc8qpb",
+        "submission_content_id": "1aqb07t",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 22:21:25.909749"
+    },
+    {
+        "from_user": "MonitorFlat229",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 6.9,
+        "token": "donut",
+        "content_id": "t1_kqcds0z",
+        "parent_content_id": "t1_kqcbhwh",
+        "submission_content_id": "1aqb07t",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 22:39:30.347063"
+    },
+    {
+        "from_user": "thelonliestcrowd",
+        "to_user": "MrPuma86",
+        "to_user_registered": 1,
+        "amount": 2.5,
+        "token": "donut",
+        "content_id": "t1_kqcg8f7",
+        "parent_content_id": "t1_kqax08d",
+        "submission_content_id": "1apcrls",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 23:00:22.408018"
+    },
+    {
+        "from_user": "yamaniac123",
+        "to_user": "lordciders",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kqcjpq5",
+        "parent_content_id": "t3_1aqewbi",
+        "submission_content_id": "1aqewbi",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 23:31:40.447204"
+    },
+    {
+        "from_user": "EpicureanMystic",
+        "to_user": "ellileon",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kqclv0k",
+        "parent_content_id": "t3_1ailybz",
+        "submission_content_id": "1ailybz",
+        "community": "ethtrader",
+        "created_date": "2024-02-13 23:52:12.951946"
     }
 ]
