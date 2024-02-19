@@ -22246,5 +22246,101 @@
         "submission_content_id": "1aua6oo",
         "community": "ethtrader",
         "created_date": "2024-02-18 19:22:49.674753"
+    },
+    {
+        "from_user": "MonitorFlat229",
+        "to_user": "coindoing",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kr2y3i7",
+        "parent_content_id": "t3_1au52c6",
+        "submission_content_id": "1au52c6",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 20:27:37.010952"
+    },
+    {
+        "from_user": "MonitorFlat229",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 3,
+        "token": "donut",
+        "content_id": "t1_kr33omo",
+        "parent_content_id": "t3_1au9pxb",
+        "submission_content_id": "1au9pxb",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 21:07:19.983338"
+    },
+    {
+        "from_user": "NSFWCryptoPosting",
+        "to_user": "aminok",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_kr37lpe",
+        "parent_content_id": "t1_kr33txp",
+        "submission_content_id": "1aubcbd",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 21:35:57.826523"
+    },
+    {
+        "from_user": "ASingleGuitarString",
+        "to_user": "Buzzalu",
+        "to_user_registered": 1,
+        "amount": 1.97261,
+        "token": "donut",
+        "content_id": "t1_kr37rdl",
+        "parent_content_id": "t3_1audeqs",
+        "submission_content_id": "1audeqs",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 21:37:03.838163"
+    },
+    {
+        "from_user": "eat-sleep-rave",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kr38aux",
+        "parent_content_id": "t3_1au8cr9",
+        "submission_content_id": "1au8cr9",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 21:40:57.370552"
+    },
+    {
+        "from_user": "eat-sleep-rave",
+        "to_user": "rare1994",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kr38c2d",
+        "parent_content_id": "t3_1au21bv",
+        "submission_content_id": "1au21bv",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 21:41:14.781573"
+    },
+    {
+        "from_user": "eat-sleep-rave",
+        "to_user": "Fredzoor",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kr38d7f",
+        "parent_content_id": "t3_1au6y72",
+        "submission_content_id": "1au6y72",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 21:41:27.332226"
+    },
+    {
+        "from_user": "eat-sleep-rave",
+        "to_user": "raresanevoice",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kr38laf",
+        "parent_content_id": "t3_1au07yq",
+        "submission_content_id": "1au07yq",
+        "community": "ethtrader",
+        "created_date": "2024-02-18 21:43:08.177470"
     }
 ]
