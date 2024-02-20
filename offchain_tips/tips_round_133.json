@@ -89930,7 +89930,7 @@
     {
         "from_user": "MrPuma86",
         "to_user": "TheExpensiveGoogle",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 6.9,
         "token": "donut",
         "content_id": "t1_kpnydck",
@@ -90290,7 +90290,7 @@
     {
         "from_user": "kirtash93",
         "to_user": "TheExpensiveGoogle",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "amount": 3,
         "token": "donut",
         "content_id": "t1_kpoikb7",
