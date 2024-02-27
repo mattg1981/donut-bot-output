@@ -71050,5 +71050,65 @@
         "submission_content_id": "1b0v7sg",
         "community": "ethtrader",
         "created_date": "2024-02-26 17:49:10.931065"
+    },
+    {
+        "from_user": "Every_Hunt_160",
+        "to_user": "CymandeTV",
+        "to_user_registered": 1,
+        "amount": 2.34,
+        "token": "donut",
+        "content_id": "t1_ksatzxd",
+        "parent_content_id": "t3_1b0uwyi",
+        "submission_content_id": "1b0uwyi",
+        "community": "ethtrader",
+        "created_date": "2024-02-26 18:14:25.290163"
+    },
+    {
+        "from_user": "Every_Hunt_160",
+        "to_user": "FattestLion",
+        "to_user_registered": 1,
+        "amount": 4.269,
+        "token": "donut",
+        "content_id": "t1_ksay2fe",
+        "parent_content_id": "t3_1b0uma0",
+        "submission_content_id": "1b0uma0",
+        "community": "ethtrader",
+        "created_date": "2024-02-26 18:39:42.418115"
+    },
+    {
+        "from_user": "Every_Hunt_160",
+        "to_user": "MasterpieceLoud4931",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ksayf1i",
+        "parent_content_id": "t3_1b0vxqi",
+        "submission_content_id": "1b0vxqi",
+        "community": "ethtrader",
+        "created_date": "2024-02-26 18:42:11.436350"
+    },
+    {
+        "from_user": "FattestLion",
+        "to_user": "cryotosensei",
+        "to_user_registered": 1,
+        "amount": 0.6969,
+        "token": "donut",
+        "content_id": "t1_ksb6vvo",
+        "parent_content_id": "t1_ksb55o7",
+        "submission_content_id": "1b05izh",
+        "community": "ethtrader",
+        "created_date": "2024-02-26 19:35:07.250364"
+    },
+    {
+        "from_user": "FattestLion",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_ksb7rpc",
+        "parent_content_id": "t3_1b0xeiv",
+        "submission_content_id": "1b0xeiv",
+        "community": "ethtrader",
+        "created_date": "2024-02-26 19:40:32.074806"
     }
 ]
