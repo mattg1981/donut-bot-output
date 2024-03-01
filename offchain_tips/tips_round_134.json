@@ -90994,5 +90994,41 @@
         "submission_content_id": "1b3edpc",
         "community": "ethtrader",
         "created_date": "2024-02-29 17:53:56.870423"
+    },
+    {
+        "from_user": "Every_Hunt_160",
+        "to_user": "Consistent-Revenue61",
+        "to_user_registered": 1,
+        "amount": 1.23,
+        "token": "donut",
+        "content_id": "t1_kss75w4",
+        "parent_content_id": "t3_1b3cfnp",
+        "submission_content_id": "1b3cfnp",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 18:52:59.200936"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "SwingContent6806",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_ksseaej",
+        "parent_content_id": "t3_1b2uwkp",
+        "submission_content_id": "1b2uwkp",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 19:39:10.355857"
+    },
+    {
+        "from_user": "F-machine",
+        "to_user": "whodontloveboobs",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ksseobz",
+        "parent_content_id": "t3_1b39sdp",
+        "submission_content_id": "1b39sdp",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 19:41:47.459501"
     }
 ]
