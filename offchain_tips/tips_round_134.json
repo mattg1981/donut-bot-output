@@ -91030,5 +91030,65 @@
         "submission_content_id": "1b39sdp",
         "community": "ethtrader",
         "created_date": "2024-02-29 19:41:47.459501"
+    },
+    {
+        "from_user": "Major-Remove-7190",
+        "to_user": "Agreeable-Split1829",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kssv9zz",
+        "parent_content_id": "t1_kssu7rb",
+        "submission_content_id": "1b3i2e6",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 21:33:10.478504"
+    },
+    {
+        "from_user": "Wrong-Spirit-391",
+        "to_user": "Suffiana",
+        "to_user_registered": 0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kssytty",
+        "parent_content_id": "t3_1b3fwvc",
+        "submission_content_id": "1b3fwvc",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 21:58:56.193019"
+    },
+    {
+        "from_user": "Wrong-Spirit-391",
+        "to_user": "CJ_Productions",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kssyutm",
+        "parent_content_id": "t3_1b38lo8",
+        "submission_content_id": "1b38lo8",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 21:58:57.103117"
+    },
+    {
+        "from_user": "Wrong-Spirit-391",
+        "to_user": "SullyJack1717",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kssyvur",
+        "parent_content_id": "t3_1b333r6",
+        "submission_content_id": "1b333r6",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 21:59:02.946511"
+    },
+    {
+        "from_user": "Wrong-Spirit-391",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kssywt0",
+        "parent_content_id": "t3_1b3kbom",
+        "submission_content_id": "1b3kbom",
+        "community": "ethtrader",
+        "created_date": "2024-02-29 21:59:18.053420"
     }
 ]
