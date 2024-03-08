@@ -132430,5 +132430,89 @@
         "submission_content_id": "1b8su1x",
         "community": "ethtrader",
         "created_date": "2024-03-07 16:57:52.940339"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "Temporary_Principle1",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ktudb2z",
+        "parent_content_id": "t3_1b98pjy",
+        "submission_content_id": "1b98pjy",
+        "community": "ethtrader",
+        "created_date": "2024-03-07 18:10:14.254009"
+    },
+    {
+        "from_user": "MrPuma86",
+        "to_user": "kvlle",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ktue1k4",
+        "parent_content_id": "t3_1b98462",
+        "submission_content_id": "1b98462",
+        "community": "ethtrader",
+        "created_date": "2024-03-07 18:16:00.390803"
+    },
+    {
+        "from_user": "Prog132487",
+        "to_user": "Temporary_Principle1",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_ktuih51",
+        "parent_content_id": "t3_1b98pjy",
+        "submission_content_id": "1b98pjy",
+        "community": "ethtrader",
+        "created_date": "2024-03-07 18:48:01.539679"
+    },
+    {
+        "from_user": "thelonliestcrowd",
+        "to_user": "Giga79",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_ktumwf5",
+        "parent_content_id": "t1_ktugl4i",
+        "submission_content_id": "1b98462",
+        "community": "ethtrader",
+        "created_date": "2024-03-07 19:16:36.028028"
+    },
+    {
+        "from_user": "Consistent-Revenue61",
+        "to_user": "sararose88",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_ktuqnx8",
+        "parent_content_id": "t3_1b95gcc",
+        "submission_content_id": "1b95gcc",
+        "community": "ethtrader",
+        "created_date": "2024-03-07 19:41:14.963506"
+    },
+    {
+        "from_user": "yamaniac123",
+        "to_user": "sararose88",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ktusrhe",
+        "parent_content_id": "t3_1b95gcc",
+        "submission_content_id": "1b95gcc",
+        "community": "ethtrader",
+        "created_date": "2024-03-07 19:54:49.634203"
+    },
+    {
+        "from_user": "yamaniac123",
+        "to_user": "economist_kinda",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_ktutgo7",
+        "parent_content_id": "t3_1b91kgr",
+        "submission_content_id": "1b91kgr",
+        "community": "ethtrader",
+        "created_date": "2024-03-07 19:59:23.188347"
     }
 ]
