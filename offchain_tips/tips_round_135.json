@@ -40546,5 +40546,65 @@
         "submission_content_id": "1bh6uxh",
         "community": "ethtrader",
         "created_date": "2024-03-17 19:48:14.498450"
+    },
+    {
+        "from_user": "ablablababla",
+        "to_user": "Consistent-Revenue61",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kvd4v20",
+        "parent_content_id": "t3_1bh9lv2",
+        "submission_content_id": "1bh9lv2",
+        "community": "ethtrader",
+        "created_date": "2024-03-17 20:04:16.993098"
+    },
+    {
+        "from_user": "falk_lhoste",
+        "to_user": "Every_Hunt_160",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kvd5cmq",
+        "parent_content_id": "t3_1bhe5i6",
+        "submission_content_id": "1bhe5i6",
+        "community": "ethtrader",
+        "created_date": "2024-03-17 20:07:53.519811"
+    },
+    {
+        "from_user": "Huelino",
+        "to_user": "InclineDumbbellPress",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kvdbtv2",
+        "parent_content_id": "t3_1bhdcyz",
+        "submission_content_id": "1bhdcyz",
+        "community": "ethtrader",
+        "created_date": "2024-03-17 20:53:03.415950"
+    },
+    {
+        "from_user": "MonitorFlat229",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kvdgebj",
+        "parent_content_id": "t3_1bhfvca",
+        "submission_content_id": "1bhfvca",
+        "community": "ethtrader",
+        "created_date": "2024-03-17 21:26:47.753769"
+    },
+    {
+        "from_user": "Manateeboi",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kvdj7n2",
+        "parent_content_id": "t3_1bhfvca",
+        "submission_content_id": "1bhfvca",
+        "community": "ethtrader",
+        "created_date": "2024-03-17 21:47:42.555941"
     }
 ]
