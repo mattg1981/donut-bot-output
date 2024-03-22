@@ -76990,5 +76990,41 @@
         "submission_content_id": "1bkfml6",
         "community": "ethtrader",
         "created_date": "2024-03-21 19:54:59.388386"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Fredzoor",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_kvzcrwe",
+        "parent_content_id": "t3_1bkguc9",
+        "submission_content_id": "1bkguc9",
+        "community": "ethtrader",
+        "created_date": "2024-03-21 20:27:26.806342"
+    },
+    {
+        "from_user": "AltruisticPops",
+        "to_user": "Friendly-Airline2426",
+        "to_user_registered": 1,
+        "amount": 1.69,
+        "token": "donut",
+        "content_id": "t1_kvzlprt",
+        "parent_content_id": "t3_1bknsdx",
+        "submission_content_id": "1bknsdx",
+        "community": "ethtrader",
+        "created_date": "2024-03-21 21:26:21.806258"
+    },
+    {
+        "from_user": "economist_kinda",
+        "to_user": "Huelino",
+        "to_user_registered": 1,
+        "amount": 2,
+        "token": "donut",
+        "content_id": "t1_kvzovge",
+        "parent_content_id": "t1_kvzon8u",
+        "submission_content_id": "1bknsn7",
+        "community": "ethtrader",
+        "created_date": "2024-03-21 21:48:03.415644"
     }
 ]
