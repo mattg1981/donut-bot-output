@@ -1,353 +1,353 @@
 [
     {
+        "id": "11151",
+        "owner": "0x7f25555a0c85b53cb8934960d0e4ae2df65cecab",
+        "liquidity": 6895469255729383507653,
+        "user": "MemeyCurmudgeon",
+        "eth_in_lp": 1.2005229925794112,
+        "donut_in_lp": 293361.02860494266,
+        "percent_of_pool": 37.35666099901479
+    },
+    {
         "id": "10151",
         "owner": "0x439cee4cc4ecbd75dc08d9a17e92bddcc11cdb8c",
         "liquidity": 2228164216679413715045,
         "user": "r/EthTrader Multi-Sig Wallet",
-        "eth_in_lp": 4.505598516261838,
-        "donut_in_lp": 1101899.2834296438,
-        "percent_of_pool": 19.269348287035363
+        "eth_in_lp": 4.521940031957908,
+        "donut_in_lp": 1097917.208411312,
+        "percent_of_pool": 12.071227092118136
     },
     {
         "id": "10320",
         "owner": "0xdd4b43ffa5ceef9e5bf053ea9a74820b68e506d0",
         "liquidity": 2183301284232728561116,
         "user": null,
-        "eth_in_lp": 0.6755304737662052,
-        "donut_in_lp": 440297.8531246679,
-        "percent_of_pool": 18.88136993964891
+        "eth_in_lp": 0.6915429615076654,
+        "donut_in_lp": 436395.95512435294,
+        "percent_of_pool": 11.828179186793925
     },
     {
         "id": "11097,11115",
         "owner": "0x0e066ed845a6853557a0d580b3ba998b0283aca8",
         "liquidity": 1645911653468866774302,
         "user": "Eth_Man",
-        "eth_in_lp": 0.3350188529399511,
-        "donut_in_lp": 200740.0250875484,
-        "percent_of_pool": 14.233980001548993
+        "eth_in_lp": 0.34221526285378306,
+        "donut_in_lp": 198986.4151609957,
+        "percent_of_pool": 8.916835300494801
     },
     {
         "id": "10614,11062",
         "owner": "0x48afb64d55c79a2e711c14a2bf903a7c3842bacc",
         "liquidity": 1189675350494357178932,
         "user": "Jake123194",
-        "eth_in_lp": 0.025229079167948813,
-        "donut_in_lp": 28373.970384309017,
-        "percent_of_pool": 10.28841074889004
+        "eth_in_lp": 0.03395424325944652,
+        "donut_in_lp": 26247.83602775396,
+        "percent_of_pool": 6.445144937797395
+    },
+    {
+        "id": "10402",
+        "owner": "0x960a596e15913fda7040ea80fd43c2b8e8a1fe39",
+        "liquidity": 843108007438440622556,
+        "user": "SuccessOtherwise2760",
+        "eth_in_lp": 0.4556848814309528,
+        "donut_in_lp": 131416.23836604934,
+        "percent_of_pool": 4.567593422777308
     },
     {
         "id": "10922",
         "owner": "0x5f9d94cc0071acaf471ec711143085e0dcdf453a",
         "liquidity": 795784707250549525071,
         "user": "ALiteralHamSandwich",
-        "eth_in_lp": 0.21869009788871974,
-        "donut_in_lp": 130770.1513688344,
-        "percent_of_pool": 6.882011913987037
-    },
-    {
-        "id": "10402",
-        "owner": "0x960a596e15913fda7040ea80fd43c2b8e8a1fe39",
-        "liquidity": 773135056120364644275,
-        "user": "SuccessOtherwise2760",
-        "eth_in_lp": 0.4121955180845784,
-        "donut_in_lp": 121891.18426034712,
-        "percent_of_pool": 6.686135859188076
+        "eth_in_lp": 0.2245264398364454,
+        "donut_in_lp": 129347.96067974981,
+        "percent_of_pool": 4.311216312400842
     },
     {
         "id": "10164",
         "owner": "0xfedd14d3a32faabfbd6e290faa73aec58e894650",
-        "liquidity": 732833261954783201262,
+        "liquidity": 736058402499106801498,
         "user": "DBRiMatt",
-        "eth_in_lp": 1.481871234181956,
-        "donut_in_lp": 362409.75426164817,
-        "percent_of_pool": 6.337602612600743
+        "eth_in_lp": 1.4937911358615932,
+        "donut_in_lp": 362689.2400703976,
+        "percent_of_pool": 3.987645104035345
     },
     {
         "id": "10345",
         "owner": "0x9ae5bd9e66a71635e8a1a9feb210ae2851d2a0ae",
         "liquidity": 562128114085011857310,
         "user": "Ropex007",
-        "eth_in_lp": 0.22087887090446018,
-        "donut_in_lp": 104921.94046643215,
-        "percent_of_pool": 4.861330386312779
+        "eth_in_lp": 0.2250015586896596,
+        "donut_in_lp": 103917.33034683522,
+        "percent_of_pool": 3.045366256754931
     },
     {
         "id": "10652",
         "owner": "0xeca23ebdfdf663d499891a833d22956a6f65dfa2",
         "liquidity": 318988626505238507508,
         "user": "Kindly-Wolf6919",
-        "eth_in_lp": 0.07640242579864734,
-        "donut_in_lp": 36591.26049715384,
-        "percent_of_pool": 2.758640004053554
+        "eth_in_lp": 0.07874191119558621,
+        "donut_in_lp": 36021.178350052716,
+        "percent_of_pool": 1.7281419930915292
     },
     {
         "id": "11098",
         "owner": "0x80148c5d2b61182107f43fae67f8f2ec4b5dbcde",
         "liquidity": 182995233754853210562,
         "user": "Basoosh",
-        "eth_in_lp": 0.08071562474402745,
-        "donut_in_lp": 33018.19588060308,
-        "percent_of_pool": 1.5825579047062954
+        "eth_in_lp": 0.08205772487395753,
+        "donut_in_lp": 32691.155017387464,
+        "percent_of_pool": 0.9913887885346562
     },
     {
         "id": "10775",
         "owner": "0x9af25ff741763b43f67be449329a3a607799bff1",
         "liquidity": 134649276529132478151,
         "user": "Budget_Muffin7766",
-        "eth_in_lp": 0.07378280080874369,
-        "donut_in_lp": 20772.72941014662,
-        "percent_of_pool": 1.1644580711846606
+        "eth_in_lp": 0.07477032823127115,
+        "donut_in_lp": 20532.09027040576,
+        "percent_of_pool": 0.7294713659816525
     },
     {
         "id": "10338",
         "owner": "0xc20996ea4a76ddcaa03ec7889bc9c249cce9e2c3",
         "liquidity": 132901387636256462320,
         "user": "rikbona",
-        "eth_in_lp": 0.2687415453765055,
-        "donut_in_lp": 65724.03537717639,
-        "percent_of_pool": 1.1493421835890587
+        "eth_in_lp": 0.26971625365690505,
+        "donut_in_lp": 65486.519985964944,
+        "percent_of_pool": 0.720002062238349
     },
     {
         "id": "11043",
         "owner": "0xeb9a6e724925b178d9627ce05208cfe6a5c11447",
         "liquidity": 122611385928568002048,
         "user": "Kappatalizable",
-        "eth_in_lp": 0.031541881898611165,
-        "donut_in_lp": 10688.212376056792,
-        "percent_of_pool": 1.0603533984289
-    },
-    {
-        "id": "11120",
-        "owner": "0x7cbfeda66e59fdfc889725aac57387c1e2ab00f5",
-        "liquidity": 74590465063709883578,
-        "user": null,
-        "eth_in_lp": 0.0,
-        "donut_in_lp": 1085.8659478015381,
-        "percent_of_pool": 0.6450645062178414
+        "eth_in_lp": 0.032441122570671964,
+        "donut_in_lp": 10469.086813760125,
+        "percent_of_pool": 0.6642552970484372
     },
     {
         "id": "10977",
         "owner": "0xb127e23bf80e0d8688d994c1a093e3657856a040",
         "liquidity": 73121273256242639490,
         "user": "fairysquirt",
-        "eth_in_lp": 0.021365722335835464,
-        "donut_in_lp": 17167.53891077595,
-        "percent_of_pool": 0.6323588140490947
+        "eth_in_lp": 0.021901998982632297,
+        "donut_in_lp": 17036.859855182724,
+        "percent_of_pool": 0.3961393366492279
     },
     {
         "id": "10600",
         "owner": "0xf3a6ab4ab31ab110b272b238a5e29160c9804c05",
         "liquidity": 72718239383148451731,
         "user": "Pibo1987",
-        "eth_in_lp": 0.003784764418301784,
-        "donut_in_lp": 5130.096168436571,
-        "percent_of_pool": 0.6288733438068257
+        "eth_in_lp": 0.00431808518585331,
+        "donut_in_lp": 5000.137396880566,
+        "percent_of_pool": 0.39395587397106574
     },
     {
         "id": "10350",
         "owner": "0x349cb3d3db85a1bff571ecaaaff4cff48503cd54",
         "liquidity": 66238390389857365393,
         "user": "likelysomeone3",
-        "eth_in_lp": 0.1339414712910514,
-        "donut_in_lp": 32757.026775562066,
-        "percent_of_pool": 0.5728350742015443
+        "eth_in_lp": 0.1344272683827269,
+        "donut_in_lp": 32638.648499108524,
+        "percent_of_pool": 0.35885086324738624
     },
     {
         "id": "10499",
         "owner": "0x1fec4923925f96f02634281260f4555cc802ec6a",
         "liquidity": 49845993665335808760,
         "user": null,
-        "eth_in_lp": 0.10079420242859381,
-        "donut_in_lp": 24650.45632207758,
-        "percent_of_pool": 0.4310722726182754
+        "eth_in_lp": 0.10115977651050875,
+        "donut_in_lp": 24561.373800846508,
+        "percent_of_pool": 0.2700439692291867
     },
     {
         "id": "10457",
         "owner": "0x97eb58f86f1b67561990c933eb7a8426d139fa58",
         "liquidity": 44039475452208922462,
         "user": "yester_philippines",
-        "eth_in_lp": 0.022820575921070486,
-        "donut_in_lp": 9753.189740310163,
-        "percent_of_pool": 0.38085702324563253
+        "eth_in_lp": 0.023143564583199477,
+        "donut_in_lp": 9674.4843676514,
+        "percent_of_pool": 0.23858677256455718
     },
     {
         "id": "10503",
         "owner": "0x00499b5957730fc4708e4cf8a7337e5806491506",
         "liquidity": 25049704958235291358,
         "user": null,
-        "eth_in_lp": 0.05065331928757946,
-        "donut_in_lp": 12387.889427978751,
-        "percent_of_pool": 0.21663191865052817
+        "eth_in_lp": 0.05083703561499046,
+        "donut_in_lp": 12343.121720291825,
+        "percent_of_pool": 0.13570843426973592
     },
     {
         "id": "11090",
         "owner": "0x12985951fa7051f0b1ae2c0749c8285bd742a82b",
         "liquidity": 20601427958307179577,
         "user": "Haruhi4",
-        "eth_in_lp": 0.016291364304084125,
-        "donut_in_lp": 10188.051993066643,
-        "percent_of_pool": 0.1781628515381573
+        "eth_in_lp": 0.016442456649891492,
+        "donut_in_lp": 10151.234046256155,
+        "percent_of_pool": 0.11160959925891233
     },
     {
         "id": "10408",
         "owner": "0x57855ca297ecb91ef1be3ce1e74b9492cf50c69c",
         "liquidity": 19398331504645654842,
         "user": "nobelcause",
-        "eth_in_lp": 0.011195776483991778,
-        "donut_in_lp": 4400.929452032078,
-        "percent_of_pool": 0.16775837397992327
+        "eth_in_lp": 0.011338045234377312,
+        "donut_in_lp": 4366.261625170966,
+        "percent_of_pool": 0.10509174460656835
     },
     {
         "id": "10485",
         "owner": "0xdb721582dc092c59692221d89103061c8b955d7c",
         "liquidity": 17531494615859564964,
         "user": "whaterloowhorks",
-        "eth_in_lp": 0.0354506528458599,
-        "donut_in_lp": 8669.891209120768,
-        "percent_of_pool": 0.15161381428552423
+        "eth_in_lp": 0.03557923008100983,
+        "donut_in_lp": 8638.559709305251,
+        "percent_of_pool": 0.09497803222406558
     },
     {
         "id": "10343",
         "owner": "0x10006c92af4c697db4d168cb4e2c56009450a493",
         "liquidity": 16786469622023849744,
         "user": "ellileon",
-        "eth_in_lp": 0.006321123563264357,
-        "donut_in_lp": 3184.638542664776,
-        "percent_of_pool": 0.1451707765680613
+        "eth_in_lp": 0.006444236731834453,
+        "donut_in_lp": 3154.638518058213,
+        "percent_of_pool": 0.09094181001810203
     },
     {
         "id": "10342",
         "owner": "0xcbedbe4f7b04def3b4ddb581c266a0c45023d99f",
         "liquidity": 12041071399605213613,
         "user": "InsaneMcFries",
-        "eth_in_lp": 0.024348399918707547,
-        "donut_in_lp": 5954.699320467167,
-        "percent_of_pool": 0.10413218056873437
+        "eth_in_lp": 0.024436709997381817,
+        "donut_in_lp": 5933.180058441779,
+        "percent_of_pool": 0.06523330112250707
     },
     {
         "id": "10760",
         "owner": "0x823203809d31109e99f27092de19f60a22df61c5",
         "liquidity": 11594862493484454735,
         "user": "Wonderful_Bad6531",
-        "eth_in_lp": 0.023446115351748377,
-        "donut_in_lp": 5734.034582099218,
-        "percent_of_pool": 0.10027332907275638
+        "eth_in_lp": 0.02353115290239777,
+        "donut_in_lp": 5713.312764591034,
+        "percent_of_pool": 0.06281593484582555
     },
     {
         "id": "10274",
         "owner": "0x4d96456d6e0cbff7aa847e681911f8dd1f208aa0",
         "liquidity": 8963190941638026304,
         "user": "DrengDrengesen",
-        "eth_in_lp": 0.01812457964512152,
-        "donut_in_lp": 4432.587868479822,
-        "percent_of_pool": 0.07751441600431808
+        "eth_in_lp": 0.018190316328424844,
+        "donut_in_lp": 4416.569256177348,
+        "percent_of_pool": 0.04855868006343451
     },
     {
         "id": "11096",
         "owner": "0x1a86440fd49a1e85c46c66ba64c46b98b0e3b6ab",
         "liquidity": 8779210294839764061,
         "user": "evil_betty_",
-        "eth_in_lp": 0.0028659614360705314,
-        "donut_in_lp": 4341.594724545637,
-        "percent_of_pool": 0.07592333616617533
+        "eth_in_lp": 0.0029303487921541996,
+        "donut_in_lp": 4325.904914192313,
+        "percent_of_pool": 0.0475619527345277
     },
     {
         "id": "10532",
         "owner": "0xb905dc91dc528dbd8ac727befd7492767cebdd6b",
         "liquidity": 8180194615195752417,
         "user": "BackgroundEntrance44",
-        "eth_in_lp": 0.0026704135701684706,
-        "donut_in_lp": 1625.5919330220659,
-        "percent_of_pool": 0.07074299906442552
+        "eth_in_lp": 0.0027304077024233844,
+        "donut_in_lp": 1610.972656588838,
+        "percent_of_pool": 0.04431674565033067
     },
     {
         "id": "10500",
         "owner": "0x99a70e53a43775c8af35884e2b74414ef09ca7f3",
         "liquidity": 6365327919483498009,
         "user": "EvolvedLurker",
-        "eth_in_lp": 0.0037652722673619807,
-        "donut_in_lp": 3147.8542132059742,
-        "percent_of_pool": 0.05504788189467874
+        "eth_in_lp": 0.00381195603749356,
+        "donut_in_lp": 3136.478385023328,
+        "percent_of_pool": 0.03448458522792104
+    },
+    {
+        "id": "10364",
+        "owner": "0xb653e9bfe9b46ba241b9997b9ba13080f70849f7",
+        "liquidity": 4239116990533376714,
+        "user": "Richper413",
+        "eth_in_lp": 0.0019008817256065897,
+        "donut_in_lp": 743.9151874161028,
+        "percent_of_pool": 0.022965696818811845
     },
     {
         "id": "11084",
         "owner": "0xdf2ffb4a4c766a322f1fbe6a6e344ca018bdec9e",
         "liquidity": 4189386158430444216,
         "user": "Huelino",
-        "eth_in_lp": 0.0024179105828603573,
-        "donut_in_lp": 617.5134782068532,
-        "percent_of_pool": 0.03623015771969748
+        "eth_in_lp": 0.00244863584051974,
+        "donut_in_lp": 610.0263954152211,
+        "percent_of_pool": 0.022696276744967766
     },
     {
         "id": "10302",
         "owner": "0x6b82a00010676e509e520ff4594eeb2005de93de",
         "liquidity": 4138063569446404857,
         "user": "CapnPratt",
-        "eth_in_lp": 0.001625983091840118,
-        "donut_in_lp": 785.051117476551,
-        "percent_of_pool": 0.03578631572873344
+        "eth_in_lp": 0.0016563319459619297,
+        "donut_in_lp": 777.6557561109877,
+        "percent_of_pool": 0.022418233222886146
     },
     {
         "id": "10319",
         "owner": "0xe86b79c26338fc514013eecb042a9f42ff9d12af",
         "liquidity": 4103578118323606027,
         "user": null,
-        "eth_in_lp": 0.001199047920736625,
-        "donut_in_lp": 839.510101703045,
-        "percent_of_pool": 0.03548808269745756
+        "eth_in_lp": 0.0012291438560939263,
+        "donut_in_lp": 832.1763711869426,
+        "percent_of_pool": 0.02223140600936154
     },
     {
         "id": "10785",
         "owner": "0x52a7f4e8904f70ea831ed31511b35aadcb36b1d9",
         "liquidity": 3732891736737403366,
         "user": "bvandepol",
-        "eth_in_lp": 0.007548326709722945,
-        "donut_in_lp": 1846.0357181219365,
-        "percent_of_pool": 0.03228235623502908
-    },
-    {
-        "id": "10364",
-        "owner": "0xb653e9bfe9b46ba241b9997b9ba13080f70849f7",
-        "liquidity": 3099559080642023799,
-        "user": "Richper413",
-        "eth_in_lp": 0.0013671549935568158,
-        "donut_in_lp": 549.4755661737044,
-        "percent_of_pool": 0.02680524308488511
+        "eth_in_lp": 0.007575704004650754,
+        "donut_in_lp": 1839.364461659003,
+        "percent_of_pool": 0.02022318800703177
     },
     {
         "id": "10973",
         "owner": "0xb58e820fbc8373130a9c2e7b4bfd29be8a1e9d5c",
         "liquidity": 1816473287579614295,
         "user": null,
-        "eth_in_lp": 0.0013451699953910868,
-        "donut_in_lp": 898.3029882846273,
-        "percent_of_pool": 0.015709011108988577
+        "eth_in_lp": 0.001358492140374059,
+        "donut_in_lp": 895.056668805214,
+        "percent_of_pool": 0.009840864240166902
     },
     {
         "id": "10344",
         "owner": "0x0b3ab5a8d926d07275291c074225f258d00b4f08",
         "liquidity": 1286606737294797967,
         "user": "The_Nutcrack",
-        "eth_in_lp": 0.0008332318136282271,
-        "donut_in_lp": 636.267367520204,
-        "percent_of_pool": 0.011126681392598065
+        "eth_in_lp": 0.0008426678794418617,
+        "donut_in_lp": 633.9680017424722,
+        "percent_of_pool": 0.006970277140201135
     },
     {
         "id": "10250",
         "owner": "0x8dfdd8e1f2ea3f70c7a5f0a42903a8239a83d313",
         "liquidity": 1164637462377409575,
         "user": "Ok_Election7896",
-        "eth_in_lp": 0.0023550278669723377,
-        "donut_in_lp": 575.9508996879417,
-        "percent_of_pool": 0.010071881023259543
+        "eth_in_lp": 0.002363569401401983,
+        "donut_in_lp": 573.8695119205456,
+        "percent_of_pool": 0.006309500522047312
     },
     {
         "id": "10298",
         "owner": "0x5ed61dee19b3355cf125a5cb95bec8f344523628",
         "liquidity": 800876701658389350,
         "user": "DrRobbe",
-        "eth_in_lp": 0.0016194627180927802,
-        "donut_in_lp": 396.0594363139111,
-        "percent_of_pool": 0.00692604790244148
+        "eth_in_lp": 0.00162533640509161,
+        "donut_in_lp": 394.62814544110887,
+        "percent_of_pool": 0.00433880252906688
     }
 ]
