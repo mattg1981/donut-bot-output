@@ -35218,5 +35218,41 @@
         "submission_content_id": "1cqd0vh",
         "community": "ethtrader",
         "created_date": "2024-05-12 17:57:27.714709"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "MrPuma86",
+        "to_user_registered": 1,
+        "amount": 4,
+        "token": "donut",
+        "content_id": "t1_l3ry11a",
+        "parent_content_id": "t1_l3ru0mq",
+        "submission_content_id": "1cqhuoo",
+        "community": "ethtrader",
+        "created_date": "2024-05-12 18:10:30.206950"
+    },
+    {
+        "from_user": "AltruisticPops",
+        "to_user": "Wonderful_Bad6531",
+        "to_user_registered": 1,
+        "amount": 0.2,
+        "token": "donut",
+        "content_id": "t1_l3ryw2t",
+        "parent_content_id": "t3_1cqiov6",
+        "submission_content_id": "1cqiov6",
+        "community": "ethtrader",
+        "created_date": "2024-05-12 18:16:29.695629"
+    },
+    {
+        "from_user": "Every_Hunt_160",
+        "to_user": "TheLelouchLamperouge",
+        "to_user_registered": 1,
+        "amount": 1.069,
+        "token": "donut",
+        "content_id": "t1_l3s7imn",
+        "parent_content_id": "t3_1cqihq5",
+        "submission_content_id": "1cqihq5",
+        "community": "ethtrader",
+        "created_date": "2024-05-12 19:20:37.587250"
     }
 ]
