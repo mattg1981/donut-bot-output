@@ -51706,5 +51706,53 @@
         "submission_content_id": "1crotfx",
         "community": "ethtrader",
         "created_date": "2024-05-14 19:40:25.397177"
+    },
+    {
+        "from_user": "ASingleGuitarString",
+        "to_user": "rikbona",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l438kek",
+        "parent_content_id": "t3_1cs7s89",
+        "submission_content_id": "1cs7s89",
+        "community": "ethtrader",
+        "created_date": "2024-05-14 20:01:36.410855"
+    },
+    {
+        "from_user": "SigiNwanne",
+        "to_user": "rikbona",
+        "to_user_registered": 1,
+        "amount": 0.2,
+        "token": "donut",
+        "content_id": "t1_l43i5nl",
+        "parent_content_id": "t3_1cs7s89",
+        "submission_content_id": "1cs7s89",
+        "community": "ethtrader",
+        "created_date": "2024-05-14 21:05:00.594665"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "Mundane-Farm-4117",
+        "to_user_registered": 1,
+        "amount": 0.6969,
+        "token": "donut",
+        "content_id": "t1_l43iqnd",
+        "parent_content_id": "t3_1cs38s1",
+        "submission_content_id": "1cs38s1",
+        "community": "ethtrader",
+        "created_date": "2024-05-14 21:08:52.141655"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "rikbona",
+        "to_user_registered": 1,
+        "amount": 0.202,
+        "token": "donut",
+        "content_id": "t1_l43ozc6",
+        "parent_content_id": "t3_1cs7s89",
+        "submission_content_id": "1cs7s89",
+        "community": "ethtrader",
+        "created_date": "2024-05-14 21:51:20.759378"
     }
 ]
