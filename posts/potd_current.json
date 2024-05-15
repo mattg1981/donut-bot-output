@@ -1,0 +1,30 @@
+{
+    "last_update": "2024-05-15 11:04:43.329140",
+    "last_update_week": 20,
+    "winners": [
+        {
+            "rank": 1,
+            "post_id": "t3_1ciz1ca",
+            "weight": 8000300,
+            "week_number": "19",
+            "author": "mattg1981",
+            "title": "post 3",
+            "url": "https://redd.it/1ciz1ca",
+            "created_date": "2024-05-02 22:37:56",
+            "flair": null,
+            "selftext": "should be allowed"
+        },
+        {
+            "rank": 2,
+            "post_id": "t3_1ciz053",
+            "weight": 1,
+            "week_number": "19",
+            "author": "mattg1981",
+            "title": "post 2",
+            "url": "https://redd.it/1ciz053",
+            "created_date": "2024-05-02 22:35:55",
+            "flair": null,
+            "selftext": "should be allowed"
+        }
+    ]
+}
