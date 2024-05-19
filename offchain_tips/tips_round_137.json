@@ -79942,5 +79942,101 @@
         "submission_content_id": "1cuytqf",
         "community": "ethtrader",
         "created_date": "2024-05-18 17:44:47.164138"
+    },
+    {
+        "from_user": "rootpl",
+        "to_user": "Dapper-Horror3112",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l4nygtn",
+        "parent_content_id": "t3_1cv4ykw",
+        "submission_content_id": "1cv4ykw",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:19:28.964704"
+    },
+    {
+        "from_user": "rootpl",
+        "to_user": "lordciders",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l4nyh65",
+        "parent_content_id": "t3_1cv8vs7",
+        "submission_content_id": "1cv8vs7",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:19:39.980228"
+    },
+    {
+        "from_user": "rootpl",
+        "to_user": "Dapper-Horror3112",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l4nyhwt",
+        "parent_content_id": "t3_1cv7vn7",
+        "submission_content_id": "1cv7vn7",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:19:41.123838"
+    },
+    {
+        "from_user": "rootpl",
+        "to_user": "coindoing",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l4nyhmo",
+        "parent_content_id": "t3_1cv8jek",
+        "submission_content_id": "1cv8jek",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:19:46.893448"
+    },
+    {
+        "from_user": "rootpl",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l4nyi5b",
+        "parent_content_id": "t3_1cv7h5d",
+        "submission_content_id": "1cv7h5d",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:19:49.825144"
+    },
+    {
+        "from_user": "rootpl",
+        "to_user": "ASingleGuitarString",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l4nyikm",
+        "parent_content_id": "t3_1cv645t",
+        "submission_content_id": "1cv645t",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:19:51.020078"
+    },
+    {
+        "from_user": "Friendly-Airline2426",
+        "to_user": "coindoing",
+        "to_user_registered": 1,
+        "amount": 5,
+        "token": "donut",
+        "content_id": "t1_l4nyolw",
+        "parent_content_id": "t3_1cv8jek",
+        "submission_content_id": "1cv8jek",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:21:08.097370"
+    },
+    {
+        "from_user": "lordciders",
+        "to_user": "rootpl",
+        "to_user_registered": 1,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_l4nz3ox",
+        "parent_content_id": "t3_1cva4ao",
+        "submission_content_id": "1cva4ao",
+        "community": "ethtrader",
+        "created_date": "2024-05-18 18:24:08.834672"
     }
 ]
