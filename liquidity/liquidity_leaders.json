@@ -1,12 +1,12 @@
 [
     {
-        "id": 11151,
+        "id": "11151,11965",
         "owner": "0x7f25555A0C85B53Cb8934960D0e4ae2DF65CeCaB",
-        "liquidity": 6895469255729383507653,
+        "liquidity": 8081371702609874149602,
         "user": "MemeyCurmudgeon",
         "eth_in_lp": 0.0,
-        "donut_in_lp": 612197.9400973835,
-        "percent_of_pool": 26.272152081039913
+        "donut_in_lp": 678113.3313150381,
+        "percent_of_pool": 30.79051164182458
     },
     {
         "id": 11215,
@@ -52,15 +52,6 @@
         "eth_in_lp": 0.38229387220661853,
         "donut_in_lp": 289470.35283409787,
         "percent_of_pool": 4.995769528879952
-    },
-    {
-        "id": 11965,
-        "owner": "0x7f25555A0C85B53Cb8934960D0e4ae2DF65CeCaB",
-        "liquidity": 1185902446880490641949,
-        "user": "MemeyCurmudgeon",
-        "eth_in_lp": 0.0,
-        "donut_in_lp": 65915.39121765466,
-        "percent_of_pool": 4.518359560784669
     },
     {
         "id": 11097,
