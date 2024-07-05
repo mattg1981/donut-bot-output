@@ -1,0 +1,24 @@
+[
+    {
+        "user": "migration",
+        "address": "0x0",
+        "amount": 0,
+        "token": "DONUT",
+        "block_number": 228389265,
+        "tx_hash": "0x0",
+        "tx_timestamp": "2024-03-12 10:32:15",
+        "processed_at": "2024-03-12 10:32:15",
+        "created_at": "2024-07-05 15:31:22"
+    },
+    {
+        "user": "mattg1981",
+        "address": "0xd762e68a2d30ab4d836683c421121abb5b3e1dcc",
+        "amount": 1,
+        "token": "DONUT",
+        "block_number": 229058909,
+        "tx_hash": "0x0e64f89f44ecdc65171fa71863fd3f4fe3ad660982c4794d4e5ac7d9507bd93a",
+        "tx_timestamp": "2024-07-05 10:35:28",
+        "processed_at": "2024-07-05 11:20:07.320187",
+        "created_at": "2024-07-05 11:20:05.987313"
+    }
+]
