@@ -1,22 +1,73 @@
 {
-    "last_update": 1721001565,
+    "last_update": 1721137553,
     "last_update_week": 29,
     "winners": [
         {
             "rank": 1,
+            "nominations": 4,
+            "weight": 1011864,
+            "week_number": 28,
+            "post": {
+                "post_id": "t3_1dyeytk",
+                "author": "Friendly-Airline2426",
+                "reddit_upvotes": 17,
+                "title": "[Announcement] The Post of the Week program is live",
+                "tips": 16,
+                "tips_amount": 0,
+                "url": "https://redd.it/1dyeytk",
+                "created_date": "2024-07-08 12:39:25",
+                "flair": "Meta & Donut"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 3,
+            "weight": 617947,
+            "week_number": 28,
+            "post": {
+                "post_id": "t3_1dyvolx",
+                "author": "PoojaaPriyaa",
+                "reddit_upvotes": 173,
+                "title": "Inflation explained.",
+                "tips": 19,
+                "tips_amount": 0,
+                "url": "https://redd.it/1dyvolx",
+                "created_date": "2024-07-09 01:40:10",
+                "flair": "Media"
+            }
+        },
+        {
+            "rank": 7,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 27,
+            "week_number": 28,
             "post": {
-                "post_id": "t3_1dsfsaz",
-                "author": "raymv1987",
-                "reddit_upvotes": 20,
-                "title": "AMA with founders of Glue, The Blockchain Ecosystem on July 3rd, 2:00 PM UTC. The giveaway info is below!",
-                "tips": 4,
+                "post_id": "t3_1e0fe0b",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 12,
+                "title": "[Throwback Thursday] The Sushi.com exploit that served a reminder for wallet security",
+                "tips": 16,
                 "tips_amount": 0,
-                "url": "https://redd.it/1dsfsaz",
-                "created_date": "2024-06-30 19:23:36",
-                "flair": "Ad"
+                "url": "https://redd.it/1e0fe0b",
+                "created_date": "2024-07-10 22:37:53",
+                "flair": "Security"
+            }
+        },
+        {
+            "rank": 6,
+            "nominations": 1,
+            "weight": 487075,
+            "week_number": 28,
+            "post": {
+                "post_id": "t3_1dzdeo2",
+                "author": "coindoing",
+                "reddit_upvotes": 12,
+                "title": "Will ETH Make a Parabolic Pump This Bullrun?",
+                "tips": 11,
+                "tips_amount": 0,
+                "url": "https://redd.it/1dzdeo2",
+                "created_date": "2024-07-09 16:00:30",
+                "flair": "Original Content"
             }
         }
     ]
