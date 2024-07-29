@@ -1,73 +1,73 @@
 {
-    "last_update": 1721649661,
-    "last_update_week": 30,
+    "last_update": 1722254461,
+    "last_update_week": 31,
     "winners": [
         {
             "rank": 1,
-            "nominations": 4,
-            "weight": 1021794,
-            "week_number": 29,
+            "nominations": 3,
+            "weight": 1150381,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1e3q840",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 17,
-                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 10",
-                "tips": 18,
-                "tips_amount": 35.019999999999996,
-                "url": "https://redd.it/1e3q840",
-                "created_date": "2024-07-15 04:06:33",
-                "flair": "Original Content"
+                "post_id": "t3_1ea3yuv",
+                "author": "Buzzalu",
+                "reddit_upvotes": 25,
+                "title": "CEXs are like toilets, just do your shit and move on",
+                "tips": 26,
+                "tips_amount": 30,
+                "url": "https://redd.it/1ea3yuv",
+                "created_date": "2024-07-23 04:58:06",
+                "flair": "Discussion"
             }
         },
         {
             "rank": 2,
             "nominations": 3,
-            "weight": 737177,
-            "week_number": 29,
+            "weight": 670935,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1e74ow2",
+                "post_id": "t3_1eb0smz",
                 "author": "Friendly-Airline2426",
-                "reddit_upvotes": 18,
-                "title": "(Gradual) interest rate cuts by central banks will boost the crypto market - Let me explain",
-                "tips": 15,
-                "tips_amount": 19.009999999999998,
-                "url": "https://redd.it/1e74ow2",
-                "created_date": "2024-07-19 09:10:53",
-                "flair": "Original Content"
+                "reddit_upvotes": 32,
+                "title": "\"Why aren't we mooning? ETH's price didn't even flinch\" - Let me explain",
+                "tips": 21,
+                "tips_amount": 22.700000000000003,
+                "url": "https://redd.it/1eb0smz",
+                "created_date": "2024-07-24 07:56:39",
+                "flair": "Educational"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 29,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1e8dcvi",
-                "author": "Buzzalu",
-                "reddit_upvotes": 15,
-                "title": "Protecting Assets from Inflation",
-                "tips": 22,
-                "tips_amount": 23,
-                "url": "https://redd.it/1e8dcvi",
-                "created_date": "2024-07-20 22:42:26",
-                "flair": "Discussion"
+                "post_id": "t3_1ecj5o5",
+                "author": "yester_philippines",
+                "reddit_upvotes": 391,
+                "title": "The flag of ETH is raised over Wall Street",
+                "tips": 23,
+                "tips_amount": 25.01,
+                "url": "https://redd.it/1ecj5o5",
+                "created_date": "2024-07-26 03:40:25",
+                "flair": "Media"
             }
         },
         {
             "rank": 4,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 29,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1e67j5n",
-                "author": "yester_philippines",
-                "reddit_upvotes": 66,
-                "title": "Ethereum based altcoins season soon after ETH ETF\u2019s ",
-                "tips": 26,
-                "tips_amount": 26.01,
-                "url": "https://redd.it/1e67j5n",
-                "created_date": "2024-07-18 04:50:40",
-                "flair": "Comedy"
+                "post_id": "t3_1ebpxqq",
+                "author": "Buzzalu",
+                "reddit_upvotes": 51,
+                "title": "Was Ethereum ETF a success?",
+                "tips": 29,
+                "tips_amount": 35,
+                "url": "https://redd.it/1ebpxqq",
+                "created_date": "2024-07-25 03:41:45",
+                "flair": "Discussion"
             }
         }
     ]
