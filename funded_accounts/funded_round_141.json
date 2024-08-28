@@ -1,0 +1,13 @@
+[
+    {
+        "user": null,
+        "address": "0xcdc458dcf6ae7693108c18bc4ed57fa70dc546e9",
+        "amount": 13000,
+        "token": "DONUT",
+        "block_number": 247575949,
+        "tx_hash": "0xe4031bb7bf15782ca8bdb3d89a8352a051614476172b8942cb5f468ce8f9fde4",
+        "tx_timestamp": "2024-08-28 11:21:35",
+        "processed_at": null,
+        "created_at": "2024-08-28 11:40:07.413415"
+    }
+]
