@@ -1,73 +1,73 @@
 {
-    "last_update": 1724673662,
-    "last_update_week": 35,
+    "last_update": 1725260461,
+    "last_update_week": 36,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 475907,
-            "week_number": 34,
+            "nominations": 3,
+            "weight": 784798,
+            "week_number": 35,
             "post": {
-                "post_id": "t3_1evxyhh",
+                "post_id": "t3_1f1jwpu",
                 "author": "DBRiMatt",
-                "reddit_upvotes": 10,
+                "reddit_upvotes": 12,
                 "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 15",
-                "tips": 9,
-                "tips_amount": 9.64207,
-                "url": "https://redd.it/1evxyhh",
-                "created_date": "2024-08-19 05:01:57",
+                "tips": 17,
+                "tips_amount": 46.15157,
+                "url": "https://redd.it/1f1jwpu",
+                "created_date": "2024-08-26 09:23:39",
                 "flair": "Original Content"
             }
         },
         {
             "rank": 2,
             "nominations": 2,
-            "weight": 454116,
-            "week_number": 34,
+            "weight": 655611,
+            "week_number": 35,
             "post": {
-                "post_id": "t3_1evuz3o",
-                "author": "kirtash93",
-                "reddit_upvotes": 39,
-                "title": "How I lost $24.389,51 And Much More Due To A Hack For Not Following My Gut",
-                "tips": 32,
-                "tips_amount": 3367.3225,
-                "url": "https://redd.it/1evuz3o",
-                "created_date": "2024-08-19 01:30:08",
-                "flair": "Self Story"
+                "post_id": "t3_1f2f7i4",
+                "author": "Friendly-Airline2426",
+                "reddit_upvotes": 19,
+                "title": "DONUT monthly report - August recap + updates",
+                "tips": 16,
+                "tips_amount": 30,
+                "url": "https://redd.it/1f2f7i4",
+                "created_date": "2024-08-27 11:58:05",
+                "flair": "Meta & Donut"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 179704,
-            "week_number": 34,
+            "weight": 500000,
+            "week_number": 35,
             "post": {
-                "post_id": "t3_1ezt9ob",
-                "author": "abcoathup",
+                "post_id": "t3_1f34l3p",
+                "author": "rikbona",
                 "reddit_upvotes": 10,
-                "title": "Latest Week in Ethereum News; \ud83c\udf82 Eight year anniversary",
-                "tips": 5,
-                "tips_amount": 46.88,
-                "url": "https://redd.it/1ezt9ob",
-                "created_date": "2024-08-23 20:11:54",
-                "flair": "News"
+                "title": "Some important differences between Ethereum and Ethereum ETFs. Feel free to add more!",
+                "tips": 15,
+                "tips_amount": 24,
+                "url": "https://redd.it/1f34l3p",
+                "created_date": "2024-08-28 07:58:49",
+                "flair": "Discussion"
             }
         },
         {
             "rank": 4,
-            "nominations": 1,
-            "weight": 179704,
-            "week_number": 34,
+            "nominations": 2,
+            "weight": 311669,
+            "week_number": 35,
             "post": {
-                "post_id": "t3_1ex2p3r",
-                "author": "Friendly-Airline2426",
-                "reddit_upvotes": 13,
-                "title": "LINK price performance analysis, August 20 2024 - The good and the bad",
-                "tips": 12,
-                "tips_amount": 16,
-                "url": "https://redd.it/1ex2p3r",
-                "created_date": "2024-08-20 13:12:03",
-                "flair": "Trading"
+                "post_id": "t3_1f1kmar",
+                "author": "yester_philippines",
+                "reddit_upvotes": 64,
+                "title": "Why I think the Bullrun is closer than we think",
+                "tips": 27,
+                "tips_amount": 28.69,
+                "url": "https://redd.it/1f1kmar",
+                "created_date": "2024-08-26 10:11:56",
+                "flair": "Sentiment"
             }
         }
     ]
