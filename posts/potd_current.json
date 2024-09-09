@@ -1,73 +1,73 @@
 {
-    "last_update": 1725260461,
-    "last_update_week": 36,
+    "last_update": 1725865261,
+    "last_update_week": 37,
     "winners": [
         {
             "rank": 1,
-            "nominations": 3,
-            "weight": 784798,
-            "week_number": 35,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 36,
             "post": {
-                "post_id": "t3_1f1jwpu",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 12,
-                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 15",
+                "post_id": "t3_1f79ww2",
+                "author": "DrRobbe",
+                "reddit_upvotes": 14,
+                "title": "Tip Leaderboard - Week 35",
                 "tips": 17,
-                "tips_amount": 46.15157,
-                "url": "https://redd.it/1f1jwpu",
-                "created_date": "2024-08-26 09:23:39",
-                "flair": "Original Content"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 2,
-            "weight": 655611,
-            "week_number": 35,
-            "post": {
-                "post_id": "t3_1f2f7i4",
-                "author": "Friendly-Airline2426",
-                "reddit_upvotes": 19,
-                "title": "DONUT monthly report - August recap + updates",
-                "tips": 16,
-                "tips_amount": 30,
-                "url": "https://redd.it/1f2f7i4",
-                "created_date": "2024-08-27 11:58:05",
+                "tips_amount": 18,
+                "url": "https://redd.it/1f79ww2",
+                "created_date": "2024-09-02 15:42:57",
                 "flair": "Meta & Donut"
             }
         },
         {
-            "rank": 3,
+            "rank": 2,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 35,
+            "weight": 494314,
+            "week_number": 36,
             "post": {
-                "post_id": "t3_1f34l3p",
-                "author": "rikbona",
+                "post_id": "t3_1f721yv",
+                "author": "DBRiMatt",
                 "reddit_upvotes": 10,
-                "title": "Some important differences between Ethereum and Ethereum ETFs. Feel free to add more!",
-                "tips": 15,
-                "tips_amount": 24,
-                "url": "https://redd.it/1f34l3p",
-                "created_date": "2024-08-28 07:58:49",
-                "flair": "Discussion"
+                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 17",
+                "tips": 12,
+                "tips_amount": 17.2885,
+                "url": "https://redd.it/1f721yv",
+                "created_date": "2024-09-02 08:54:06",
+                "flair": "Original Content"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 5,
+            "weight": 489922,
+            "week_number": 36,
+            "post": {
+                "post_id": "t3_1f7501h",
+                "author": "Friendly-Airline2426",
+                "reddit_upvotes": 14,
+                "title": "What's the ticker? - Episode 1: $MOON",
+                "tips": 14,
+                "tips_amount": 22,
+                "url": "https://redd.it/1f7501h",
+                "created_date": "2024-09-02 12:01:19",
+                "flair": "Original Content"
             }
         },
         {
             "rank": 4,
-            "nominations": 2,
-            "weight": 311669,
-            "week_number": 35,
+            "nominations": 1,
+            "weight": 301000,
+            "week_number": 36,
             "post": {
-                "post_id": "t3_1f1kmar",
-                "author": "yester_philippines",
-                "reddit_upvotes": 64,
-                "title": "Why I think the Bullrun is closer than we think",
-                "tips": 27,
-                "tips_amount": 28.69,
-                "url": "https://redd.it/1f1kmar",
-                "created_date": "2024-08-26 10:11:56",
-                "flair": "Sentiment"
+                "post_id": "t3_1f9f5qq",
+                "author": "Every_Hunt_160",
+                "reddit_upvotes": 8,
+                "title": "Do you think that Eth Layer 2 coins have a future and is worth to accumulate? Analysing the pros and cons! ",
+                "tips": 15,
+                "tips_amount": 15,
+                "url": "https://redd.it/1f9f5qq",
+                "created_date": "2024-09-05 05:47:19",
+                "flair": "Original Content"
             }
         }
     ]
