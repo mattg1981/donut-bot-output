@@ -1,72 +1,38 @@
 {
-    "last_update": 1725865261,
-    "last_update_week": 37,
+    "last_update": 1726470061,
+    "last_update_week": 38,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 36,
+            "weight": 231123,
+            "week_number": 37,
             "post": {
-                "post_id": "t3_1f79ww2",
-                "author": "DrRobbe",
-                "reddit_upvotes": 14,
-                "title": "Tip Leaderboard - Week 35",
-                "tips": 17,
-                "tips_amount": 18,
-                "url": "https://redd.it/1f79ww2",
-                "created_date": "2024-09-02 15:42:57",
-                "flair": "Meta & Donut"
+                "post_id": "t3_1ff7el1",
+                "author": "Friendly-Airline2426",
+                "reddit_upvotes": 18,
+                "title": "The truth about memecoins that no one talks about",
+                "tips": 9,
+                "tips_amount": 33,
+                "url": "https://redd.it/1ff7el1",
+                "created_date": "2024-09-12 16:54:44",
+                "flair": "Discussion"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 494314,
-            "week_number": 36,
+            "weight": 20013,
+            "week_number": 37,
             "post": {
-                "post_id": "t3_1f721yv",
+                "post_id": "t3_1fcmlvq",
                 "author": "DBRiMatt",
-                "reddit_upvotes": 10,
-                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 17",
-                "tips": 12,
-                "tips_amount": 17.2885,
-                "url": "https://redd.it/1f721yv",
-                "created_date": "2024-09-02 08:54:06",
-                "flair": "Original Content"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 5,
-            "weight": 489922,
-            "week_number": 36,
-            "post": {
-                "post_id": "t3_1f7501h",
-                "author": "Friendly-Airline2426",
-                "reddit_upvotes": 14,
-                "title": "What's the ticker? - Episode 1: $MOON",
-                "tips": 14,
-                "tips_amount": 22,
-                "url": "https://redd.it/1f7501h",
-                "created_date": "2024-09-02 12:01:19",
-                "flair": "Original Content"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 301000,
-            "week_number": 36,
-            "post": {
-                "post_id": "t3_1f9f5qq",
-                "author": "Every_Hunt_160",
-                "reddit_upvotes": 8,
-                "title": "Do you think that Eth Layer 2 coins have a future and is worth to accumulate? Analysing the pros and cons! ",
-                "tips": 15,
-                "tips_amount": 15,
-                "url": "https://redd.it/1f9f5qq",
-                "created_date": "2024-09-05 05:47:19",
+                "reddit_upvotes": 7,
+                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 18",
+                "tips": 6,
+                "tips_amount": 11.9,
+                "url": "https://redd.it/1fcmlvq",
+                "created_date": "2024-09-09 10:58:41",
                 "flair": "Original Content"
             }
         }
