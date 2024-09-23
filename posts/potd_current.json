@@ -1,39 +1,73 @@
 {
-    "last_update": 1726470061,
-    "last_update_week": 38,
+    "last_update": 1727074861,
+    "last_update_week": 39,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 231123,
-            "week_number": 37,
+            "nominations": 2,
+            "weight": 725437,
+            "week_number": 38,
             "post": {
-                "post_id": "t3_1ff7el1",
+                "post_id": "t3_1fm6287",
                 "author": "Friendly-Airline2426",
-                "reddit_upvotes": 18,
-                "title": "The truth about memecoins that no one talks about",
-                "tips": 9,
-                "tips_amount": 33,
-                "url": "https://redd.it/1ff7el1",
-                "created_date": "2024-09-12 16:54:44",
-                "flair": "Discussion"
+                "reddit_upvotes": 16,
+                "title": "[Memecoins Edition] PEPE price performance analysis, September 21 2024",
+                "tips": 13,
+                "tips_amount": 22,
+                "url": "https://redd.it/1fm6287",
+                "created_date": "2024-09-21 15:51:34",
+                "flair": "Technicals"
             }
         },
         {
             "rank": 2,
-            "nominations": 1,
-            "weight": 20013,
-            "week_number": 37,
+            "nominations": 2,
+            "weight": 518363,
+            "week_number": 38,
             "post": {
-                "post_id": "t3_1fcmlvq",
+                "post_id": "t3_1fhzcim",
                 "author": "DBRiMatt",
-                "reddit_upvotes": 7,
-                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 18",
-                "tips": 6,
-                "tips_amount": 11.9,
-                "url": "https://redd.it/1fcmlvq",
-                "created_date": "2024-09-09 10:58:41",
+                "reddit_upvotes": 8,
+                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 19",
+                "tips": 12,
+                "tips_amount": 81.52819,
+                "url": "https://redd.it/1fhzcim",
+                "created_date": "2024-09-16 08:11:51",
                 "flair": "Original Content"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 231123,
+            "week_number": 38,
+            "post": {
+                "post_id": "t3_1flv5u1",
+                "author": "Every_Hunt_160",
+                "reddit_upvotes": 6,
+                "title": "Airdrop galore - (Surprise) LayerZero second claim and EigenLayer Season 2 is here! Sharing the steps to check and claim your allocation",
+                "tips": 10,
+                "tips_amount": 28.9,
+                "url": "https://redd.it/1flv5u1",
+                "created_date": "2024-09-21 04:39:50",
+                "flair": "Original Content"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 231123,
+            "week_number": 38,
+            "post": {
+                "post_id": "t3_1fi1pow",
+                "author": "DrRobbe",
+                "reddit_upvotes": 9,
+                "title": "Tip Leaderboard - Week 37",
+                "tips": 19,
+                "tips_amount": 32,
+                "url": "https://redd.it/1fi1pow",
+                "created_date": "2024-09-16 11:02:51",
+                "flair": "Meta & Donut"
             }
         }
     ]
