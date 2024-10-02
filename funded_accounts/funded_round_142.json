@@ -1,0 +1,13 @@
+[
+    {
+        "user": "carlslarson",
+        "address": "0x95d9bed31423eb7d5b68511e0352eae39a3cdd20",
+        "amount": 470000,
+        "token": "DONUT",
+        "block_number": 259652537,
+        "tx_hash": "0xbdef60a799dff1d8ac21014fe6de4bf7cf5b3aaf07e7c197403f02650d64067c",
+        "tx_timestamp": "2024-10-02 15:38:58",
+        "processed_at": "2024-10-02 15:40:07.675339",
+        "created_at": "2024-10-02 15:40:06.486690"
+    }
+]
