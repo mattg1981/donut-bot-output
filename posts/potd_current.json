@@ -1,73 +1,73 @@
 {
-    "last_update": 1727679661,
-    "last_update_week": 40,
+    "last_update": 1728284461,
+    "last_update_week": 41,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 39,
+            "nominations": 2,
+            "weight": 659670,
+            "week_number": 40,
             "post": {
-                "post_id": "t3_1fq15zl",
+                "post_id": "t3_1fv7d3v",
                 "author": "DBRiMatt",
-                "reddit_upvotes": 9,
-                "title": "[EthTrader Contest] Round 141 Results and Rewards",
+                "reddit_upvotes": 6,
+                "title": "Exploring ZKSync - KOI token",
                 "tips": 9,
-                "tips_amount": 229,
-                "url": "https://redd.it/1fq15zl",
-                "created_date": "2024-09-26 17:01:22",
-                "flair": "Meta & Donut"
+                "tips_amount": 18.9,
+                "url": "https://redd.it/1fv7d3v",
+                "created_date": "2024-10-03 13:10:06",
+                "flair": "Original Content"
             }
         },
         {
             "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 39,
+            "nominations": 2,
+            "weight": 518396,
+            "week_number": 40,
             "post": {
-                "post_id": "t3_1fp6l6c",
-                "author": "FattestLion",
-                "reddit_upvotes": 24,
-                "title": "Ethtrader Market Update (25 September 2024): Crypto Markets Enter Crab Mode as Traders Await More Significant Data",
-                "tips": 18,
-                "tips_amount": 27.69,
-                "url": "https://redd.it/1fp6l6c",
-                "created_date": "2024-09-25 15:01:39",
-                "flair": "Trading"
+                "post_id": "t3_1fsrqd5",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 11,
+                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 21",
+                "tips": 15,
+                "tips_amount": 88.3467,
+                "url": "https://redd.it/1fsrqd5",
+                "created_date": "2024-09-30 09:48:55",
+                "flair": "Original Content"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 494314,
-            "week_number": 39,
+            "weight": 500000,
+            "week_number": 40,
             "post": {
-                "post_id": "t3_1fqlmsj",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 14,
-                "title": "[EthTrader Contest] Round 142 (1) Prediction Contest",
-                "tips": 20,
-                "tips_amount": 57,
-                "url": "https://redd.it/1fqlmsj",
-                "created_date": "2024-09-27 11:38:11",
-                "flair": "Meta & Donut"
+                "post_id": "t3_1fxe4r1",
+                "author": "FattestLion",
+                "reddit_upvotes": 20,
+                "title": "Ethtrader Market Update (6 October 2024): The Week Ahead",
+                "tips": 17,
+                "tips_amount": 18.01,
+                "url": "https://redd.it/1fxe4r1",
+                "created_date": "2024-10-06 11:12:19",
+                "flair": "Trading"
             }
         },
         {
             "rank": 4,
             "nominations": 1,
-            "weight": 301000,
-            "week_number": 39,
+            "weight": 500000,
+            "week_number": 40,
             "post": {
-                "post_id": "t3_1frd4nq",
-                "author": "Buzzalu",
-                "reddit_upvotes": 15,
-                "title": "Crypto\u2019s Battle for Global Dominance",
-                "tips": 18,
-                "tips_amount": 25.2,
-                "url": "https://redd.it/1frd4nq",
-                "created_date": "2024-09-28 12:25:00",
-                "flair": "Discussion"
+                "post_id": "t3_1fv96mm",
+                "author": "FattestLion",
+                "reddit_upvotes": 20,
+                "title": "Ethtrader Market Update (3 October 2024): Downside Pressure Remains in Crypto, US Services Data Shows Strength ",
+                "tips": 21,
+                "tips_amount": 23.69,
+                "url": "https://redd.it/1fv96mm",
+                "created_date": "2024-10-03 14:33:43",
+                "flair": "Trading"
             }
         }
     ]
