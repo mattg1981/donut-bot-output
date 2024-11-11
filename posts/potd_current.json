@@ -1,73 +1,56 @@
 {
-    "last_update": 1730703661,
-    "last_update_week": 45,
+    "last_update": 1731308462,
+    "last_update_week": 46,
     "winners": [
         {
             "rank": 1,
-            "nominations": 4,
-            "weight": 1111779,
-            "week_number": 44,
-            "post": {
-                "post_id": "t3_1gdv7p9",
-                "author": "DrRobbe",
-                "reddit_upvotes": 8,
-                "title": "User Analysis per distribution",
-                "tips": 10,
-                "tips_amount": 28.532,
-                "url": "https://redd.it/1gdv7p9",
-                "created_date": "2024-10-28 05:58:48",
-                "flair": "Meta & Donut"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 1,
-            "weight": 312954,
-            "week_number": 44,
+            "nominations": 3,
+            "weight": 400238,
+            "week_number": 45,
             "post": {
                 "post_id": "t3_1gj7e6y",
                 "author": "DrRobbe",
-                "reddit_upvotes": 8,
+                "reddit_upvotes": 5,
                 "title": "Tip Leaderboard - Week 44",
-                "tips": 6,
-                "tips_amount": 20.9,
+                "tips": 9,
+                "tips_amount": 23.91,
                 "url": "https://redd.it/1gj7e6y",
                 "created_date": "2024-11-04 05:43:37",
                 "flair": "Meta & Donut"
             }
         },
         {
-            "rank": 3,
+            "rank": 2,
             "nominations": 1,
-            "weight": 312954,
-            "week_number": 44,
+            "weight": 109739,
+            "week_number": 45,
             "post": {
-                "post_id": "t3_1gihu8l",
-                "author": "kirtash93",
-                "reddit_upvotes": 49,
-                "title": "Ethereum (ETH) Is Just Following The Plan: It's Time to Put On Your Astronaut Suit to Be Ready For What Is Coming Next",
-                "tips": 18,
-                "tips_amount": 42.910000000000004,
-                "url": "https://redd.it/1gihu8l",
-                "created_date": "2024-11-03 07:47:42",
-                "flair": "Discussion"
+                "post_id": "t3_1gjxgyx",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 10,
+                "title": "Remember, remember, the 5th of November - Art Competition (r/EthTrader x r/avatartrading)",
+                "tips": 7,
+                "tips_amount": 1006,
+                "url": "https://redd.it/1gjxgyx",
+                "created_date": "2024-11-05 03:26:20",
+                "flair": "Official Announcement"
             }
         },
         {
-            "rank": 4,
+            "rank": 3,
             "nominations": 1,
-            "weight": 312954,
-            "week_number": 44,
+            "weight": 29141,
+            "week_number": 45,
             "post": {
-                "post_id": "t3_1ghx29u",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 28,
-                "title": "Bullish on Ethereum, but bearish on ETH.",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1ghx29u",
-                "created_date": "2024-11-02 13:59:49",
-                "flair": "Sentiment"
+                "post_id": "t3_1gjb0h0",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 7,
+                "title": "Diving into the Donut Pool: Week 25",
+                "tips": 11,
+                "tips_amount": 16.9,
+                "url": "https://redd.it/1gjb0h0",
+                "created_date": "2024-11-04 10:18:34",
+                "flair": "Meta & Donut"
             }
         }
     ]
