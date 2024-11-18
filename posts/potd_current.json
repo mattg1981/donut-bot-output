@@ -1,55 +1,72 @@
 {
-    "last_update": 1731308462,
-    "last_update_week": 46,
+    "last_update": 1731913262,
+    "last_update_week": 47,
     "winners": [
         {
             "rank": 1,
-            "nominations": 3,
-            "weight": 400238,
-            "week_number": 45,
+            "nominations": 1,
+            "weight": 312954,
+            "week_number": 46,
             "post": {
-                "post_id": "t3_1gj7e6y",
-                "author": "DrRobbe",
-                "reddit_upvotes": 5,
-                "title": "Tip Leaderboard - Week 44",
-                "tips": 9,
-                "tips_amount": 23.91,
-                "url": "https://redd.it/1gj7e6y",
-                "created_date": "2024-11-04 05:43:37",
-                "flair": "Meta & Donut"
+                "post_id": "t3_1gqbear",
+                "author": "jamesrosshill",
+                "reddit_upvotes": 3,
+                "title": "Airdrop farmers - Linea Airdrop confirmed!",
+                "tips": 3,
+                "tips_amount": 3,
+                "url": "https://redd.it/1gqbear",
+                "created_date": "2024-11-13 12:07:21",
+                "flair": "Airdrop Guide"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 109739,
-            "week_number": 45,
+            "weight": 312954,
+            "week_number": 46,
             "post": {
-                "post_id": "t3_1gjxgyx",
-                "author": "0xMarcAurel",
-                "reddit_upvotes": 10,
-                "title": "Remember, remember, the 5th of November - Art Competition (r/EthTrader x r/avatartrading)",
-                "tips": 7,
-                "tips_amount": 1006,
-                "url": "https://redd.it/1gjxgyx",
-                "created_date": "2024-11-05 03:26:20",
-                "flair": "Official Announcement"
+                "post_id": "t3_1golt5i",
+                "author": "DrRobbe",
+                "reddit_upvotes": 9,
+                "title": "Tip Leaderboard - Week 45",
+                "tips": 15,
+                "tips_amount": 32.742,
+                "url": "https://redd.it/1golt5i",
+                "created_date": "2024-11-11 06:21:16",
+                "flair": "Meta & Donut"
             }
         },
         {
             "rank": 3,
-            "nominations": 1,
-            "weight": 29141,
-            "week_number": 45,
+            "nominations": 2,
+            "weight": 151641,
+            "week_number": 46,
             "post": {
-                "post_id": "t3_1gjb0h0",
-                "author": "DBRiMatt",
+                "post_id": "t3_1gpehd8",
+                "author": "DrRobbe",
                 "reddit_upvotes": 7,
-                "title": "Diving into the Donut Pool: Week 25",
-                "tips": 11,
-                "tips_amount": 16.9,
-                "url": "https://redd.it/1gjb0h0",
-                "created_date": "2024-11-04 10:18:34",
+                "title": "Posts of the Week analysis - follow up 5 weeks later",
+                "tips": 10,
+                "tips_amount": 39.9,
+                "url": "https://redd.it/1gpehd8",
+                "created_date": "2024-11-12 06:23:28",
+                "flair": "Meta & Donut"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 29224,
+            "week_number": 46,
+            "post": {
+                "post_id": "t3_1goqbrv",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 11,
+                "title": "Diving into the Donut Pool: Week 26",
+                "tips": 10,
+                "tips_amount": 10,
+                "url": "https://redd.it/1goqbrv",
+                "created_date": "2024-11-11 11:44:42",
                 "flair": "Meta & Donut"
             }
         }
