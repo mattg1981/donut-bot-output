@@ -1,73 +1,56 @@
 {
-    "last_update": 1735542061,
-    "last_update_week": 53,
+    "last_update": 1736146861,
+    "last_update_week": 2,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 52,
+            "weight": 373389,
+            "week_number": 0,
             "post": {
-                "post_id": "t3_1hmwmdm",
-                "author": "bzzking",
-                "reddit_upvotes": 23,
-                "title": "Why I am bullish on ETH 2025 analysis!",
-                "tips": 7,
-                "tips_amount": 14,
-                "url": "https://redd.it/1hmwmdm",
-                "created_date": "2024-12-26 20:01:59",
-                "flair": "Sentiment"
+                "post_id": "t3_1hsgngc",
+                "author": "kirtash93",
+                "reddit_upvotes": 7,
+                "title": "Guide to Become An Expert Technical Analyst: Hammer Candlestick Pattern",
+                "tips": 8,
+                "tips_amount": 8,
+                "url": "https://redd.it/1hsgngc",
+                "created_date": "2025-01-03 07:02:26",
+                "flair": "Trading"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 373389,
-            "week_number": 52,
+            "week_number": 0,
             "post": {
-                "post_id": "t3_1ho5bcq",
-                "author": "Creative_Ad7831",
-                "reddit_upvotes": 12,
-                "title": "Why no crypto rally during Christmas holiday",
-                "tips": 10,
-                "tips_amount": 10,
-                "url": "https://redd.it/1ho5bcq",
-                "created_date": "2024-12-28 13:07:08",
-                "flair": "Analysis"
+                "post_id": "t3_1hqfyae",
+                "author": "CymandeTV",
+                "reddit_upvotes": 11,
+                "title": "What will become of your USDTs with the imminent arrival of MiCA regulations?",
+                "tips": 11,
+                "tips_amount": 11,
+                "url": "https://redd.it/1hqfyae",
+                "created_date": "2024-12-31 14:37:59",
+                "flair": "Discussion"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 373389,
-            "week_number": 52,
+            "weight": 39720,
+            "week_number": 0,
             "post": {
-                "post_id": "t3_1hmng28",
+                "post_id": "t3_1hu0vui",
                 "author": "kirtash93",
-                "reddit_upvotes": 3,
-                "title": "Guide to Become An Expert Technical Analyst: Rising Wedge and Falling Wedge Patterns",
-                "tips": 9,
-                "tips_amount": 9,
-                "url": "https://redd.it/1hmng28",
-                "created_date": "2024-12-26 12:32:20",
-                "flair": "Original Content"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 373389,
-            "week_number": 52,
-            "post": {
-                "post_id": "t3_1hkl6wc",
-                "author": "kirtash93",
-                "reddit_upvotes": 7,
-                "title": "Guide to Become An Expert Technical Analyst: Double Top and Double Bottom Patterns",
-                "tips": 13,
-                "tips_amount": 13,
-                "url": "https://redd.it/1hkl6wc",
-                "created_date": "2024-12-23 10:42:54",
-                "flair": "Original Content"
+                "reddit_upvotes": 10,
+                "title": "A Deep Dive into Dune: The Ultimate Crypto Data Analysis Tool",
+                "tips": 11,
+                "tips_amount": 11,
+                "url": "https://redd.it/1hu0vui",
+                "created_date": "2025-01-05 07:40:42",
+                "flair": "Analysis"
             }
         }
     ]
