@@ -1,56 +1,73 @@
 {
-    "last_update": 1736146861,
-    "last_update_week": 2,
+    "last_update": 1736751661,
+    "last_update_week": 3,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 373389,
-            "week_number": 0,
+            "nominations": 4,
+            "weight": 521566,
+            "week_number": 1,
             "post": {
-                "post_id": "t3_1hsgngc",
-                "author": "kirtash93",
-                "reddit_upvotes": 7,
-                "title": "Guide to Become An Expert Technical Analyst: Hammer Candlestick Pattern",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1hsgngc",
-                "created_date": "2025-01-03 07:02:26",
-                "flair": "Trading"
+                "post_id": "t3_1hx6ja9",
+                "author": "DrRobbe",
+                "reddit_upvotes": 11,
+                "title": "I want you to register in this sub",
+                "tips": 12,
+                "tips_amount": 80,
+                "url": "https://redd.it/1hx6ja9",
+                "created_date": "2025-01-09 06:15:33",
+                "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 373389,
-            "week_number": 0,
+            "week_number": 1,
             "post": {
-                "post_id": "t3_1hqfyae",
-                "author": "CymandeTV",
-                "reddit_upvotes": 11,
-                "title": "What will become of your USDTs with the imminent arrival of MiCA regulations?",
+                "post_id": "t3_1hypdi9",
+                "author": "kirtash93",
+                "reddit_upvotes": 9,
+                "title": "Polygon's Future: Polymarket's Rise & Pok\u00e9mon Card Tokenization Signal Major Adoption - Is POL Undervalued?",
                 "tips": 11,
                 "tips_amount": 11,
-                "url": "https://redd.it/1hqfyae",
-                "created_date": "2024-12-31 14:37:59",
-                "flair": "Discussion"
+                "url": "https://redd.it/1hypdi9",
+                "created_date": "2025-01-11 05:50:39",
+                "flair": "Sentiment"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 39720,
-            "week_number": 0,
+            "weight": 373389,
+            "week_number": 1,
             "post": {
-                "post_id": "t3_1hu0vui",
-                "author": "kirtash93",
-                "reddit_upvotes": 10,
-                "title": "A Deep Dive into Dune: The Ultimate Crypto Data Analysis Tool",
+                "post_id": "t3_1hxs1mv",
+                "author": "InclineDumbbellPress",
+                "reddit_upvotes": 1537,
+                "title": "Live footage of an Ethereum holder",
                 "tips": 11,
                 "tips_amount": 11,
-                "url": "https://redd.it/1hu0vui",
-                "created_date": "2025-01-05 07:40:42",
-                "flair": "Analysis"
+                "url": "https://redd.it/1hxs1mv",
+                "created_date": "2025-01-10 00:41:36",
+                "flair": "Media"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 373389,
+            "week_number": 1,
+            "post": {
+                "post_id": "t3_1huuazo",
+                "author": "DrRobbe",
+                "reddit_upvotes": 5,
+                "title": "Tip Leaderboard - Week 01",
+                "tips": 11,
+                "tips_amount": 11,
+                "url": "https://redd.it/1huuazo",
+                "created_date": "2025-01-06 08:15:46",
+                "flair": "Donut"
             }
         }
     ]
