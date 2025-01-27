@@ -1,73 +1,39 @@
 {
-    "last_update": 1737356461,
-    "last_update_week": 4,
+    "last_update": 1737961262,
+    "last_update_week": 5,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 373389,
-            "week_number": 2,
+            "week_number": 3,
             "post": {
-                "post_id": "t3_1i489j4",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 121,
-                "title": "This doesn\u2019t make any sense.",
-                "tips": 11,
-                "tips_amount": 11,
-                "url": "https://redd.it/1i489j4",
-                "created_date": "2025-01-18 14:08:14",
-                "flair": "Sentiment"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 1,
-            "weight": 373389,
-            "week_number": 2,
-            "post": {
-                "post_id": "t3_1i1qzee",
-                "author": "BigRon1977",
-                "reddit_upvotes": 17,
-                "title": "Base Makes History As Second L2 To Ever Cross $100B Swap Volume On Uniswap",
-                "tips": 10,
-                "tips_amount": 10,
-                "url": "https://redd.it/1i1qzee",
-                "created_date": "2025-01-15 05:57:30",
-                "flair": "Metrics"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 373389,
-            "week_number": 2,
-            "post": {
-                "post_id": "t3_1i1nxkf",
-                "author": "Creative_Ad7831",
-                "reddit_upvotes": 9,
-                "title": "Staking vs Lending, which one is better?",
-                "tips": 10,
-                "tips_amount": 10,
-                "url": "https://redd.it/1i1nxkf",
-                "created_date": "2025-01-15 02:58:46",
+                "post_id": "t3_1i6kj9i",
+                "author": "kirtash93",
+                "reddit_upvotes": 7,
+                "title": "Things to Check Before Choosing a Polygon Validator for Staking POL",
+                "tips": 12,
+                "tips_amount": 12,
+                "url": "https://redd.it/1i6kj9i",
+                "created_date": "2025-01-21 15:03:06",
                 "flair": "Staking"
             }
         },
         {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 373389,
-            "week_number": 2,
+            "rank": 2,
+            "nominations": 2,
+            "weight": 264042,
+            "week_number": 3,
             "post": {
-                "post_id": "t3_1i0792q",
-                "author": "DrRobbe",
-                "reddit_upvotes": 10,
-                "title": "Tip Leaderboard - Week 02",
-                "tips": 10,
-                "tips_amount": 13,
-                "url": "https://redd.it/1i0792q",
-                "created_date": "2025-01-13 05:44:41",
-                "flair": "Donut"
+                "post_id": "t3_1i82iya",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 13,
+                "title": "[EthTrader Contest] Happy Birthday $DONUT - 6 years old",
+                "tips": 9,
+                "tips_amount": 29.8,
+                "url": "https://redd.it/1i82iya",
+                "created_date": "2025-01-23 12:44:41",
+                "flair": "Donut - 6 years on-chain :donut:"
             }
         }
     ]
