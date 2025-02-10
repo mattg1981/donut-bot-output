@@ -1,73 +1,73 @@
 {
-    "last_update": 1738566061,
-    "last_update_week": 6,
+    "last_update": 1739170862,
+    "last_update_week": 7,
     "winners": [
         {
             "rank": 1,
-            "nominations": 2,
-            "weight": 519018,
-            "week_number": 4,
+            "nominations": 1,
+            "weight": 400905,
+            "week_number": 5,
             "post": {
-                "post_id": "t3_1icp6jp",
-                "author": "DrRobbe",
-                "reddit_upvotes": 12,
-                "title": "Posts of the Week Leaderboard",
-                "tips": 11,
-                "tips_amount": 11,
-                "url": "https://redd.it/1icp6jp",
-                "created_date": "2025-01-29 08:20:43",
-                "flair": "Donut"
+                "post_id": "t3_1igm2yv",
+                "author": "thecryptos",
+                "reddit_upvotes": 146,
+                "title": "Falling knife",
+                "tips": 10,
+                "tips_amount": 78,
+                "url": "https://redd.it/1igm2yv",
+                "created_date": "2025-02-03 10:24:55",
+                "flair": "Meme"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 373389,
-            "week_number": 4,
+            "weight": 400905,
+            "week_number": 5,
             "post": {
-                "post_id": "t3_1ibmk1s",
-                "author": "thecryptos",
-                "reddit_upvotes": 154,
-                "title": "AI Crash",
-                "tips": 4,
-                "tips_amount": 4,
-                "url": "https://redd.it/1ibmk1s",
-                "created_date": "2025-01-27 22:47:42",
-                "flair": "Meme"
+                "post_id": "t3_1igibk7",
+                "author": "DrRobbe",
+                "reddit_upvotes": 10,
+                "title": "Tip Leaderboard - Week 05",
+                "tips": 11,
+                "tips_amount": 11,
+                "url": "https://redd.it/1igibk7",
+                "created_date": "2025-02-03 05:51:51",
+                "flair": "Donut"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 373389,
-            "week_number": 4,
+            "weight": 335699,
+            "week_number": 5,
             "post": {
-                "post_id": "t3_1ib1d18",
-                "author": "DrRobbe",
-                "reddit_upvotes": 9,
-                "title": "Tip Leaderboard - Week 04",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1ib1d18",
-                "created_date": "2025-01-27 06:03:17",
+                "post_id": "t3_1igns66",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 11,
+                "title": "DONUT monthly report - January recap + updates",
+                "tips": 12,
+                "tips_amount": 211,
+                "url": "https://redd.it/1igns66",
+                "created_date": "2025-02-03 12:18:58",
                 "flair": "Donut"
             }
         },
         {
             "rank": 4,
             "nominations": 1,
-            "weight": 335699,
-            "week_number": 4,
+            "weight": 47443,
+            "week_number": 5,
             "post": {
-                "post_id": "t3_1ibgie3",
-                "author": "0xMarcAurel",
-                "reddit_upvotes": 44,
-                "title": "AMA on r/EthTrader with Paul Grewal, Chief Legal Officer at Coinbase - February 3, 4 pm (UTC+0)",
-                "tips": 6,
-                "tips_amount": 11.9,
-                "url": "https://redd.it/1ibgie3",
-                "created_date": "2025-01-27 18:41:16",
-                "flair": "AMA Session"
+                "post_id": "t3_1ii4j4k",
+                "author": "kirtash93",
+                "reddit_upvotes": 21,
+                "title": "DONUT is Entering a New Era - We Are Not Bullish Enough",
+                "tips": 15,
+                "tips_amount": 515.1337,
+                "url": "https://redd.it/1ii4j4k",
+                "created_date": "2025-02-05 07:12:35",
+                "flair": "Sentiment"
             }
         }
     ]
