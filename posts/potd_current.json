@@ -1,39 +1,73 @@
 {
-    "last_update": 1740380461,
-    "last_update_week": 9,
+    "last_update": 1740985261,
+    "last_update_week": 10,
     "winners": [
         {
             "rank": 1,
             "nominations": 2,
             "weight": 786149,
-            "week_number": 7,
+            "week_number": 8,
             "post": {
-                "post_id": "t3_1irjk3u",
-                "author": "0xMarcAurel",
-                "reddit_upvotes": 617,
-                "title": "Someone burned 500 eth with a mysterious message. Brain-computer weapons?",
-                "tips": 12,
-                "tips_amount": 25,
-                "url": "https://redd.it/1irjk3u",
-                "created_date": "2025-02-17 13:14:39",
-                "flair": "Discussion"
+                "post_id": "t3_1iwvbfo",
+                "author": "DrRobbe",
+                "reddit_upvotes": 10,
+                "title": "Tip Leaderboard - Week 08",
+                "tips": 9,
+                "tips_amount": 108,
+                "url": "https://redd.it/1iwvbfo",
+                "created_date": "2025-02-24 06:09:38",
+                "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 55529,
-            "week_number": 7,
+            "weight": 434905,
+            "week_number": 8,
             "post": {
-                "post_id": "t3_1irdwix",
-                "author": "kirtash93",
-                "reddit_upvotes": 15,
-                "title": "Redditors Are Leaving \"Free\" DONUT on the Table - Last Cycle's DONUT Distribution Data Reveals Big Opportunities",
-                "tips": 18,
-                "tips_amount": 18,
-                "url": "https://redd.it/1irdwix",
-                "created_date": "2025-02-17 06:52:18",
-                "flair": "Donut"
+                "post_id": "t3_1izrt38",
+                "author": "Diamond_Hands420",
+                "reddit_upvotes": 16,
+                "title": "SEC: \u201cMemecoins are not Securities\u201d",
+                "tips": 6,
+                "tips_amount": 6,
+                "url": "https://redd.it/1izrt38",
+                "created_date": "2025-02-27 22:02:51",
+                "flair": "Link"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 434905,
+            "week_number": 8,
+            "post": {
+                "post_id": "t3_1iytfok",
+                "author": "Wonderful_Bad6531",
+                "reddit_upvotes": 397,
+                "title": "Ethereum is set to close its worst-ever February, defying historical trends and market expectations, while Bitcoin hasn\u2019t performed this poorly since 2014",
+                "tips": 7,
+                "tips_amount": 7,
+                "url": "https://redd.it/1iytfok",
+                "created_date": "2025-02-26 17:46:37",
+                "flair": "Image/Video"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 434905,
+            "week_number": 8,
+            "post": {
+                "post_id": "t3_1ixtt1i",
+                "author": "thecryptos",
+                "reddit_upvotes": 137,
+                "title": "Roll back",
+                "tips": 7,
+                "tips_amount": 7,
+                "url": "https://redd.it/1ixtt1i",
+                "created_date": "2025-02-25 12:27:19",
+                "flair": "Meme"
             }
         }
     ]
