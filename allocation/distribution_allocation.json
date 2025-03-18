@@ -1,9 +1,12 @@
 {
     "posts": 510000,
     "comments": 340000,
-    "treasury": 255000,
-    "lp_mainnet": 400000,
-    "lp_arb1": 150000,
-    "moderation": 85000,
-    "distribution_organizer": 25000
+    "treasury": {
+	    "mods": 15000,
+	   	"devs": 30000,
+   		"community": 5000	   
+    },
+    "lp_mainnet": 250000,
+    "lp_arb1": 200000,
+    "community_contests": 25000
 }
