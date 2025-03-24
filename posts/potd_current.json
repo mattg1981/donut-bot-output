@@ -1,73 +1,39 @@
 {
-    "last_update": 1742194862,
-    "last_update_week": 12,
+    "last_update": 1742799662,
+    "last_update_week": 13,
     "winners": [
         {
             "rank": 1,
-            "nominations": 2,
-            "weight": 949256,
-            "week_number": 10,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 11,
             "post": {
-                "post_id": "t3_1j9d8pt",
+                "post_id": "t3_1jd5g8z",
                 "author": "DrRobbe",
-                "reddit_upvotes": 8,
-                "title": "Tip Leaderboard - Round 147",
-                "tips": 9,
-                "tips_amount": 9,
-                "url": "https://redd.it/1j9d8pt",
-                "created_date": "2025-03-12 06:21:58",
+                "reddit_upvotes": 9,
+                "title": "Tip Leaderboard - Week 11",
+                "tips": 11,
+                "tips_amount": 11,
+                "url": "https://redd.it/1jd5g8z",
+                "created_date": "2025-03-17 05:26:19",
                 "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 10,
-            "post": {
-                "post_id": "t3_1jcqcbs",
-                "author": "kirtash93",
-                "reddit_upvotes": 16,
-                "title": "US Money Supply Expanding Again - Is This the Liquidity Wave That Sends Crypto to New Highs?",
-                "tips": 8,
-                "tips_amount": 27.00001,
-                "url": "https://redd.it/1jcqcbs",
-                "created_date": "2025-03-16 17:13:09",
-                "flair": "Discussion"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
             "weight": 485065,
-            "week_number": 10,
+            "week_number": 11,
             "post": {
-                "post_id": "t3_1j7nzyt",
-                "author": "InclineDumbbellPress",
-                "reddit_upvotes": 17,
-                "title": "Ethereum Dominates RWAs\u2014The Future of TradFi Is On-Chain",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1j7nzyt",
-                "created_date": "2025-03-10 02:05:28",
-                "flair": "Metrics"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 69806,
-            "week_number": 10,
-            "post": {
-                "post_id": "t3_1ja42v4",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 7,
-                "title": "[EthTrader Contest] Round 147 Summary",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1ja42v4",
-                "created_date": "2025-03-13 04:33:46",
-                "flair": "Donut"
+                "post_id": "t3_1jcmpuu",
+                "author": "MasterpieceLoud4931",
+                "reddit_upvotes": 24,
+                "title": "A new Ethereum documentary is coming! Here\u2019s what to expect.",
+                "tips": 9,
+                "tips_amount": 18.003,
+                "url": "https://redd.it/1jcmpuu",
+                "created_date": "2025-03-16 14:31:17",
+                "flair": "Discussion"
             }
         }
     ]
