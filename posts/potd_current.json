@@ -1,38 +1,55 @@
 {
-    "last_update": 1742799662,
-    "last_update_week": 13,
+    "last_update": 1743404462,
+    "last_update_week": 14,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 11,
+            "week_number": 12,
             "post": {
-                "post_id": "t3_1jd5g8z",
-                "author": "DrRobbe",
-                "reddit_upvotes": 9,
-                "title": "Tip Leaderboard - Week 11",
-                "tips": 11,
-                "tips_amount": 11,
-                "url": "https://redd.it/1jd5g8z",
-                "created_date": "2025-03-17 05:26:19",
-                "flair": "Donut"
+                "post_id": "t3_1jloz3d",
+                "author": "kirtash93",
+                "reddit_upvotes": 16,
+                "title": "The Attrition War Keeps Going: In the Past 24 Hours 134,021 Traders Were Liquidated, Totaling $314.49 Million In Losses - Stay Strong and HODL, Patience Is Our Only Friend",
+                "tips": 13,
+                "tips_amount": 13,
+                "url": "https://redd.it/1jloz3d",
+                "created_date": "2025-03-28 06:41:02",
+                "flair": "Sentiment"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 485065,
-            "week_number": 11,
+            "weight": 500000,
+            "week_number": 12,
             "post": {
-                "post_id": "t3_1jcmpuu",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 24,
-                "title": "A new Ethereum documentary is coming! Here\u2019s what to expect.",
-                "tips": 9,
-                "tips_amount": 18.003,
-                "url": "https://redd.it/1jcmpuu",
-                "created_date": "2025-03-16 14:31:17",
+                "post_id": "t3_1jk9hv2",
+                "author": "kirtash93",
+                "reddit_upvotes": 15,
+                "title": "Polygon (POL/USD) 4H - March 26, 2025: POL (Old MATIC) Waking Up? Already Up 20% as Bullish Momentum Kicks In!",
+                "tips": 10,
+                "tips_amount": 10,
+                "url": "https://redd.it/1jk9hv2",
+                "created_date": "2025-03-26 11:27:00",
+                "flair": "Trading"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 12,
+            "post": {
+                "post_id": "t3_1jhw4x3",
+                "author": "Snoo_70674",
+                "reddit_upvotes": 153,
+                "title": "Ethereum is like buying Microsoft in 1985 (but bigger)",
+                "tips": 4,
+                "tips_amount": 4,
+                "url": "https://redd.it/1jhw4x3",
+                "created_date": "2025-03-23 10:17:25",
                 "flair": "Discussion"
             }
         }
