@@ -1,56 +1,73 @@
 {
-    "last_update": 1743404462,
-    "last_update_week": 14,
+    "last_update": 1744009261,
+    "last_update_week": 15,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 12,
+            "week_number": 13,
             "post": {
-                "post_id": "t3_1jloz3d",
-                "author": "kirtash93",
-                "reddit_upvotes": 16,
-                "title": "The Attrition War Keeps Going: In the Past 24 Hours 134,021 Traders Were Liquidated, Totaling $314.49 Million In Losses - Stay Strong and HODL, Patience Is Our Only Friend",
-                "tips": 13,
-                "tips_amount": 13,
-                "url": "https://redd.it/1jloz3d",
-                "created_date": "2025-03-28 06:41:02",
-                "flair": "Sentiment"
+                "post_id": "t3_1jqzxbh",
+                "author": "InclineDumbbellPress",
+                "reddit_upvotes": 294,
+                "title": "ETH chart is finally looking good",
+                "tips": 7,
+                "tips_amount": 7,
+                "url": "https://redd.it/1jqzxbh",
+                "created_date": "2025-04-04 01:21:11",
+                "flair": "Meme"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 12,
+            "week_number": 13,
             "post": {
-                "post_id": "t3_1jk9hv2",
-                "author": "kirtash93",
-                "reddit_upvotes": 15,
-                "title": "Polygon (POL/USD) 4H - March 26, 2025: POL (Old MATIC) Waking Up? Already Up 20% as Bullish Momentum Kicks In!",
-                "tips": 10,
-                "tips_amount": 10,
-                "url": "https://redd.it/1jk9hv2",
-                "created_date": "2025-03-26 11:27:00",
-                "flair": "Trading"
+                "post_id": "t3_1jo7soa",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 7,
+                "title": "DONUT monthly report - March recap + updates",
+                "tips": 7,
+                "tips_amount": 17,
+                "url": "https://redd.it/1jo7soa",
+                "created_date": "2025-03-31 16:47:43",
+                "flair": "Donut"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 12,
+            "week_number": 13,
             "post": {
-                "post_id": "t3_1jhw4x3",
-                "author": "Snoo_70674",
-                "reddit_upvotes": 153,
-                "title": "Ethereum is like buying Microsoft in 1985 (but bigger)",
-                "tips": 4,
-                "tips_amount": 4,
-                "url": "https://redd.it/1jhw4x3",
-                "created_date": "2025-03-23 10:17:25",
-                "flair": "Discussion"
+                "post_id": "t3_1jnvo6l",
+                "author": "DrRobbe",
+                "reddit_upvotes": 7,
+                "title": "Tip Leaderboard - Week 13",
+                "tips": 10,
+                "tips_amount": 10,
+                "url": "https://redd.it/1jnvo6l",
+                "created_date": "2025-03-31 05:02:17",
+                "flair": "Donut"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 13,
+            "post": {
+                "post_id": "t3_1jns8ba",
+                "author": "InclineDumbbellPress",
+                "reddit_upvotes": 279,
+                "title": "$4000 average cost bag holder waiting for alt season",
+                "tips": 6,
+                "tips_amount": 6,
+                "url": "https://redd.it/1jns8ba",
+                "created_date": "2025-03-31 01:41:03",
+                "flair": "Meme"
             }
         }
     ]
