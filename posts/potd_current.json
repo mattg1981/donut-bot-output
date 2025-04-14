@@ -1,72 +1,38 @@
 {
-    "last_update": 1744009261,
-    "last_update_week": 15,
+    "last_update": 1744614062,
+    "last_update_week": 16,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 13,
+            "week_number": 14,
             "post": {
-                "post_id": "t3_1jqzxbh",
-                "author": "InclineDumbbellPress",
-                "reddit_upvotes": 294,
-                "title": "ETH chart is finally looking good",
-                "tips": 7,
-                "tips_amount": 7,
-                "url": "https://redd.it/1jqzxbh",
-                "created_date": "2025-04-04 01:21:11",
-                "flair": "Meme"
+                "post_id": "t3_1jvw8w1",
+                "author": "kirtash93",
+                "reddit_upvotes": 131,
+                "title": "Ethereum's Ecosystem Is Quietly Crushing It And That's Bullish for the Long Term",
+                "tips": 12,
+                "tips_amount": 61,
+                "url": "https://redd.it/1jvw8w1",
+                "created_date": "2025-04-10 12:05:09",
+                "flair": "Metrics"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 13,
+            "week_number": 14,
             "post": {
-                "post_id": "t3_1jo7soa",
-                "author": "0xMarcAurel",
-                "reddit_upvotes": 7,
-                "title": "DONUT monthly report - March recap + updates",
-                "tips": 7,
-                "tips_amount": 17,
-                "url": "https://redd.it/1jo7soa",
-                "created_date": "2025-03-31 16:47:43",
-                "flair": "Donut"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 13,
-            "post": {
-                "post_id": "t3_1jnvo6l",
-                "author": "DrRobbe",
-                "reddit_upvotes": 7,
-                "title": "Tip Leaderboard - Week 13",
-                "tips": 10,
-                "tips_amount": 10,
-                "url": "https://redd.it/1jnvo6l",
-                "created_date": "2025-03-31 05:02:17",
-                "flair": "Donut"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 13,
-            "post": {
-                "post_id": "t3_1jns8ba",
-                "author": "InclineDumbbellPress",
-                "reddit_upvotes": 279,
-                "title": "$4000 average cost bag holder waiting for alt season",
-                "tips": 6,
-                "tips_amount": 6,
-                "url": "https://redd.it/1jns8ba",
-                "created_date": "2025-03-31 01:41:03",
+                "post_id": "t3_1jtu8dx",
+                "author": "kirtash93",
+                "reddit_upvotes": 50,
+                "title": "Vitalik Advocates for Balance: Reciprocal Tariffs Across Ethereum\u2019s Layer 2s - Ethereum Civil War Brewing?",
+                "tips": 5,
+                "tips_amount": 5,
+                "url": "https://redd.it/1jtu8dx",
+                "created_date": "2025-04-07 19:39:41",
                 "flair": "Meme"
             }
         }
