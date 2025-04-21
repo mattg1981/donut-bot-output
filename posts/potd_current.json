@@ -1,39 +1,56 @@
 {
-    "last_update": 1744614062,
-    "last_update_week": 16,
+    "last_update": 1745218861,
+    "last_update_week": 17,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 14,
+            "nominations": 2,
+            "weight": 828840,
+            "week_number": 15,
             "post": {
-                "post_id": "t3_1jvw8w1",
-                "author": "kirtash93",
-                "reddit_upvotes": 131,
-                "title": "Ethereum's Ecosystem Is Quietly Crushing It And That's Bullish for the Long Term",
-                "tips": 12,
-                "tips_amount": 61,
-                "url": "https://redd.it/1jvw8w1",
-                "created_date": "2025-04-10 12:05:09",
-                "flair": "Metrics"
+                "post_id": "t3_1jz186p",
+                "author": "MasterpieceLoud4931",
+                "reddit_upvotes": 77,
+                "title": "MANTRA\u2019s rug pull and why Ethereum is the only utility project worth betting on.",
+                "tips": 10,
+                "tips_amount": 15.9,
+                "url": "https://redd.it/1jz186p",
+                "created_date": "2025-04-14 15:09:56",
+                "flair": "Analysis"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 14,
+            "week_number": 15,
             "post": {
-                "post_id": "t3_1jtu8dx",
-                "author": "kirtash93",
-                "reddit_upvotes": 50,
-                "title": "Vitalik Advocates for Balance: Reciprocal Tariffs Across Ethereum\u2019s Layer 2s - Ethereum Civil War Brewing?",
-                "tips": 5,
-                "tips_amount": 5,
-                "url": "https://redd.it/1jtu8dx",
-                "created_date": "2025-04-07 19:39:41",
-                "flair": "Meme"
+                "post_id": "t3_1jyqkqy",
+                "author": "DrRobbe",
+                "reddit_upvotes": 8,
+                "title": "Tip Leaderboard - Week 15",
+                "tips": 8,
+                "tips_amount": 8,
+                "url": "https://redd.it/1jyqkqy",
+                "created_date": "2025-04-14 04:34:17",
+                "flair": "Donut"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 89709,
+            "week_number": 15,
+            "post": {
+                "post_id": "t3_1jzis3f",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 4,
+                "title": "[EthTrader Contest] Overview of Donut Holders - April",
+                "tips": 7,
+                "tips_amount": 7,
+                "url": "https://redd.it/1jzis3f",
+                "created_date": "2025-04-15 04:08:03",
+                "flair": "Donut"
             }
         }
     ]
