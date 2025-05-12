@@ -1,73 +1,73 @@
 {
-    "last_update": 1746428462,
-    "last_update_week": 19,
+    "last_update": 1747033262,
+    "last_update_week": 20,
     "winners": [
         {
             "rank": 1,
-            "nominations": 2,
-            "weight": 850538,
-            "week_number": 17,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 18,
             "post": {
-                "post_id": "t3_1kdpkdr",
-                "author": "aminok",
-                "reddit_upvotes": 35,
-                "title": "Ethereum is inherently more scalable than Web2",
-                "tips": 8,
-                "tips_amount": 12,
-                "url": "https://redd.it/1kdpkdr",
-                "created_date": "2025-05-03 10:08:59",
-                "flair": "Technicals"
+                "post_id": "t3_1kj3twa",
+                "author": "DrRobbe",
+                "reddit_upvotes": 5,
+                "title": "Tip price return history",
+                "tips": 9,
+                "tips_amount": 9,
+                "url": "https://redd.it/1kj3twa",
+                "created_date": "2025-05-10 06:32:51",
+                "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 17,
+            "week_number": 18,
             "post": {
-                "post_id": "t3_1kctcvg",
-                "author": "BigRon1977",
-                "reddit_upvotes": 46,
-                "title": "Ethereum Keeps Crushing the Competition in Developer Activity",
-                "tips": 9,
-                "tips_amount": 9,
-                "url": "https://redd.it/1kctcvg",
-                "created_date": "2025-05-02 05:26:29",
-                "flair": "Metrics"
+                "post_id": "t3_1kfalwn",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 14,
+                "title": "(Giveaway for commenters) DONUT monthly report - April recap + updates",
+                "tips": 15,
+                "tips_amount": 1036,
+                "url": "https://redd.it/1kfalwn",
+                "created_date": "2025-05-05 12:39:58",
+                "flair": "Donut"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
             "weight": 495162,
-            "week_number": 17,
+            "week_number": 18,
             "post": {
-                "post_id": "t3_1kf2vhi",
-                "author": "DrRobbe",
-                "reddit_upvotes": 5,
-                "title": "Tip Leaderboard - Week 18",
-                "tips": 4,
-                "tips_amount": 28,
-                "url": "https://redd.it/1kf2vhi",
-                "created_date": "2025-05-05 04:14:30",
-                "flair": "Donut"
+                "post_id": "t3_1kf8fdf",
+                "author": "knallerbsee",
+                "reddit_upvotes": 391,
+                "title": "Ethereum is going to dominate everything - and no one sees it coming",
+                "tips": 6,
+                "tips_amount": 15,
+                "url": "https://redd.it/1kf8fdf",
+                "created_date": "2025-05-05 10:38:53",
+                "flair": "Sentiment"
             }
         },
         {
             "rank": 4,
             "nominations": 1,
-            "weight": 492878,
-            "week_number": 17,
+            "weight": 107736,
+            "week_number": 18,
             "post": {
-                "post_id": "t3_1kdzdpb",
-                "author": "knallerbsee",
-                "reddit_upvotes": 241,
-                "title": "Why is Ethereum doing so insanely bad",
-                "tips": 5,
-                "tips_amount": 14,
-                "url": "https://redd.it/1kdzdpb",
-                "created_date": "2025-05-03 18:15:30",
-                "flair": "Question"
+                "post_id": "t3_1kezjth",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 7,
+                "title": "Diving into the Donut Pool: Week 51",
+                "tips": 9,
+                "tips_amount": 9,
+                "url": "https://redd.it/1kezjth",
+                "created_date": "2025-05-05 01:10:32",
+                "flair": "Donut"
             }
         }
     ]
