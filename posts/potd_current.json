@@ -1,73 +1,39 @@
 {
-    "last_update": 1747033262,
-    "last_update_week": 20,
+    "last_update": 1747638062,
+    "last_update_week": 21,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 18,
+            "nominations": 2,
+            "weight": 773628,
+            "week_number": 19,
             "post": {
-                "post_id": "t3_1kj3twa",
-                "author": "DrRobbe",
-                "reddit_upvotes": 5,
-                "title": "Tip price return history",
-                "tips": 9,
-                "tips_amount": 9,
-                "url": "https://redd.it/1kj3twa",
-                "created_date": "2025-05-10 06:32:51",
+                "post_id": "t3_1knvkhs",
+                "author": "0x456",
+                "reddit_upvotes": 4,
+                "title": "Airdropping Gas on Unsuspecting Donut Holders: 3 Waves, 2.3M Donuts freed, 200K left",
+                "tips": 6,
+                "tips_amount": 24,
+                "url": "https://redd.it/1knvkhs",
+                "created_date": "2025-05-16 08:12:17",
                 "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 18,
+            "weight": 118243,
+            "week_number": 19,
             "post": {
-                "post_id": "t3_1kfalwn",
-                "author": "0xMarcAurel",
-                "reddit_upvotes": 14,
-                "title": "(Giveaway for commenters) DONUT monthly report - April recap + updates",
-                "tips": 15,
-                "tips_amount": 1036,
-                "url": "https://redd.it/1kfalwn",
-                "created_date": "2025-05-05 12:39:58",
-                "flair": "Donut"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 495162,
-            "week_number": 18,
-            "post": {
-                "post_id": "t3_1kf8fdf",
-                "author": "knallerbsee",
-                "reddit_upvotes": 391,
-                "title": "Ethereum is going to dominate everything - and no one sees it coming",
-                "tips": 6,
-                "tips_amount": 15,
-                "url": "https://redd.it/1kf8fdf",
-                "created_date": "2025-05-05 10:38:53",
-                "flair": "Sentiment"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 107736,
-            "week_number": 18,
-            "post": {
-                "post_id": "t3_1kezjth",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 7,
-                "title": "Diving into the Donut Pool: Week 51",
-                "tips": 9,
-                "tips_amount": 9,
-                "url": "https://redd.it/1kezjth",
-                "created_date": "2025-05-05 01:10:32",
-                "flair": "Donut"
+                "post_id": "t3_1kksb42",
+                "author": "kirtash93",
+                "reddit_upvotes": 43,
+                "title": "DONUT Up 161% in a Month - ETHTrader's \"Dead\" Token Just Woke Up! Blink and You'll Miss the Next Run \ud83d\ude80\ud83c\udf69",
+                "tips": 17,
+                "tips_amount": 17,
+                "url": "https://redd.it/1kksb42",
+                "created_date": "2025-05-12 13:18:40",
+                "flair": "Image/Video"
             }
         }
     ]
