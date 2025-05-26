@@ -1,38 +1,55 @@
 {
-    "last_update": 1747638062,
-    "last_update_week": 21,
+    "last_update": 1748242861,
+    "last_update_week": 22,
     "winners": [
         {
             "rank": 1,
             "nominations": 2,
-            "weight": 773628,
-            "week_number": 19,
+            "weight": 604198,
+            "week_number": 20,
             "post": {
-                "post_id": "t3_1knvkhs",
-                "author": "0x456",
-                "reddit_upvotes": 4,
-                "title": "Airdropping Gas on Unsuspecting Donut Holders: 3 Waves, 2.3M Donuts freed, 200K left",
-                "tips": 6,
-                "tips_amount": 24,
-                "url": "https://redd.it/1knvkhs",
-                "created_date": "2025-05-16 08:12:17",
-                "flair": "Donut"
+                "post_id": "t3_1krqhj3",
+                "author": "kirtash93",
+                "reddit_upvotes": 21,
+                "title": "DONUT Be Messin' Around - Everyone's Gettin' Flipped",
+                "tips": 15,
+                "tips_amount": 15.69,
+                "url": "https://redd.it/1krqhj3",
+                "created_date": "2025-05-21 05:49:28",
+                "flair": "Meme"
             }
         },
         {
             "rank": 2,
-            "nominations": 1,
-            "weight": 118243,
-            "week_number": 19,
+            "nominations": 3,
+            "weight": 225886,
+            "week_number": 20,
             "post": {
-                "post_id": "t3_1kksb42",
+                "post_id": "t3_1ktbi5r",
                 "author": "kirtash93",
-                "reddit_upvotes": 43,
-                "title": "DONUT Up 161% in a Month - ETHTrader's \"Dead\" Token Just Woke Up! Blink and You'll Miss the Next Run \ud83d\ude80\ud83c\udf69",
-                "tips": 17,
-                "tips_amount": 17,
-                "url": "https://redd.it/1kksb42",
-                "created_date": "2025-05-12 13:18:40",
+                "reddit_upvotes": 22,
+                "title": "Welcome to r/ETHtrader! \ud83c\udf69 Your QuickStart Guide to DONUTs & Decentralized Ownership \ud83c\udf8a\ud83c\udf86",
+                "tips": 13,
+                "tips_amount": 22,
+                "url": "https://redd.it/1ktbi5r",
+                "created_date": "2025-05-23 05:08:10",
+                "flair": "Donut"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 114934,
+            "week_number": 20,
+            "post": {
+                "post_id": "t3_1kqd8co",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 18,
+                "title": "ETH/DONUT ratio over 90 days. Notice how ETH pumped and DONUT outpaced it. (+310% in a month)",
+                "tips": 8,
+                "tips_amount": 8,
+                "url": "https://redd.it/1kqd8co",
+                "created_date": "2025-05-19 14:33:55",
                 "flair": "Image/Video"
             }
         }
