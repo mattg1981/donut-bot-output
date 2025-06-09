@@ -1,39 +1,56 @@
 {
-    "last_update": 1748847661,
-    "last_update_week": 23,
+    "last_update": 1749452461,
+    "last_update_week": 24,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
-            "weight": 163532,
-            "week_number": 21,
+            "weight": 122182,
+            "week_number": 22,
             "post": {
-                "post_id": "t3_1kxym9e",
-                "author": "bzzking",
-                "reddit_upvotes": 12,
-                "title": "Loopring Wallet Closure Announcement. You MUST transfer your tokens/coins/NFTs by June 30th 2025.",
-                "tips": 7,
-                "tips_amount": 7,
-                "url": "https://redd.it/1kxym9e",
-                "created_date": "2025-05-29 01:37:50",
-                "flair": "NFT"
+                "post_id": "t3_1l4jsnp",
+                "author": "DrRobbe",
+                "reddit_upvotes": 6,
+                "title": "Tip Leaderboard - Round 150",
+                "tips": 11,
+                "tips_amount": 35,
+                "url": "https://redd.it/1l4jsnp",
+                "created_date": "2025-06-06 04:37:37",
+                "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 157290,
-            "week_number": 21,
+            "weight": 111583,
+            "week_number": 22,
             "post": {
-                "post_id": "t3_1kw8xxx",
-                "author": "DifficultyMoney9304",
-                "reddit_upvotes": 53,
-                "title": "Ethereum Analysis",
-                "tips": 3,
-                "tips_amount": 7,
-                "url": "https://redd.it/1kw8xxx",
-                "created_date": "2025-05-26 23:37:09",
-                "flair": "Technicals"
+                "post_id": "t3_1l1bjlx",
+                "author": "MasterpieceLoud4931",
+                "reddit_upvotes": 177,
+                "title": "Ethereum is getting a seat at the table in US crypto policy talks.",
+                "tips": 10,
+                "tips_amount": 10,
+                "url": "https://redd.it/1l1bjlx",
+                "created_date": "2025-06-02 07:08:28",
+                "flair": "Discussion"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 111222,
+            "week_number": 22,
+            "post": {
+                "post_id": "t3_1l2hpl9",
+                "author": "bzzking",
+                "reddit_upvotes": 16,
+                "title": "Ethereum Blobs Analysis Post-Pectra Upgrade",
+                "tips": 8,
+                "tips_amount": 111,
+                "url": "https://redd.it/1l2hpl9",
+                "created_date": "2025-06-03 17:19:25",
+                "flair": "Analysis"
             }
         }
     ]
