@@ -1,73 +1,39 @@
 {
-    "last_update": 1750057262,
-    "last_update_week": 25,
+    "last_update": 1750662062,
+    "last_update_week": 26,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 23,
+            "nominations": 3,
+            "weight": 588052,
+            "week_number": 24,
             "post": {
-                "post_id": "t3_1lbp5zp",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 8,
-                "title": "Etherfi Season 5 Airdrop Rewards",
-                "tips": 7,
-                "tips_amount": 7,
-                "url": "https://redd.it/1lbp5zp",
-                "created_date": "2025-06-15 02:05:29",
-                "flair": "Airdrops"
+                "post_id": "t3_1lgq6kt",
+                "author": "DrRobbe",
+                "reddit_upvotes": 6,
+                "title": "Posts of the Week Leaderboards (49 weeks)",
+                "tips": 9,
+                "tips_amount": 18,
+                "url": "https://redd.it/1lgq6kt",
+                "created_date": "2025-06-21 06:46:14",
+                "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 262132,
-            "week_number": 23,
+            "weight": 269694,
+            "week_number": 24,
             "post": {
-                "post_id": "t3_1l8sgu6",
-                "author": "0xpolygonlabs",
-                "reddit_upvotes": 9,
-                "title": "Sandeep Nailwal's statement regarding becoming CEO of Polygon Foundation",
-                "tips": 3,
-                "tips_amount": 3,
-                "url": "https://redd.it/1l8sgu6",
-                "created_date": "2025-06-11 13:18:21",
-                "flair": "Technicals"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 243583,
-            "week_number": 23,
-            "post": {
-                "post_id": "t3_1l8rksy",
-                "author": "DrRobbe",
-                "reddit_upvotes": 13,
-                "title": "Registered User changes until round 150",
-                "tips": 12,
-                "tips_amount": 12,
-                "url": "https://redd.it/1l8rksy",
-                "created_date": "2025-06-11 12:37:56",
-                "flair": "Donut"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 152447,
-            "week_number": 23,
-            "post": {
-                "post_id": "t3_1l6y3c9",
-                "author": "kirtash93",
-                "reddit_upvotes": 19,
-                "title": "Ethereum - ETH/USD 1H - June 9, 2025: ETH at the Edge - Bart Simpson Pattern Brewing? Trendline Retest + MACD/Stoch RSI Say Big Move",
-                "tips": 12,
-                "tips_amount": 12,
-                "url": "https://redd.it/1l6y3c9",
-                "created_date": "2025-06-09 06:54:32",
-                "flair": "Trading"
+                "post_id": "t3_1ldlpcu",
+                "author": "Weary-Hair-316",
+                "reddit_upvotes": 175,
+                "title": "i didn\u2019t get rich off crypto. ETH made me enough to breathe again",
+                "tips": 5,
+                "tips_amount": 14,
+                "url": "https://redd.it/1ldlpcu",
+                "created_date": "2025-06-17 12:22:18",
+                "flair": "Self Story"
             }
         }
     ]
