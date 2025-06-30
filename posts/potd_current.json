@@ -1,39 +1,22 @@
 {
-    "last_update": 1750662062,
-    "last_update_week": 26,
+    "last_update": 1751266862,
+    "last_update_week": 27,
     "winners": [
         {
             "rank": 1,
             "nominations": 3,
-            "weight": 588052,
-            "week_number": 24,
+            "weight": 1216690,
+            "week_number": 25,
             "post": {
-                "post_id": "t3_1lgq6kt",
+                "post_id": "t3_1lloam3",
                 "author": "DrRobbe",
-                "reddit_upvotes": 6,
-                "title": "Posts of the Week Leaderboards (49 weeks)",
-                "tips": 9,
-                "tips_amount": 18,
-                "url": "https://redd.it/1lgq6kt",
-                "created_date": "2025-06-21 06:46:14",
+                "reddit_upvotes": 3,
+                "title": "Liquidity Pool Position Analysis",
+                "tips": 7,
+                "tips_amount": 16,
+                "url": "https://redd.it/1lloam3",
+                "created_date": "2025-06-27 08:01:06",
                 "flair": "Donut"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 1,
-            "weight": 269694,
-            "week_number": 24,
-            "post": {
-                "post_id": "t3_1ldlpcu",
-                "author": "Weary-Hair-316",
-                "reddit_upvotes": 175,
-                "title": "i didn\u2019t get rich off crypto. ETH made me enough to breathe again",
-                "tips": 5,
-                "tips_amount": 14,
-                "url": "https://redd.it/1ldlpcu",
-                "created_date": "2025-06-17 12:22:18",
-                "flair": "Self Story"
             }
         }
     ]
