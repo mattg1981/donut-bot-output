@@ -1,22 +1,73 @@
 {
-    "last_update": 1751266862,
-    "last_update_week": 27,
+    "last_update": 1751871661,
+    "last_update_week": 28,
     "winners": [
         {
             "rank": 1,
             "nominations": 3,
-            "weight": 1216690,
-            "week_number": 25,
+            "weight": 1048884,
+            "week_number": 26,
             "post": {
-                "post_id": "t3_1lloam3",
-                "author": "DrRobbe",
-                "reddit_upvotes": 3,
-                "title": "Liquidity Pool Position Analysis",
+                "post_id": "t3_1lsksdv",
+                "author": "bzzking",
+                "reddit_upvotes": 23,
+                "title": "Has the Pectra upgrade lived up to it's hype?",
                 "tips": 7,
-                "tips_amount": 16,
-                "url": "https://redd.it/1lloam3",
-                "created_date": "2025-06-27 08:01:06",
-                "flair": "Donut"
+                "tips_amount": 7,
+                "url": "https://redd.it/1lsksdv",
+                "created_date": "2025-07-05 21:36:22",
+                "flair": "Sentiment"
+            }
+        },
+        {
+            "rank": 2,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 26,
+            "post": {
+                "post_id": "t3_1lsuc4c",
+                "author": "aminok",
+                "reddit_upvotes": 20,
+                "title": "The four eras of the blockchain",
+                "tips": 5,
+                "tips_amount": 9,
+                "url": "https://redd.it/1lsuc4c",
+                "created_date": "2025-07-06 06:17:07",
+                "flair": "Discussion"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 321554,
+            "week_number": 26,
+            "post": {
+                "post_id": "t3_1lrly5n",
+                "author": "kirtash93",
+                "reddit_upvotes": 46,
+                "title": "Ethereum Isn\u2019t Just Decentralized - It's Everywhere. This Real-Time Node Map Proves It.",
+                "tips": 10,
+                "tips_amount": 10,
+                "url": "https://redd.it/1lrly5n",
+                "created_date": "2025-07-04 15:45:30",
+                "flair": "Discussion"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 313725,
+            "week_number": 26,
+            "post": {
+                "post_id": "t3_1logjx3",
+                "author": "Pandora_Key",
+                "reddit_upvotes": 204,
+                "title": "Wall Street strategist Tom Lee is aiming to create the MicroStrategy of Ethereum",
+                "tips": 4,
+                "tips_amount": 4,
+                "url": "https://redd.it/1logjx3",
+                "created_date": "2025-06-30 19:19:28",
+                "flair": "Link"
             }
         }
     ]
