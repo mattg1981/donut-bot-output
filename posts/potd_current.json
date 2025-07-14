@@ -1,73 +1,73 @@
 {
-    "last_update": 1751871661,
-    "last_update_week": 28,
+    "last_update": 1752476461,
+    "last_update_week": 29,
     "winners": [
         {
             "rank": 1,
-            "nominations": 3,
-            "weight": 1048884,
-            "week_number": 26,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 27,
             "post": {
-                "post_id": "t3_1lsksdv",
-                "author": "bzzking",
-                "reddit_upvotes": 23,
-                "title": "Has the Pectra upgrade lived up to it's hype?",
-                "tips": 7,
-                "tips_amount": 7,
-                "url": "https://redd.it/1lsksdv",
-                "created_date": "2025-07-05 21:36:22",
-                "flair": "Sentiment"
+                "post_id": "t3_1lxtm3z",
+                "author": "DrRobbe",
+                "reddit_upvotes": 10,
+                "title": "Registered User changes until round 151",
+                "tips": 12,
+                "tips_amount": 12,
+                "url": "https://redd.it/1lxtm3z",
+                "created_date": "2025-07-12 06:29:35",
+                "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 26,
+            "week_number": 27,
             "post": {
-                "post_id": "t3_1lsuc4c",
-                "author": "aminok",
+                "post_id": "t3_1dsfsaz",
+                "author": "raymv1987",
                 "reddit_upvotes": 20,
-                "title": "The four eras of the blockchain",
-                "tips": 5,
-                "tips_amount": 9,
-                "url": "https://redd.it/1lsuc4c",
-                "created_date": "2025-07-06 06:17:07",
-                "flair": "Discussion"
+                "title": "AMA with founders of Glue, The Blockchain Ecosystem on July 3rd, 2:00 PM UTC. The giveaway info is below!",
+                "tips": 0,
+                "tips_amount": 0,
+                "url": "https://redd.it/1dsfsaz",
+                "created_date": "2024-07-01 00:23:36",
+                "flair": "Ad"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 321554,
-            "week_number": 26,
+            "weight": 410002,
+            "week_number": 27,
             "post": {
-                "post_id": "t3_1lrly5n",
+                "post_id": "t3_1ltx0g4",
                 "author": "kirtash93",
-                "reddit_upvotes": 46,
-                "title": "Ethereum Isn\u2019t Just Decentralized - It's Everywhere. This Real-Time Node Map Proves It.",
-                "tips": 10,
-                "tips_amount": 10,
-                "url": "https://redd.it/1lrly5n",
-                "created_date": "2025-07-04 15:45:30",
+                "reddit_upvotes": 110,
+                "title": "Bit Digital Just Went All-In on Ethereum: 100K+ ETH, $172M Raised - This Is Conviction, Not Hype. ETH Isn\u2019t Just a Coin, It\u2019s the Future Financial Infrastructure.",
+                "tips": 11,
+                "tips_amount": 11,
+                "url": "https://redd.it/1ltx0g4",
+                "created_date": "2025-07-07 15:23:07",
                 "flair": "Discussion"
             }
         },
         {
             "rank": 4,
             "nominations": 1,
-            "weight": 313725,
-            "week_number": 26,
+            "weight": 352535,
+            "week_number": 27,
             "post": {
-                "post_id": "t3_1logjx3",
-                "author": "Pandora_Key",
-                "reddit_upvotes": 204,
-                "title": "Wall Street strategist Tom Lee is aiming to create the MicroStrategy of Ethereum",
-                "tips": 4,
-                "tips_amount": 4,
-                "url": "https://redd.it/1logjx3",
-                "created_date": "2025-06-30 19:19:28",
-                "flair": "Link"
+                "post_id": "t3_1lylg3a",
+                "author": "JunnyInsight",
+                "reddit_upvotes": 13,
+                "title": "SharpLink Gaming (SBET) Added 21,487 ETH via Galaxy & Coinbase Prime \u2013 They Now Hold 253K ETH. This Is Bigger Than People Realize",
+                "tips": 2,
+                "tips_amount": 6,
+                "url": "https://redd.it/1lylg3a",
+                "created_date": "2025-07-13 05:55:36",
+                "flair": null
             }
         }
     ]
