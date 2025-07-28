@@ -6,7 +6,7 @@
         "user": "MemeyCurmudgeon",
         "eth_in_lp": 0.058948297731690816,
         "donut_in_lp": 892436.1490020596,
-        "percent_of_pool": 34.948244853514595
+        "percent_of_pool": 34.940071788339175
     },
     {
         "id": "10320",
@@ -15,7 +15,7 @@
         "user": null,
         "eth_in_lp": 0.0,
         "donut_in_lp": 710686.8895149705,
-        "percent_of_pool": 11.729864040738208
+        "percent_of_pool": 11.727120871697657
     },
     {
         "id": "10151",
@@ -24,7 +24,7 @@
         "user": "r/EthTrader Multi-Sig Wallet",
         "eth_in_lp": 2.1884050251259004,
         "donut_in_lp": 2268645.7577499677,
-        "percent_of_pool": 10.701957318741382
+        "percent_of_pool": 10.699454537985519
     },
     {
         "id": "27565,27984",
@@ -33,7 +33,7 @@
         "user": "DBRiMatt",
         "eth_in_lp": 0.13458354513057832,
         "donut_in_lp": 462324.1789066726,
-        "percent_of_pool": 10.227181738434476
+        "percent_of_pool": 10.224789989628222
     },
     {
         "id": "28454",
@@ -42,7 +42,7 @@
         "user": null,
         "eth_in_lp": 0.0,
         "donut_in_lp": 549830.6299233951,
-        "percent_of_pool": 7.239114175047801
+        "percent_of_pool": 7.237421221590109
     },
     {
         "id": "30079",
@@ -51,7 +51,7 @@
         "user": "Eth_Man",
         "eth_in_lp": 0.1341491063533654,
         "donut_in_lp": 387054.725084643,
-        "percent_of_pool": 6.094557731064083
+        "percent_of_pool": 6.093132445824147
     },
     {
         "id": "12435,15863,23022",
@@ -60,7 +60,7 @@
         "user": "Paper_cobbler",
         "eth_in_lp": 0.010115503323366876,
         "donut_in_lp": 299066.6541689572,
-        "percent_of_pool": 5.433383467845635
+        "percent_of_pool": 5.4321128061173605
     },
     {
         "id": "15860,29929,30094",
@@ -69,7 +69,7 @@
         "user": "Humble-Grape1012",
         "eth_in_lp": 0.06401524860534137,
         "donut_in_lp": 311621.8552177476,
-        "percent_of_pool": 4.472420321243592
+        "percent_of_pool": 4.471374392243992
     },
     {
         "id": "12117",
@@ -78,7 +78,7 @@
         "user": "Yinyangkarma060910",
         "eth_in_lp": 0.0,
         "donut_in_lp": 47336.76567084633,
-        "percent_of_pool": 1.5041081035482722
+        "percent_of_pool": 1.5037563498732964
     },
     {
         "id": "24257",
@@ -87,7 +87,7 @@
         "user": null,
         "eth_in_lp": 0.0,
         "donut_in_lp": 220.38662887628107,
-        "percent_of_pool": 1.373289163462134
+        "percent_of_pool": 1.3729680033613987
     },
     {
         "id": "12160",
@@ -96,7 +96,16 @@
         "user": "Soaring_Eagle590",
         "eth_in_lp": 0.0,
         "donut_in_lp": 45618.98710584587,
-        "percent_of_pool": 1.2276604617165503
+        "percent_of_pool": 1.227373358630002
+    },
+    {
+        "id": "12264",
+        "owner": "0xeca23ebdfdf663d499891a833d22956a6f65dfa2",
+        "liquidity": 193572625604782483728,
+        "user": "Kindly-Wolf6919",
+        "eth_in_lp": 0.020464707830168644,
+        "donut_in_lp": 197089.28189146463,
+        "percent_of_pool": 0.9295192391804095
     },
     {
         "id": "29507",
@@ -105,16 +114,7 @@
         "user": "wijuwiju",
         "eth_in_lp": 0.0,
         "donut_in_lp": 96706.30615154412,
-        "percent_of_pool": 0.9209147877538
-    },
-    {
-        "id": "12264",
-        "owner": "0xeca23ebdfdf663d499891a833d22956a6f65dfa2",
-        "liquidity": 188702444067039775113,
-        "user": "Kindly-Wolf6919",
-        "eth_in_lp": 0.019949826958256128,
-        "donut_in_lp": 192130.62320222138,
-        "percent_of_pool": 0.9063450024151449
+        "percent_of_pool": 0.9206994208129746
     },
     {
         "id": "10319",
@@ -123,7 +123,7 @@
         "user": null,
         "eth_in_lp": 0.0,
         "donut_in_lp": 53108.04113277824,
-        "percent_of_pool": 0.885355490956417
+        "percent_of_pool": 0.8851484399825746
     },
     {
         "id": "27458",
@@ -132,7 +132,7 @@
         "user": "0xMarcAurel",
         "eth_in_lp": 0.15492831995466397,
         "donut_in_lp": 160608.96944808346,
-        "percent_of_pool": 0.7576459789584583
+        "percent_of_pool": 0.7574687943818973
     },
     {
         "id": "28547",
@@ -141,7 +141,7 @@
         "user": "Crypto_Gaming_",
         "eth_in_lp": 0.0,
         "donut_in_lp": 32349.686239734223,
-        "percent_of_pool": 0.3543631489435815
+        "percent_of_pool": 0.3542802768816447
     },
     {
         "id": "27785",
@@ -150,7 +150,7 @@
         "user": "Wonderful_Bad6531",
         "eth_in_lp": 0.07140212915060455,
         "donut_in_lp": 74020.181608071,
-        "percent_of_pool": 0.34917783950576886
+        "percent_of_pool": 0.34909618009048055
     },
     {
         "id": "11918",
@@ -159,7 +159,7 @@
         "user": "BuddhaIvan",
         "eth_in_lp": 0.03700119080628118,
         "donut_in_lp": 38357.8878638051,
-        "percent_of_pool": 0.1809469271935372
+        "percent_of_pool": 0.1809046105897866
     },
     {
         "id": "24522",
@@ -168,7 +168,7 @@
         "user": "vanboiDallas",
         "eth_in_lp": 0.02467011183919183,
         "donut_in_lp": 25574.673757651388,
-        "percent_of_pool": 0.12064425045652519
+        "percent_of_pool": 0.1206160363551832
     },
     {
         "id": "11084",
@@ -177,7 +177,7 @@
         "user": "Huelino",
         "eth_in_lp": 0.0,
         "donut_in_lp": 7602.207437688511,
-        "percent_of_pool": 0.10585905667751966
+        "percent_of_pool": 0.10583430027063111
     },
     {
         "id": "12368",
@@ -186,7 +186,7 @@
         "user": null,
         "eth_in_lp": 0.0,
         "donut_in_lp": 2191.872603788431,
-        "percent_of_pool": 0.09327769930922479
+        "percent_of_pool": 0.09325588520327863
     },
     {
         "id": "10485",
@@ -195,7 +195,7 @@
         "user": "whaterloowhorks",
         "eth_in_lp": 0.01721866396925214,
         "donut_in_lp": 17850.008805257043,
-        "percent_of_pool": 0.08420443417419274
+        "percent_of_pool": 0.0841847419598498
     },
     {
         "id": "10298",
@@ -204,7 +204,7 @@
         "user": "DrRobbe",
         "eth_in_lp": 0.01606847938446766,
         "donut_in_lp": 16657.651198259406,
-        "percent_of_pool": 0.07857968638129748
+        "percent_of_pool": 0.07856130958151968
     },
     {
         "id": "21805",
@@ -213,7 +213,7 @@
         "user": "hnr01",
         "eth_in_lp": 0.002429193536614819,
         "donut_in_lp": 12075.407908517276,
-        "percent_of_pool": 0.05696377510049326
+        "percent_of_pool": 0.05695045344017854
     },
     {
         "id": "11096",
@@ -222,7 +222,7 @@
         "user": "evil_betty_",
         "eth_in_lp": 0.0,
         "donut_in_lp": 5177.438882606534,
-        "percent_of_pool": 0.0421668803243097
+        "percent_of_pool": 0.042157019094866584
     },
     {
         "id": "11875",
@@ -231,7 +231,7 @@
         "user": "PineapplePie135",
         "eth_in_lp": 0.007698402874246645,
         "donut_in_lp": 7980.674884945048,
-        "percent_of_pool": 0.03764750036521404
+        "percent_of_pool": 0.03763869604684365
     },
     {
         "id": "16655",
@@ -240,7 +240,7 @@
         "user": null,
         "eth_in_lp": 0.0,
         "donut_in_lp": 4999.9999999964275,
-        "percent_of_pool": 0.03648007774198941
+        "percent_of_pool": 0.03647154643936636
     },
     {
         "id": "10302,12674",
@@ -249,7 +249,7 @@
         "user": "CapnPratt",
         "eth_in_lp": 0.0,
         "donut_in_lp": 1344.7032428599707,
-        "percent_of_pool": 0.021322676824211077
+        "percent_of_pool": 0.0213176902611339
     },
     {
         "id": "28426",
@@ -258,7 +258,7 @@
         "user": "Gubbie99",
         "eth_in_lp": 0.0,
         "donut_in_lp": 756.0999579826922,
-        "percent_of_pool": 0.0072004477915512625
+        "percent_of_pool": 0.007198763880689952
     },
     {
         "id": "10344",
@@ -267,7 +267,7 @@
         "user": "The_Nutcrack",
         "eth_in_lp": 0.0,
         "donut_in_lp": 936.0580245253907,
-        "percent_of_pool": 0.006179621001657589
+        "percent_of_pool": 0.006178175823354139
     },
     {
         "id": "29937",
@@ -276,7 +276,7 @@
         "user": "AlarmingAdvertising5",
         "eth_in_lp": 0.000537873852891314,
         "donut_in_lp": 557.5957012328228,
-        "percent_of_pool": 0.0026303645579403927
+        "percent_of_pool": 0.0026297494157191664
     },
     {
         "id": "12420",
@@ -285,6 +285,6 @@
         "user": null,
         "eth_in_lp": 6.399979630676916e-05,
         "donut_in_lp": 66.34643254845426,
-        "percent_of_pool": 0.00031297821044062987
+        "percent_of_pool": 0.0003129050167416862
     }
 ]
