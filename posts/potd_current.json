@@ -1,73 +1,73 @@
 {
-    "last_update": 1753686061,
-    "last_update_week": 31,
+    "last_update": 1754290862,
+    "last_update_week": 32,
     "winners": [
         {
             "rank": 1,
-            "nominations": 4,
-            "weight": 1021794,
-            "week_number": 29,
+            "nominations": 3,
+            "weight": 1150381,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1e3q840",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 17,
-                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 10",
+                "post_id": "t3_1ea3yuv",
+                "author": "Buzzalu",
+                "reddit_upvotes": 26,
+                "title": "CEXs are like toilets, just do your shit and move on",
                 "tips": 0,
                 "tips_amount": 0,
-                "url": "https://redd.it/1e3q840",
-                "created_date": "2024-07-15 09:06:33",
-                "flair": "Original Content"
+                "url": "https://redd.it/1ea3yuv",
+                "created_date": "2024-07-23 09:58:06",
+                "flair": "Discussion"
             }
         },
         {
             "rank": 2,
-            "nominations": 3,
-            "weight": 737177,
-            "week_number": 29,
+            "nominations": 2,
+            "weight": 671631,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1e74ow2",
+                "post_id": "t3_1mdnlat",
                 "author": "DBRiMatt",
-                "reddit_upvotes": 17,
-                "title": "Diving into the Donut Pool: Analysis and Insight to providing liquidity and impermanent loss - Week 10",
-                "tips": 0,
-                "tips_amount": 0,
-                "url": "https://redd.it/1e74ow2",
-                "created_date": "2024-07-15 09:06:33",
-                "flair": "Original Content"
+                "reddit_upvotes": 29,
+                "title": "[EthTrader Contest] Celebrating 10 years of Ethereum",
+                "tips": 6,
+                "tips_amount": 19,
+                "url": "https://redd.it/1mdnlat",
+                "created_date": "2025-07-31 00:43:19",
+                "flair": "Happy Birthday Ethereum"
             }
         },
         {
             "rank": 3,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 29,
+            "nominations": 3,
+            "weight": 670935,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1m9s9ah",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 224,
-                "title": "Ethereum's decade of patience is paying off. 2025 could be ETH's biggest year yet.",
-                "tips": 9,
-                "tips_amount": 9.69,
-                "url": "https://redd.it/1m9s9ah",
-                "created_date": "2025-07-26 12:36:06",
-                "flair": "Analysis"
+                "post_id": "t3_1eb0smz",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 29,
+                "title": "[EthTrader Contest] Celebrating 10 years of Ethereum",
+                "tips": 0,
+                "tips_amount": 0,
+                "url": "https://redd.it/1eb0smz",
+                "created_date": "2025-07-31 00:43:19",
+                "flair": "Happy Birthday Ethereum"
             }
         },
         {
             "rank": 4,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 29,
+            "week_number": 30,
             "post": {
-                "post_id": "t3_1e8dcvi",
-                "author": "Buzzalu",
-                "reddit_upvotes": 13,
-                "title": "Protecting Assets from Inflation",
-                "tips": 0,
-                "tips_amount": 0,
-                "url": "https://redd.it/1e8dcvi",
-                "created_date": "2024-07-21 03:42:26",
-                "flair": "Discussion"
+                "post_id": "t3_1mdsrce",
+                "author": "kirtash93",
+                "reddit_upvotes": 1019,
+                "title": "Ethereum (ETH) Trying to Break $4000",
+                "tips": 12,
+                "tips_amount": 12,
+                "url": "https://redd.it/1mdsrce",
+                "created_date": "2025-07-31 05:02:57",
+                "flair": "Image/Video"
             }
         }
     ]
