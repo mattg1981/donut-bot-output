@@ -1,59 +1,59 @@
 {
-    "last_update": 1754316385,
-    "last_update_week": 32,
+    "last_update": 1754895662,
+    "last_update_week": 33,
     "winners": [
         {
             "rank": 1,
-            "nominations": 2,
-            "weight": 671631,
-            "week_number": 30,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 31,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mdnlat",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 28,
-                "title": "[EthTrader Contest] Celebrating 10 years of Ethereum",
-                "tips": 6,
-                "tips_amount": 19,
-                "url": "https://redd.it/1mdnlat",
-                "created_date": "2025-07-30 19:43:19",
-                "flair": "Happy Birthday Ethereum"
+                "post_id": "t3_1mkmuod",
+                "author": "kirtash93",
+                "reddit_upvotes": 69,
+                "title": "Ethereum Treasury Season Starts Now: Fundamental Global Inc. (FGF) Files S-3 and Goes All In on ETH, TradFi Finally Gets It",
+                "tips": 12,
+                "tips_amount": 12,
+                "url": "https://redd.it/1mkmuod",
+                "created_date": "2025-08-08 05:30:24",
+                "flair": "Discussion"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 30,
+            "week_number": 31,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mdsrce",
-                "author": "kirtash93",
-                "reddit_upvotes": 1024,
-                "title": "Ethereum (ETH) Trying to Break $4000",
-                "tips": 12,
-                "tips_amount": 12,
-                "url": "https://redd.it/1mdsrce",
-                "created_date": "2025-07-31 00:02:57",
-                "flair": "Image/Video"
+                "post_id": "t3_1micj5t",
+                "author": "MasterpieceLoud4931",
+                "reddit_upvotes": 125,
+                "title": "Why Ethereum is the first choice for institutions, according to EF's new Enterprise Lead.",
+                "tips": 8,
+                "tips_amount": 8,
+                "url": "https://redd.it/1micj5t",
+                "created_date": "2025-08-05 15:37:26",
+                "flair": "Discussion"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 30,
+            "week_number": 31,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mbcsfg",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 60,
-                "title": "Why Ethereum wins in a world of attacks on networks.",
-                "tips": 9,
-                "tips_amount": 9,
-                "url": "https://redd.it/1mbcsfg",
-                "created_date": "2025-07-28 05:41:40",
-                "flair": "Analysis"
+                "post_id": "t3_1mh541z",
+                "author": "kirtash93",
+                "reddit_upvotes": 138,
+                "title": "Ethereum (ETH) Isn't Making Noise Anymore - It's Rewriting Finance And July Was Just The Start",
+                "tips": 10,
+                "tips_amount": 10,
+                "url": "https://redd.it/1mh541z",
+                "created_date": "2025-08-04 05:32:02",
+                "flair": "Discussion"
             }
         }
     ]
