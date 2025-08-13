@@ -63650,7 +63650,7 @@
     {
         "from_user": "DBRiMatt",
         "to_user": "AfterTax",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "weight": 1.0,
         "amount": 5,
         "token": "donut",
