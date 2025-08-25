@@ -1,59 +1,59 @@
 {
-    "last_update": 1755500461,
-    "last_update_week": 34,
+    "last_update": 1756105261,
+    "last_update_week": 35,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 32,
+            "week_number": 33,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mrshyj",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 42,
-                "title": "What if Ethereum's competitors become its L2s?",
+                "post_id": "t3_1mv6zxd",
+                "author": "kirtash93",
+                "reddit_upvotes": 4,
+                "title": "L2 Specialization: Base Leads in Throughput - Each Chain Carving Its Own Niche (DeFi, Gaming, Social, zk, Infra)",
                 "tips": 8,
                 "tips_amount": 8,
-                "url": "https://redd.it/1mrshyj",
-                "created_date": "2025-08-16 11:25:05",
-                "flair": "Discussion"
+                "url": "https://redd.it/1mv6zxd",
+                "created_date": "2025-08-20 06:19:17",
+                "flair": "Metrics"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 32,
+            "week_number": 33,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mnss6a",
-                "author": "thecryptos",
-                "reddit_upvotes": 100,
-                "title": "ETH hits $4000",
+                "post_id": "t3_1mugohf",
+                "author": "aminok",
+                "reddit_upvotes": 22,
+                "title": "The retail investor is sleeping on the best investment in the world right now: ETH deployed on Aave",
                 "tips": 5,
-                "tips_amount": 73,
-                "url": "https://redd.it/1mnss6a",
-                "created_date": "2025-08-11 23:29:47",
-                "flair": "Image/Video"
+                "tips_amount": 5,
+                "url": "https://redd.it/1mugohf",
+                "created_date": "2025-08-19 12:13:30",
+                "flair": "Technicals"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 32,
+            "weight": 200020,
+            "week_number": 33,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mna1mi",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 281,
-                "title": "ETH is ready for price discovery and to outpace BTC again.",
-                "tips": 10,
-                "tips_amount": 10,
-                "url": "https://redd.it/1mna1mi",
-                "created_date": "2025-08-11 11:09:19",
-                "flair": "Analysis"
+                "post_id": "t3_1mt8pfd",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 0,
+                "title": "[Airdrop Guide] Introducing Katana - the ticker is KAT",
+                "tips": 6,
+                "tips_amount": 15,
+                "url": "https://redd.it/1mt8pfd",
+                "created_date": "2025-08-18 01:32:58",
+                "flair": "Airdrops"
             }
         }
     ]
