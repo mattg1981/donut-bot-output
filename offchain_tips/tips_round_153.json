@@ -15667,7 +15667,7 @@
     {
         "from_user": "DBRiMatt",
         "to_user": "fatkid13yrs",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "weight": 1.0,
         "amount": 2,
         "token": "donut",
@@ -15758,7 +15758,7 @@
     {
         "from_user": "DBRiMatt",
         "to_user": "fatkid13yrs",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "weight": 1.0,
         "amount": 1,
         "token": "donut",
