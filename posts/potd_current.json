@@ -1,59 +1,77 @@
 {
-    "last_update": 1756105261,
-    "last_update_week": 35,
+    "last_update": 1756710061,
+    "last_update_week": 36,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 33,
+            "nominations": 2,
+            "weight": 998444,
+            "week_number": 34,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mv6zxd",
-                "author": "kirtash93",
-                "reddit_upvotes": 4,
-                "title": "L2 Specialization: Base Leads in Throughput - Each Chain Carving Its Own Niche (DeFi, Gaming, Social, zk, Infra)",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1mv6zxd",
-                "created_date": "2025-08-20 06:19:17",
-                "flair": "Metrics"
+                "post_id": "t3_1n1z1qa",
+                "author": "hduynam99",
+                "reddit_upvotes": 64,
+                "title": "Ethereum: Best Days to Buy & Sell (Based on Data)",
+                "tips": 6,
+                "tips_amount": 105,
+                "url": "https://redd.it/1n1z1qa",
+                "created_date": "2025-08-28 01:19:00",
+                "flair": "Trading"
             }
         },
         {
             "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 33,
+            "nominations": 2,
+            "weight": 699927,
+            "week_number": 34,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mugohf",
-                "author": "aminok",
-                "reddit_upvotes": 22,
-                "title": "The retail investor is sleeping on the best investment in the world right now: ETH deployed on Aave",
-                "tips": 5,
-                "tips_amount": 5,
-                "url": "https://redd.it/1mugohf",
-                "created_date": "2025-08-19 12:13:30",
-                "flair": "Technicals"
+                "post_id": "t3_1n31esp",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 9,
+                "title": "[EthTrader Contest] Round 153 Summary",
+                "tips": 6,
+                "tips_amount": 6,
+                "url": "https://redd.it/1n31esp",
+                "created_date": "2025-08-29 08:02:05",
+                "flair": "Donut"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 200020,
-            "week_number": 33,
+            "weight": 500000,
+            "week_number": 34,
             "year": 2025,
             "post": {
-                "post_id": "t3_1mt8pfd",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 0,
-                "title": "[Airdrop Guide] Introducing Katana - the ticker is KAT",
+                "post_id": "t3_1n354os",
+                "author": "abcoathup",
+                "reddit_upvotes": 9,
+                "title": "ethdevnews weekly #4 | Fusaka mainnet upgrade potentially in December, US GDP onchain, r/Ethereum AMAs with builders",
                 "tips": 6,
-                "tips_amount": 15,
-                "url": "https://redd.it/1mt8pfd",
-                "created_date": "2025-08-18 01:32:58",
-                "flair": "Airdrops"
+                "tips_amount": 6,
+                "url": "https://redd.it/1n354os",
+                "created_date": "2025-08-29 11:42:43",
+                "flair": "Link"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 34,
+            "year": 2025,
+            "post": {
+                "post_id": "t3_1mzhk96",
+                "author": "DrRobbe",
+                "reddit_upvotes": 11,
+                "title": "Tip Leaderboard - Week 34",
+                "tips": 6,
+                "tips_amount": 7,
+                "url": "https://redd.it/1mzhk96",
+                "created_date": "2025-08-25 04:58:06",
+                "flair": "Donut"
             }
         }
     ]
