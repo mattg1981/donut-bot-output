@@ -1,77 +1,23 @@
 {
-    "last_update": 1756710061,
-    "last_update_week": 36,
+    "last_update": 1757314861,
+    "last_update_week": 37,
     "winners": [
         {
             "rank": 1,
-            "nominations": 2,
-            "weight": 998444,
-            "week_number": 34,
+            "nominations": 1,
+            "weight": 221744,
+            "week_number": 35,
             "year": 2025,
             "post": {
-                "post_id": "t3_1n1z1qa",
-                "author": "hduynam99",
-                "reddit_upvotes": 64,
-                "title": "Ethereum: Best Days to Buy & Sell (Based on Data)",
-                "tips": 6,
-                "tips_amount": 105,
-                "url": "https://redd.it/1n1z1qa",
-                "created_date": "2025-08-28 01:19:00",
-                "flair": "Trading"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 2,
-            "weight": 699927,
-            "week_number": 34,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1n31esp",
+                "post_id": "t3_1n7fudb",
                 "author": "DBRiMatt",
-                "reddit_upvotes": 9,
-                "title": "[EthTrader Contest] Round 153 Summary",
-                "tips": 6,
-                "tips_amount": 6,
-                "url": "https://redd.it/1n31esp",
-                "created_date": "2025-08-29 08:02:05",
-                "flair": "Donut"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 34,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1n354os",
-                "author": "abcoathup",
-                "reddit_upvotes": 9,
-                "title": "ethdevnews weekly #4 | Fusaka mainnet upgrade potentially in December, US GDP onchain, r/Ethereum AMAs with builders",
-                "tips": 6,
-                "tips_amount": 6,
-                "url": "https://redd.it/1n354os",
-                "created_date": "2025-08-29 11:42:43",
-                "flair": "Link"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 34,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1mzhk96",
-                "author": "DrRobbe",
-                "reddit_upvotes": 11,
-                "title": "Tip Leaderboard - Week 34",
-                "tips": 6,
-                "tips_amount": 7,
-                "url": "https://redd.it/1mzhk96",
-                "created_date": "2025-08-25 04:58:06",
-                "flair": "Donut"
+                "reddit_upvotes": 5,
+                "title": "Long awaited Linea airdrop is coming.",
+                "tips": 3,
+                "tips_amount": 3,
+                "url": "https://redd.it/1n7fudb",
+                "created_date": "2025-09-03 14:09:24",
+                "flair": "Airdrops"
             }
         }
     ]
