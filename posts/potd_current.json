@@ -1,40 +1,76 @@
 {
-    "last_update": 1759129261,
-    "last_update_week": 40,
+    "last_update": 1759734061,
+    "last_update_week": 41,
     "winners": [
         {
             "rank": 1,
             "nominations": 2,
             "weight": 1000000,
-            "week_number": 38,
+            "week_number": 39,
             "year": 2025,
             "post": {
-                "post_id": "t3_1nqubwp",
-                "author": "DrRobbe",
-                "reddit_upvotes": 10,
-                "title": "Tip Leaderboard - Round 154",
-                "tips": 9,
-                "tips_amount": 33,
-                "url": "https://redd.it/1nqubwp",
-                "created_date": "2025-09-26 06:46:01",
-                "flair": "Donut"
+                "post_id": "t3_1nvw580",
+                "author": "kirtash93",
+                "reddit_upvotes": 44,
+                "title": "Rate Cuts Could Ignite Massive Rallies: Why Context Might Turn This Cycle Into Another 1995 Or 2019, According To Goldman Sachs",
+                "tips": 8,
+                "tips_amount": 8,
+                "url": "https://redd.it/1nvw580",
+                "created_date": "2025-10-02 06:19:29",
+                "flair": "Metrics"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
-            "weight": 222121,
-            "week_number": 38,
+            "weight": 500000,
+            "week_number": 39,
             "year": 2025,
             "post": {
-                "post_id": "t3_1nnbuaz",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 10,
-                "title": "Diving into the Donut Pool: Week 71",
-                "tips": 6,
-                "tips_amount": 7,
-                "url": "https://redd.it/1nnbuaz",
-                "created_date": "2025-09-22 03:23:42",
+                "post_id": "t3_1nyicx1",
+                "author": "kirtash93",
+                "reddit_upvotes": 341,
+                "title": "Throwback: 19 Year Old Vitalik, Before Ethereum Even Existed",
+                "tips": 8,
+                "tips_amount": 17,
+                "url": "https://redd.it/1nyicx1",
+                "created_date": "2025-10-05 08:01:55",
+                "flair": "Image/Video"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 39,
+            "year": 2025,
+            "post": {
+                "post_id": "t3_1ntuzg8",
+                "author": "hduynam99",
+                "reddit_upvotes": 8,
+                "title": "Risk Based DCA from Risk Metric",
+                "tips": 2,
+                "tips_amount": 11,
+                "url": "https://redd.it/1ntuzg8",
+                "created_date": "2025-09-29 21:42:03",
+                "flair": "Technicals"
+            }
+        },
+        {
+            "rank": 4,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 39,
+            "year": 2025,
+            "post": {
+                "post_id": "t3_1nt94fd",
+                "author": "DrRobbe",
+                "reddit_upvotes": 5,
+                "title": "Tip Leaderboard - Week 39",
+                "tips": 8,
+                "tips_amount": 8.111,
+                "url": "https://redd.it/1nt94fd",
+                "created_date": "2025-09-29 04:44:04",
                 "flair": "Donut"
             }
         }
