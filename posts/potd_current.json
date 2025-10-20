@@ -1,76 +1,58 @@
 {
-    "last_update": 1760338861,
-    "last_update_week": 42,
+    "last_update": 1760943661,
+    "last_update_week": 43,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 40,
+            "week_number": 41,
             "year": 2025,
             "post": {
-                "post_id": "t3_1o186ps",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 52,
-                "title": "Joseph Lubin is building the bridge between Ethereum and the real world.",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1o186ps",
-                "created_date": "2025-10-08 11:46:22",
-                "flair": "Discussion"
+                "post_id": "t3_1o814nd",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 210,
+                "title": "Bitcoin maxi Michael Saylor acknowledges Tom Lee, says he gives Ethereum credibility \u26a1\ufe0f",
+                "tips": 6,
+                "tips_amount": 6,
+                "url": "https://redd.it/1o814nd",
+                "created_date": "2025-10-16 08:59:04",
+                "flair": "Image/Video"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 40,
+            "week_number": 41,
             "year": 2025,
             "post": {
-                "post_id": "t3_1o15rca",
-                "author": "0xMarcAurel",
-                "reddit_upvotes": 446,
-                "title": "Ethereum is the new Wall Street, according to Tom Lee",
-                "tips": 8,
-                "tips_amount": 8.69,
-                "url": "https://redd.it/1o15rca",
-                "created_date": "2025-10-08 09:26:31",
-                "flair": "Image/Video"
+                "post_id": "t3_1o79dt1",
+                "author": "MasterpieceLoud4931",
+                "reddit_upvotes": 49,
+                "title": "Ethereum's liquidity map shows us what is next for ETH amid trade war tension.",
+                "tips": 6,
+                "tips_amount": 10,
+                "url": "https://redd.it/1o79dt1",
+                "created_date": "2025-10-15 12:17:17",
+                "flair": "Trading"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 40,
+            "week_number": 41,
             "year": 2025,
             "post": {
-                "post_id": "t3_1nznvga",
-                "author": "aItalianStallion",
-                "reddit_upvotes": 11,
-                "title": "New survey says security is priority #1 for institutions. How can we help them stake ETH properly?",
-                "tips": 2,
-                "tips_amount": 2,
-                "url": "https://redd.it/1nznvga",
-                "created_date": "2025-10-06 16:28:14",
-                "flair": "Discussion"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 255069,
-            "week_number": 40,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1nzdxg8",
-                "author": "kirtash93",
-                "reddit_upvotes": 45,
-                "title": "Stop Sleeping: People Are Missing Out on Easy DONUT Gains",
-                "tips": 24,
-                "tips_amount": 33,
-                "url": "https://redd.it/1nzdxg8",
-                "created_date": "2025-10-06 08:57:58",
+                "post_id": "t3_1o5atgq",
+                "author": "DrRobbe",
+                "reddit_upvotes": 6,
+                "title": "Tip Leaderboard - Week 41",
+                "tips": 9,
+                "tips_amount": 17,
+                "url": "https://redd.it/1o5atgq",
+                "created_date": "2025-10-13 05:03:22",
                 "flair": "Donut"
             }
         }
