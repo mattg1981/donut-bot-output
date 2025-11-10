@@ -1,59 +1,23 @@
 {
-    "last_update": 1762153262,
-    "last_update_week": 45,
+    "last_update": 1762758062,
+    "last_update_week": 46,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 43,
+            "week_number": 44,
             "year": 2025,
             "post": {
-                "post_id": "t3_1ole5qy",
-                "author": "Odd-Radio-8500",
-                "reddit_upvotes": 227,
-                "title": "Ethereum just had a record-breaking month with 728M transactions processed in October.",
-                "tips": 7,
-                "tips_amount": 16,
-                "url": "https://redd.it/1ole5qy",
-                "created_date": "2025-11-01 03:37:06",
-                "flair": "Image/Video"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 43,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1ok298t",
-                "author": "0xpolygonlabs",
-                "reddit_upvotes": 8,
-                "title": "Flutterwave Selects Polygon as Its Default Blockchain for Cross-Border Payments",
-                "tips": 4,
-                "tips_amount": 4,
-                "url": "https://redd.it/1ok298t",
-                "created_date": "2025-10-30 15:08:28",
-                "flair": "Discussion"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 43,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1ojut2y",
+                "post_id": "t3_1oruxhv",
                 "author": "aminok",
-                "reddit_upvotes": 5,
-                "title": "Universal Cross Margin \u2014 How Lighter Plans to Turn Every Ethereum Asset into Trading Collateral",
-                "tips": 5,
-                "tips_amount": 5,
-                "url": "https://redd.it/1ojut2y",
-                "created_date": "2025-10-30 09:12:32",
-                "flair": "Technicals"
+                "reddit_upvotes": 25,
+                "title": "Ethereum\u2019s Fragmented L2s Show First Signs of Acting Like One Network",
+                "tips": 3,
+                "tips_amount": 3,
+                "url": "https://redd.it/1oruxhv",
+                "created_date": "2025-11-08 17:18:40",
+                "flair": "Analysis"
             }
         }
     ]
