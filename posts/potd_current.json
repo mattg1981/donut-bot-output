@@ -1,23 +1,23 @@
 {
-    "last_update": 1762758062,
-    "last_update_week": 46,
+    "last_update": 1763362862,
+    "last_update_week": 47,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 44,
+            "week_number": 45,
             "year": 2025,
             "post": {
-                "post_id": "t3_1oruxhv",
+                "post_id": "t3_1ou0lfi",
                 "author": "aminok",
-                "reddit_upvotes": 25,
-                "title": "Ethereum\u2019s Fragmented L2s Show First Signs of Acting Like One Network",
-                "tips": 3,
-                "tips_amount": 3,
-                "url": "https://redd.it/1oruxhv",
-                "created_date": "2025-11-08 17:18:40",
-                "flair": "Analysis"
+                "reddit_upvotes": 22,
+                "title": "Ethereum\u2019s Trust Layer Expands Beyond the Blockchain",
+                "tips": 7,
+                "tips_amount": 7.6899999999999995,
+                "url": "https://redd.it/1ou0lfi",
+                "created_date": "2025-11-11 04:53:09",
+                "flair": "Technicals"
             }
         }
     ]
