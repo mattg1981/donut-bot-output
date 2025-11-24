@@ -1,23 +1,59 @@
 {
-    "last_update": 1763362862,
-    "last_update_week": 47,
+    "last_update": 1763967661,
+    "last_update_week": 48,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 45,
+            "nominations": 3,
+            "weight": 1325127,
+            "week_number": 46,
             "year": 2025,
             "post": {
-                "post_id": "t3_1ou0lfi",
-                "author": "aminok",
-                "reddit_upvotes": 22,
-                "title": "Ethereum\u2019s Trust Layer Expands Beyond the Blockchain",
-                "tips": 7,
-                "tips_amount": 7.6899999999999995,
-                "url": "https://redd.it/1ou0lfi",
-                "created_date": "2025-11-11 04:53:09",
+                "post_id": "t3_1p3l8a2",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 4,
+                "title": "[Airdrop Guide] Ultimate Guide to Katana",
+                "tips": 6,
+                "tips_amount": 114,
+                "url": "https://redd.it/1p3l8a2",
+                "created_date": "2025-11-22 05:28:54",
+                "flair": "Airdrops"
+            }
+        },
+        {
+            "rank": 2,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 46,
+            "year": 2025,
+            "post": {
+                "post_id": "t3_1p3vj3y",
+                "author": "MasterpieceLoud4931",
+                "reddit_upvotes": 124,
+                "title": "Ethereum's next upgrades set the stage for real ETH deflation.",
+                "tips": 5,
+                "tips_amount": 5,
+                "url": "https://redd.it/1p3vj3y",
+                "created_date": "2025-11-22 15:09:57",
                 "flair": "Technicals"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 46,
+            "year": 2025,
+            "post": {
+                "post_id": "t3_1p103o3",
+                "author": "kirtash93",
+                "reddit_upvotes": 43,
+                "title": "People With 20K DONUT Looking At No Coiners",
+                "tips": 11,
+                "tips_amount": 39.69,
+                "url": "https://redd.it/1p103o3",
+                "created_date": "2025-11-19 06:23:13",
+                "flair": "Meme"
             }
         }
     ]
