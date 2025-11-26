@@ -5111,7 +5111,7 @@
     {
         "from_user": "kirtash93",
         "to_user": "obolli",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "weight": 1.0,
         "amount": 1,
         "token": "donut",
@@ -5566,7 +5566,7 @@
     {
         "from_user": "tahiraslam8k",
         "to_user": "obolli",
-        "to_user_registered": 0,
+        "to_user_registered": 1,
         "weight": 0.0417,
         "amount": 1,
         "token": "donut",
@@ -5601,5 +5601,57 @@
         "submission_content_id": "1p69et6",
         "community": "ethtrader",
         "created_date": "2025-11-25 12:10:21.652544"
+    },
+    {
+        "from_user": "King__Robbo",
+        "to_user": "legionticket",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nqpge61",
+        "parent_content_id": "t3_1p6a14a",
+        "submission_content_id": "1p6a14a",
+        "community": "ethtrader",
+        "created_date": "2025-11-25 14:15:23.032643"
+    },
+    {
+        "from_user": "King__Robbo",
+        "to_user": "CymandeTV",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nqpglc1",
+        "parent_content_id": "t3_1p67xtc",
+        "submission_content_id": "1p67xtc",
+        "community": "ethtrader",
+        "created_date": "2025-11-25 14:16:35.015698"
+    },
+    {
+        "from_user": "King__Robbo",
+        "to_user": "kirtash93",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nqphe7a",
+        "parent_content_id": "t3_1p65zdl",
+        "submission_content_id": "1p65zdl",
+        "community": "ethtrader",
+        "created_date": "2025-11-25 14:21:03.535516"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "legionticket",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nqqqs8j",
+        "parent_content_id": "t3_1p6a14a",
+        "submission_content_id": "1p6a14a",
+        "community": "ethtrader",
+        "created_date": "2025-11-25 18:10:20.341195"
     }
 ]
