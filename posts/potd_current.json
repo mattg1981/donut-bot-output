@@ -1,5 +1,24 @@
 {
-    "last_update": 1764572461,
-    "last_update_week": 49,
-    "winners": []
+    "last_update": 1765177261,
+    "last_update_week": 50,
+    "winners": [
+        {
+            "rank": 1,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 48,
+            "year": 2025,
+            "post": {
+                "post_id": "t3_1pbfvsu",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 107,
+                "title": "we gotta be the strongest mentally. either that or we're all insane",
+                "tips": 6,
+                "tips_amount": 6,
+                "url": "https://redd.it/1pbfvsu",
+                "created_date": "2025-12-01 15:36:01",
+                "flair": "Meme"
+            }
+        }
+    ]
 }
