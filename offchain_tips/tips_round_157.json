@@ -18094,5 +18094,83 @@
         "submission_content_id": "1pnok9e",
         "community": "ethtrader",
         "created_date": "2025-12-16 11:45:34.959365"
+    },
+    {
+        "from_user": "emergensee13",
+        "to_user": "DBRiMatt",
+        "to_user_registered": 1,
+        "weight": 0.0533,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nubmtau",
+        "parent_content_id": "t1_nu981l9",
+        "submission_content_id": "1pnok9e",
+        "community": "ethtrader",
+        "created_date": "2025-12-16 12:29:37.176144"
+    },
+    {
+        "from_user": "King__Robbo",
+        "to_user": "DBRiMatt",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nuc62ex",
+        "parent_content_id": "t1_nu97zsi",
+        "submission_content_id": "1pnok9e",
+        "community": "ethtrader",
+        "created_date": "2025-12-16 14:28:32.130755"
+    },
+    {
+        "from_user": "DrRobbe",
+        "to_user": "Mixdealyn",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nucodhn",
+        "parent_content_id": "t1_nuaydbx",
+        "submission_content_id": "1pmzrh8",
+        "community": "ethtrader",
+        "created_date": "2025-12-16 16:02:14.321699"
+    },
+    {
+        "from_user": "CymandeTV",
+        "to_user": "0xMarcAurel",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nue4z3d",
+        "parent_content_id": "t3_1pnlnse",
+        "submission_content_id": "1pnlnse",
+        "community": "ethtrader",
+        "created_date": "2025-12-16 20:16:29.558705"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "TeaPurpp",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nuemlrm",
+        "parent_content_id": "t3_1po2kyq",
+        "submission_content_id": "1po2kyq",
+        "community": "ethtrader",
+        "created_date": "2025-12-16 21:44:57.917028"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "CymandeTV",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_nuemntr",
+        "parent_content_id": "t3_1pnwouu",
+        "submission_content_id": "1pnwouu",
+        "community": "ethtrader",
+        "created_date": "2025-12-16 21:45:14.437010"
     }
 ]
