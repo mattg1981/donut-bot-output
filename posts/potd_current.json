@@ -1,77 +1,59 @@
 {
-    "last_update": 1765782061,
-    "last_update_week": 51,
+    "last_update": 1766386861,
+    "last_update_week": 52,
     "winners": [
         {
             "rank": 1,
-            "nominations": 2,
-            "weight": 1000000,
-            "week_number": 49,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 50,
             "year": 2025,
             "post": {
-                "post_id": "t3_1pipmpb",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 24,
-                "title": "[Event] Merry Ethmas!",
-                "tips": 4,
-                "tips_amount": 9.9,
-                "url": "https://redd.it/1pipmpb",
-                "created_date": "2025-12-10 01:31:59",
-                "flair": "Up to 20k DONUT for New Users! :ETH::donut:"
+                "post_id": "t3_1pr7kqt",
+                "author": "DrRobbe",
+                "reddit_upvotes": 1,
+                "title": "Registered User changes until round 157",
+                "tips": 7,
+                "tips_amount": 20,
+                "url": "https://redd.it/1pr7kqt",
+                "created_date": "2025-12-20 06:23:28",
+                "flair": "Donut"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 49,
+            "week_number": 50,
             "year": 2025,
             "post": {
-                "post_id": "t3_1pliqib",
-                "author": "MasterpieceLoud4931",
-                "reddit_upvotes": 86,
-                "title": "ETH has fewer forced sellers left after months of relentless selling.",
-                "tips": 6,
-                "tips_amount": 6,
-                "url": "https://redd.it/1pliqib",
-                "created_date": "2025-12-13 10:54:14",
-                "flair": "Sentiment"
+                "post_id": "t3_1pno67n",
+                "author": "bzzking",
+                "reddit_upvotes": 180,
+                "title": "Purchased home using Ethereum!",
+                "tips": 4,
+                "tips_amount": 103,
+                "url": "https://redd.it/1pno67n",
+                "created_date": "2025-12-16 00:43:08",
+                "flair": "Self Story"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 49,
+            "weight": 325466,
+            "week_number": 50,
             "year": 2025,
             "post": {
-                "post_id": "t3_1pk55mi",
-                "author": "ifnotme",
-                "reddit_upvotes": 11,
-                "title": "2025 an ETH Year in Review",
+                "post_id": "t3_1pmw8sd",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 3,
+                "title": "[Event] Merry ETHmas! #2",
                 "tips": 3,
-                "tips_amount": 151,
-                "url": "https://redd.it/1pk55mi",
-                "created_date": "2025-12-11 18:35:06",
-                "flair": "Metrics"
-            }
-        },
-        {
-            "rank": 4,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 49,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1pghyha",
-                "author": "kirtash93",
-                "reddit_upvotes": 29,
-                "title": "Absurd pricing for Mainnet blockspace - Swaps 2\u00a2, Bridging 1\u00a2 and Borrowing 2\u00a2. Cheapest ETH ever?",
-                "tips": 5,
-                "tips_amount": 5,
-                "url": "https://redd.it/1pghyha",
-                "created_date": "2025-12-07 13:07:58",
-                "flair": "Image/Video"
+                "tips_amount": 12,
+                "url": "https://redd.it/1pmw8sd",
+                "created_date": "2025-12-15 02:35:24",
+                "flair": "Up to 10k DONUT for EthTrader Special Members :sm:"
             }
         }
     ]
