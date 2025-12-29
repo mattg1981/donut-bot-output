@@ -1,59 +1,41 @@
 {
-    "last_update": 1766386861,
-    "last_update_week": 52,
+    "last_update": 1766991661,
+    "last_update_week": 53,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 50,
+            "week_number": 51,
             "year": 2025,
             "post": {
-                "post_id": "t3_1pr7kqt",
-                "author": "DrRobbe",
-                "reddit_upvotes": 1,
-                "title": "Registered User changes until round 157",
+                "post_id": "t3_1pvja6t",
+                "author": "kirtash93",
+                "reddit_upvotes": 113,
+                "title": "2026: The Year For Ethereum",
                 "tips": 7,
-                "tips_amount": 20,
-                "url": "https://redd.it/1pr7kqt",
-                "created_date": "2025-12-20 06:23:28",
-                "flair": "Donut"
+                "tips_amount": 7,
+                "url": "https://redd.it/1pvja6t",
+                "created_date": "2025-12-25 18:18:55",
+                "flair": "Link"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 50,
+            "week_number": 51,
             "year": 2025,
             "post": {
-                "post_id": "t3_1pno67n",
-                "author": "bzzking",
-                "reddit_upvotes": 180,
-                "title": "Purchased home using Ethereum!",
-                "tips": 4,
-                "tips_amount": 103,
-                "url": "https://redd.it/1pno67n",
-                "created_date": "2025-12-16 00:43:08",
-                "flair": "Self Story"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 325466,
-            "week_number": 50,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1pmw8sd",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 3,
-                "title": "[Event] Merry ETHmas! #2",
-                "tips": 3,
-                "tips_amount": 12,
-                "url": "https://redd.it/1pmw8sd",
-                "created_date": "2025-12-15 02:35:24",
-                "flair": "Up to 10k DONUT for EthTrader Special Members :sm:"
+                "post_id": "t3_1puhgiz",
+                "author": "kirtash93",
+                "reddit_upvotes": 87,
+                "title": "Crypto Holders Right Now",
+                "tips": 8,
+                "tips_amount": 8,
+                "url": "https://redd.it/1puhgiz",
+                "created_date": "2025-12-24 07:22:52",
+                "flair": "Meme"
             }
         }
     ]
