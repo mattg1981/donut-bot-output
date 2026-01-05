@@ -1,42 +1,5 @@
 {
-    "last_update": 1766991661,
-    "last_update_week": 53,
-    "winners": [
-        {
-            "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 51,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1pvja6t",
-                "author": "kirtash93",
-                "reddit_upvotes": 113,
-                "title": "2026: The Year For Ethereum",
-                "tips": 7,
-                "tips_amount": 7,
-                "url": "https://redd.it/1pvja6t",
-                "created_date": "2025-12-25 18:18:55",
-                "flair": "Link"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 51,
-            "year": 2025,
-            "post": {
-                "post_id": "t3_1puhgiz",
-                "author": "kirtash93",
-                "reddit_upvotes": 87,
-                "title": "Crypto Holders Right Now",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1puhgiz",
-                "created_date": "2025-12-24 07:22:52",
-                "flair": "Meme"
-            }
-        }
-    ]
+    "last_update": 1767596462,
+    "last_update_week": 2,
+    "winners": []
 }
