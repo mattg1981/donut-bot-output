@@ -1,5 +1,42 @@
 {
-    "last_update": 1767596462,
-    "last_update_week": 2,
-    "winners": []
+    "last_update": 1768201262,
+    "last_update_week": 3,
+    "winners": [
+        {
+            "rank": 1,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 1,
+            "year": 2026,
+            "post": {
+                "post_id": "t3_1q81m53",
+                "author": "kirtash93",
+                "reddit_upvotes": 10,
+                "title": "Polygon's Open Money Stack Could Change Everything And the Market Already Knows It",
+                "tips": 8,
+                "tips_amount": 8,
+                "url": "https://redd.it/1q81m53",
+                "created_date": "2026-01-09 07:09:06",
+                "flair": "Discussion"
+            }
+        },
+        {
+            "rank": 2,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 1,
+            "year": 2026,
+            "post": {
+                "post_id": "t3_1q5hqe7",
+                "author": "MasterpieceLoud4931",
+                "reddit_upvotes": 55,
+                "title": "The ETH/BTC ratio says Ethereum is not done this cycle.",
+                "tips": 6,
+                "tips_amount": 6,
+                "url": "https://redd.it/1q5hqe7",
+                "created_date": "2026-01-06 12:51:09",
+                "flair": "Analysis"
+            }
+        }
+    ]
 }
