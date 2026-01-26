@@ -1,59 +1,41 @@
 {
-    "last_update": 1768806061,
-    "last_update_week": 4,
+    "last_update": 1769410861,
+    "last_update_week": 5,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 2,
+            "nominations": 4,
+            "weight": 1859833,
+            "week_number": 3,
             "year": 2026,
             "post": {
-                "post_id": "t3_1qewbl1",
+                "post_id": "t3_1qlpti9",
                 "author": "0xMarcAurel",
-                "reddit_upvotes": 9,
-                "title": "DONUT distribution data for round 158 (final CSV)",
-                "tips": 10,
-                "tips_amount": 36,
-                "url": "https://redd.it/1qewbl1",
-                "created_date": "2026-01-16 23:42:03",
+                "reddit_upvotes": 8,
+                "title": "[Governance Poll Proposal] Partner with CCMOON DAO and fund DONUT support on their official bridge",
+                "tips": 8,
+                "tips_amount": 45,
+                "url": "https://redd.it/1qlpti9",
+                "created_date": "2026-01-24 15:27:09",
                 "flair": "Donut"
             }
         },
         {
             "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 2,
+            "nominations": 2,
+            "weight": 1000000,
+            "week_number": 3,
             "year": 2026,
             "post": {
-                "post_id": "t3_1qdd9j3",
-                "author": "kirtash93",
-                "reddit_upvotes": 60,
-                "title": "Coinbase Calls Out The Senate Banking Crypto Bill - Feels Less Like Regulation, More Like A Trojan Horse",
-                "tips": 7,
-                "tips_amount": 7,
-                "url": "https://redd.it/1qdd9j3",
-                "created_date": "2026-01-15 07:33:18",
-                "flair": "Discussion"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 359313,
-            "week_number": 2,
-            "year": 2026,
-            "post": {
-                "post_id": "t3_1qd6ejo",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 6,
-                "title": "[EthTrader Contest] Round 158 Summary",
-                "tips": 5,
-                "tips_amount": 5,
-                "url": "https://redd.it/1qd6ejo",
-                "created_date": "2026-01-15 01:50:05",
-                "flair": "Donut"
+                "post_id": "t3_1qkmhpd",
+                "author": "aminok",
+                "reddit_upvotes": 18,
+                "title": "The \"Green Lane\" Thesis for Ethereum",
+                "tips": 4,
+                "tips_amount": 13,
+                "url": "https://redd.it/1qkmhpd",
+                "created_date": "2026-01-23 09:36:03",
+                "flair": "Original Content"
             }
         }
     ]
