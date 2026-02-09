@@ -1,41 +1,59 @@
 {
-    "last_update": 1770015662,
-    "last_update_week": 6,
+    "last_update": 1770620461,
+    "last_update_week": 7,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 4,
+            "nominations": 3,
+            "weight": 1359833,
+            "week_number": 5,
             "year": 2026,
             "post": {
-                "post_id": "t3_1qq2ufu",
-                "author": "aminok",
-                "reddit_upvotes": 13,
-                "title": "Launching as an Ethereum L2 Blockchain Reduces Costs by 99%",
-                "tips": 5,
-                "tips_amount": 5,
-                "url": "https://redd.it/1qq2ufu",
-                "created_date": "2026-01-29 08:15:03",
-                "flair": "Analysis"
+                "post_id": "t3_1qxuhrf",
+                "author": "thecryptos",
+                "reddit_upvotes": 144,
+                "title": "We Love You, Ethereum",
+                "tips": 6,
+                "tips_amount": 6,
+                "url": "https://redd.it/1qxuhrf",
+                "created_date": "2026-02-06 21:28:05",
+                "flair": "Image/Video"
             }
         },
         {
             "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 4,
+            "nominations": 2,
+            "weight": 1000000,
+            "week_number": 5,
             "year": 2026,
             "post": {
-                "post_id": "t3_1qp5s4k",
-                "author": "kirtash93",
-                "reddit_upvotes": 15,
-                "title": "Yield Bans in Stablecoins: How Rules Meant to Protect Us Are Actually Strengthening Big Players",
-                "tips": 8,
-                "tips_amount": 8,
-                "url": "https://redd.it/1qp5s4k",
-                "created_date": "2026-01-28 08:28:01",
-                "flair": "Discussion"
+                "post_id": "t3_1qvw84i",
+                "author": "everstake",
+                "reddit_upvotes": 154,
+                "title": "Ethereum just reached a truly historic milestone!",
+                "tips": 3,
+                "tips_amount": 12,
+                "url": "https://redd.it/1qvw84i",
+                "created_date": "2026-02-04 18:17:00",
+                "flair": "Metrics"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 359833,
+            "week_number": 5,
+            "year": 2026,
+            "post": {
+                "post_id": "t3_1quegvr",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 9,
+                "title": "Trader Tuesday: Active Trading vs Passive Gains. #6",
+                "tips": 5,
+                "tips_amount": 5,
+                "url": "https://redd.it/1quegvr",
+                "created_date": "2026-02-03 01:35:52",
+                "flair": "Self Story"
             }
         }
     ]
