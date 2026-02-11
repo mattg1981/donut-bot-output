@@ -16508,5 +16508,57 @@
         "submission_content_id": "1r0mhu3",
         "community": "ethtrader",
         "created_date": "2026-02-10 09:54:20.913926"
+    },
+    {
+        "from_user": "Odd-Radio-8500",
+        "to_user": "0xMarcAurel",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o4mjiqn",
+        "parent_content_id": "t3_1r12doz",
+        "submission_content_id": "1r12doz",
+        "community": "ethtrader",
+        "created_date": "2026-02-10 15:11:27.196099"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "0xMarcAurel",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o4mjs8o",
+        "parent_content_id": "t3_1r12doz",
+        "submission_content_id": "1r12doz",
+        "community": "ethtrader",
+        "created_date": "2026-02-10 15:12:34.622216"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "Creative_Ad7831",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o4mjyux",
+        "parent_content_id": "t3_1r0zzay",
+        "submission_content_id": "1r0zzay",
+        "community": "ethtrader",
+        "created_date": "2026-02-10 15:13:42.019529"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "ansangoiam",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o4og6rj",
+        "parent_content_id": "t3_1r17xc8",
+        "submission_content_id": "1r17xc8",
+        "community": "ethtrader",
+        "created_date": "2026-02-10 20:29:36.936370"
     }
 ]
