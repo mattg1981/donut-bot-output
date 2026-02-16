@@ -1,59 +1,59 @@
 {
-    "last_update": 1770620461,
-    "last_update_week": 7,
+    "last_update": 1771225262,
+    "last_update_week": 8,
     "winners": [
         {
             "rank": 1,
-            "nominations": 3,
-            "weight": 1359833,
-            "week_number": 5,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 6,
             "year": 2026,
             "post": {
-                "post_id": "t3_1qxuhrf",
-                "author": "thecryptos",
-                "reddit_upvotes": 144,
-                "title": "We Love You, Ethereum",
-                "tips": 6,
-                "tips_amount": 6,
-                "url": "https://redd.it/1qxuhrf",
-                "created_date": "2026-02-06 21:28:05",
-                "flair": "Image/Video"
+                "post_id": "t3_1r3x8pc",
+                "author": "aminok",
+                "reddit_upvotes": 27,
+                "title": "Polygon PoS is not an L2. It is an Ethereum sidechain",
+                "tips": 3,
+                "tips_amount": 12,
+                "url": "https://redd.it/1r3x8pc",
+                "created_date": "2026-02-13 18:37:08",
+                "flair": "Technicals"
             }
         },
         {
             "rank": 2,
-            "nominations": 2,
-            "weight": 1000000,
-            "week_number": 5,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 6,
             "year": 2026,
             "post": {
-                "post_id": "t3_1qvw84i",
-                "author": "everstake",
-                "reddit_upvotes": 154,
-                "title": "Ethereum just reached a truly historic milestone!",
-                "tips": 3,
-                "tips_amount": 12,
-                "url": "https://redd.it/1qvw84i",
-                "created_date": "2026-02-04 18:17:00",
-                "flair": "Metrics"
+                "post_id": "t3_1r2rqkf",
+                "author": "Creative_Ad7831",
+                "reddit_upvotes": 854,
+                "title": "Ethereum Considered as Infrastructure for Potential Euro Stablecoin",
+                "tips": 2,
+                "tips_amount": 2,
+                "url": "https://redd.it/1r2rqkf",
+                "created_date": "2026-02-12 12:08:24",
+                "flair": "Image/Video"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 359833,
-            "week_number": 5,
+            "weight": 500000,
+            "week_number": 6,
             "year": 2026,
             "post": {
-                "post_id": "t3_1quegvr",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 9,
-                "title": "Trader Tuesday: Active Trading vs Passive Gains. #6",
-                "tips": 5,
-                "tips_amount": 5,
-                "url": "https://redd.it/1quegvr",
-                "created_date": "2026-02-03 01:35:52",
-                "flair": "Self Story"
+                "post_id": "t3_1r2i9nd",
+                "author": "aminok",
+                "reddit_upvotes": 7,
+                "title": "Aligned Capital as Ethereum's Real Moat",
+                "tips": 3,
+                "tips_amount": 3,
+                "url": "https://redd.it/1r2i9nd",
+                "created_date": "2026-02-12 03:07:55",
+                "flair": "Discussion"
             }
         }
     ]
