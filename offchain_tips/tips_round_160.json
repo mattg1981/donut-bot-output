@@ -1558,5 +1558,44 @@
         "submission_content_id": "1r5iqew",
         "community": "ethtrader",
         "created_date": "2026-02-15 18:45:14.378965"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "maddhy",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o5m46nm",
+        "parent_content_id": "t1_o5l8wxb",
+        "submission_content_id": "1r3x8pc",
+        "community": "ethtrader",
+        "created_date": "2026-02-16 02:12:33.826109"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "0xMarcAurel",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o5m50ou",
+        "parent_content_id": "t3_1r5iqew",
+        "submission_content_id": "1r5iqew",
+        "community": "ethtrader",
+        "created_date": "2026-02-16 02:17:46.107729"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "Creative_Ad7831",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o5n9bwm",
+        "parent_content_id": "t3_1r5z4i7",
+        "submission_content_id": "1r5z4i7",
+        "community": "ethtrader",
+        "created_date": "2026-02-16 07:19:42.934416"
     }
 ]
