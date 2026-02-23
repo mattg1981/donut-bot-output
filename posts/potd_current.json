@@ -1,59 +1,23 @@
 {
-    "last_update": 1771225262,
-    "last_update_week": 8,
+    "last_update": 1771830061,
+    "last_update_week": 9,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 6,
+            "week_number": 7,
             "year": 2026,
             "post": {
-                "post_id": "t3_1r3x8pc",
+                "post_id": "t3_1rajafj",
                 "author": "aminok",
-                "reddit_upvotes": 27,
-                "title": "Polygon PoS is not an L2. It is an Ethereum sidechain",
+                "reddit_upvotes": 44,
+                "title": "Vitalik\u2019s Proposal to Split Ethereum\u2019s State: The \"One-Bit\" Paradigm Shift",
                 "tips": 3,
                 "tips_amount": 12,
-                "url": "https://redd.it/1r3x8pc",
-                "created_date": "2026-02-13 18:37:08",
-                "flair": "Technicals"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 6,
-            "year": 2026,
-            "post": {
-                "post_id": "t3_1r2rqkf",
-                "author": "Creative_Ad7831",
-                "reddit_upvotes": 854,
-                "title": "Ethereum Considered as Infrastructure for Potential Euro Stablecoin",
-                "tips": 2,
-                "tips_amount": 2,
-                "url": "https://redd.it/1r2rqkf",
-                "created_date": "2026-02-12 12:08:24",
-                "flair": "Image/Video"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 6,
-            "year": 2026,
-            "post": {
-                "post_id": "t3_1r2i9nd",
-                "author": "aminok",
-                "reddit_upvotes": 7,
-                "title": "Aligned Capital as Ethereum's Real Moat",
-                "tips": 3,
-                "tips_amount": 3,
-                "url": "https://redd.it/1r2i9nd",
-                "created_date": "2026-02-12 03:07:55",
-                "flair": "Discussion"
+                "url": "https://redd.it/1rajafj",
+                "created_date": "2026-02-21 05:54:46",
+                "flair": "Analysis"
             }
         }
     ]
