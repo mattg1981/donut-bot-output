@@ -1,23 +1,59 @@
 {
-    "last_update": 1771830061,
-    "last_update_week": 9,
+    "last_update": 1772434861,
+    "last_update_week": 10,
     "winners": [
         {
             "rank": 1,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 7,
+            "nominations": 2,
+            "weight": 878366,
+            "week_number": 8,
             "year": 2026,
             "post": {
-                "post_id": "t3_1rajafj",
+                "post_id": "t3_1rhxgkj",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 12,
+                "title": "Official r/EthTrader mod guide - How to bridge your Donuts",
+                "tips": 6,
+                "tips_amount": 15,
+                "url": "https://redd.it/1rhxgkj",
+                "created_date": "2026-03-01 13:36:20",
+                "flair": "Donut"
+            }
+        },
+        {
+            "rank": 2,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 8,
+            "year": 2026,
+            "post": {
+                "post_id": "t3_1reb2sa",
                 "author": "aminok",
-                "reddit_upvotes": 44,
-                "title": "Vitalik\u2019s Proposal to Split Ethereum\u2019s State: The \"One-Bit\" Paradigm Shift",
+                "reddit_upvotes": 7,
+                "title": "Ethereum as governance: a constitution enforced by software",
                 "tips": 3,
                 "tips_amount": 12,
-                "url": "https://redd.it/1rajafj",
-                "created_date": "2026-02-21 05:54:46",
-                "flair": "Analysis"
+                "url": "https://redd.it/1reb2sa",
+                "created_date": "2026-02-25 11:47:40",
+                "flair": "Technicals"
+            }
+        },
+        {
+            "rank": 3,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 8,
+            "year": 2026,
+            "post": {
+                "post_id": "t3_1rcyfws",
+                "author": "nolaughingzone",
+                "reddit_upvotes": 19,
+                "title": "Hacked for $1290 while trading Prediction Markets - a lesson for all of you",
+                "tips": 6,
+                "tips_amount": 30,
+                "url": "https://redd.it/1rcyfws",
+                "created_date": "2026-02-23 23:58:55",
+                "flair": "Self Story"
             }
         }
     ]
