@@ -4795,5 +4795,70 @@
         "submission_content_id": "1rcy1tm",
         "community": "ethtrader",
         "created_date": "2026-03-01 17:47:52.100015"
+    },
+    {
+        "from_user": "SigiNwanne",
+        "to_user": "CymandeTV",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o86kfg4",
+        "parent_content_id": "t3_1rik0e7",
+        "submission_content_id": "1rik0e7",
+        "community": "ethtrader",
+        "created_date": "2026-03-01 23:24:34.819608"
+    },
+    {
+        "from_user": "Odd-Radio-8500",
+        "to_user": "SigiNwanne",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o86sp1f",
+        "parent_content_id": "t3_1rik5kr",
+        "submission_content_id": "1rik5kr",
+        "community": "ethtrader",
+        "created_date": "2026-03-02 00:33:07.406799"
+    },
+    {
+        "from_user": "Mixdealyn",
+        "to_user": "MemeyCurmudgeon",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o879xot",
+        "parent_content_id": "t3_1rh7wxa",
+        "submission_content_id": "1rh7wxa",
+        "community": "ethtrader",
+        "created_date": "2026-03-02 03:16:15.189121"
+    },
+    {
+        "from_user": "Mixdealyn",
+        "to_user": "Odd-Radio-8500",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o87acgy",
+        "parent_content_id": "t1_o8689e5",
+        "submission_content_id": "1rieswi",
+        "community": "ethtrader",
+        "created_date": "2026-03-02 03:20:12.067506"
+    },
+    {
+        "from_user": "SigiNwanne",
+        "to_user": "Odd-Radio-8500",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o87d7d6",
+        "parent_content_id": "t1_o86sp1f",
+        "submission_content_id": "1rik5kr",
+        "community": "ethtrader",
+        "created_date": "2026-03-02 03:48:34.720358"
     }
 ]
