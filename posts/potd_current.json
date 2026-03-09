@@ -1,58 +1,58 @@
 {
-    "last_update": 1772434861,
-    "last_update_week": 10,
+    "last_update": 1773039661,
+    "last_update_week": 11,
     "winners": [
         {
             "rank": 1,
-            "nominations": 2,
-            "weight": 878366,
-            "week_number": 8,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 9,
             "year": 2026,
             "post": {
-                "post_id": "t3_1rhxgkj",
-                "author": "0xMarcAurel",
-                "reddit_upvotes": 12,
-                "title": "Official r/EthTrader mod guide - How to bridge your Donuts",
-                "tips": 6,
-                "tips_amount": 15,
-                "url": "https://redd.it/1rhxgkj",
-                "created_date": "2026-03-01 13:36:20",
-                "flair": "Donut"
+                "post_id": "t3_1rll0dq",
+                "author": "Masaca",
+                "reddit_upvotes": 24,
+                "title": "DoublyCheck: Use your camera to verify addresses and catch phishing before you hit send",
+                "tips": 3,
+                "tips_amount": 102,
+                "url": "https://redd.it/1rll0dq",
+                "created_date": "2026-03-05 15:47:42",
+                "flair": "Image/Video"
             }
         },
         {
             "rank": 2,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 8,
+            "week_number": 9,
             "year": 2026,
             "post": {
-                "post_id": "t3_1reb2sa",
-                "author": "aminok",
-                "reddit_upvotes": 7,
-                "title": "Ethereum as governance: a constitution enforced by software",
-                "tips": 3,
-                "tips_amount": 12,
-                "url": "https://redd.it/1reb2sa",
-                "created_date": "2026-02-25 11:47:40",
-                "flair": "Technicals"
+                "post_id": "t3_1rkjuyd",
+                "author": "thecryptos",
+                "reddit_upvotes": 30,
+                "title": "Augur in chains",
+                "tips": 4,
+                "tips_amount": 53,
+                "url": "https://redd.it/1rkjuyd",
+                "created_date": "2026-03-04 12:13:48",
+                "flair": "Meme"
             }
         },
         {
             "rank": 3,
             "nominations": 1,
-            "weight": 500000,
-            "week_number": 8,
+            "weight": 378427,
+            "week_number": 9,
             "year": 2026,
             "post": {
-                "post_id": "t3_1rcyfws",
-                "author": "nolaughingzone",
-                "reddit_upvotes": 19,
-                "title": "Hacked for $1290 while trading Prediction Markets - a lesson for all of you",
-                "tips": 6,
-                "tips_amount": 30,
-                "url": "https://redd.it/1rcyfws",
-                "created_date": "2026-02-23 23:58:55",
+                "post_id": "t3_1rjbgod",
+                "author": "DBRiMatt",
+                "reddit_upvotes": 5,
+                "title": "Trader Tuesday: Active Trading vs Passive Gains. #8",
+                "tips": 9,
+                "tips_amount": 9.69,
+                "url": "https://redd.it/1rjbgod",
+                "created_date": "2026-03-03 01:13:27",
                 "flair": "Self Story"
             }
         }
