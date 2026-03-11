@@ -1,0 +1,41 @@
+[
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "0xMarcAurel",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o9tazyi",
+        "parent_content_id": "t3_1rpx4f5",
+        "submission_content_id": "1rpx4f5",
+        "community": "ethtrader",
+        "created_date": "2026-03-11 02:09:15.277668"
+    },
+    {
+        "from_user": "FattestLion",
+        "to_user": "DBRiMatt",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1.95,
+        "token": "donut",
+        "content_id": "t1_o9tzmg5",
+        "parent_content_id": "t1_o9tax3a",
+        "submission_content_id": "1rqfhqn",
+        "community": "ethtrader",
+        "created_date": "2026-03-11 05:59:00.223634"
+    },
+    {
+        "from_user": "Odd-Radio-8500",
+        "to_user": "Creative_Ad7831",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_o9tzzy5",
+        "parent_content_id": "t3_1rqqihe",
+        "submission_content_id": "1rqqihe",
+        "community": "ethtrader",
+        "created_date": "2026-03-11 06:01:58.755750"
+    }
+]
