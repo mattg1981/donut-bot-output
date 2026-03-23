@@ -2988,5 +2988,18 @@
         "submission_content_id": "1s0dw9w",
         "community": "ethtrader",
         "created_date": "2026-03-22 07:31:35.143668"
+    },
+    {
+        "from_user": "economist_kinda",
+        "to_user": "ExtremelyImpulsive",
+        "to_user_registered": 0,
+        "weight": 0.0119,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_obvqy6e",
+        "parent_content_id": "t3_1s0r6sy",
+        "submission_content_id": "1s0r6sy",
+        "community": "ethtrader",
+        "created_date": "2026-03-22 18:28:26.393617"
     }
 ]
