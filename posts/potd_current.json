@@ -1,5 +1,24 @@
 {
-    "last_update": 1773644462,
-    "last_update_week": 12,
-    "winners": []
+    "last_update": 1774249261,
+    "last_update_week": 13,
+    "winners": [
+        {
+            "rank": 1,
+            "nominations": 1,
+            "weight": 500000,
+            "week_number": 11,
+            "year": 2026,
+            "post": {
+                "post_id": "t3_1ry3725",
+                "author": "0xMarcAurel",
+                "reddit_upvotes": 6,
+                "title": "You've heard about Ethereum's Donuts - but do you know how they really work?",
+                "tips": 2,
+                "tips_amount": 11,
+                "url": "https://redd.it/1ry3725",
+                "created_date": "2026-03-19 15:16:42",
+                "flair": "Donut"
+            }
+        }
+    ]
 }
