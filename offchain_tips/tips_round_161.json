@@ -4925,5 +4925,18 @@
         "submission_content_id": "1saccpw",
         "community": "ethtrader",
         "created_date": "2026-04-02 19:58:01.074468"
+    },
+    {
+        "from_user": "DBRiMatt",
+        "to_user": "tlopplot-",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_oe138kv",
+        "parent_content_id": "t3_1saxzx2",
+        "submission_content_id": "1saxzx2",
+        "community": "ethtrader",
+        "created_date": "2026-04-03 07:09:21.746802"
     }
 ]
