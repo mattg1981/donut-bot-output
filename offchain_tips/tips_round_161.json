@@ -4938,5 +4938,70 @@
         "submission_content_id": "1saxzx2",
         "community": "ethtrader",
         "created_date": "2026-04-03 07:09:21.746802"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "tlopplot-",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 10,
+        "token": "donut",
+        "content_id": "t1_oe2cy7i",
+        "parent_content_id": "t3_1saxzx2",
+        "submission_content_id": "1saxzx2",
+        "community": "ethtrader",
+        "created_date": "2026-04-03 13:04:18.818829"
+    },
+    {
+        "from_user": "WiseChest8227",
+        "to_user": "tlopplot-",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_oe2hkuf",
+        "parent_content_id": "t3_1saxzx2",
+        "submission_content_id": "1saxzx2",
+        "community": "ethtrader",
+        "created_date": "2026-04-03 13:29:17.897483"
+    },
+    {
+        "from_user": "Creative_Ad7831",
+        "to_user": "tlopplot-",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_oe3uwim",
+        "parent_content_id": "t3_1saxzx2",
+        "submission_content_id": "1saxzx2",
+        "community": "ethtrader",
+        "created_date": "2026-04-03 17:21:31.225817"
+    },
+    {
+        "from_user": "Thorp1",
+        "to_user": "Creative_Ad7831",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_oe4mw3p",
+        "parent_content_id": "t3_1sbjsxy",
+        "submission_content_id": "1sbjsxy",
+        "community": "ethtrader",
+        "created_date": "2026-04-03 19:31:22.661593"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "Creative_Ad7831",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_oe4n1v0",
+        "parent_content_id": "t3_1sbjsxy",
+        "submission_content_id": "1sbjsxy",
+        "community": "ethtrader",
+        "created_date": "2026-04-03 19:32:00.544935"
     }
 ]
