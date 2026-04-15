@@ -1714,5 +1714,57 @@
         "submission_content_id": "1sl0hg4",
         "community": "ethtrader",
         "created_date": "2026-04-14 11:39:45.323333"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "Right-Shopping9589",
+        "to_user_registered": 1,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_og4fqtt",
+        "parent_content_id": "t3_1sl5tc3",
+        "submission_content_id": "1sl5tc3",
+        "community": "ethtrader",
+        "created_date": "2026-04-14 12:47:31.566974"
+    },
+    {
+        "from_user": "Thorp1",
+        "to_user": "khai0001",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_og630i7",
+        "parent_content_id": "t3_1sk701v",
+        "submission_content_id": "1sk701v",
+        "community": "ethtrader",
+        "created_date": "2026-04-14 17:22:34.834094"
+    },
+    {
+        "from_user": "kirtash93",
+        "to_user": "everstake",
+        "to_user_registered": 0,
+        "weight": 1.0,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_og75fyd",
+        "parent_content_id": "t3_1slfbca",
+        "submission_content_id": "1slfbca",
+        "community": "ethtrader",
+        "created_date": "2026-04-14 20:12:12.985106"
+    },
+    {
+        "from_user": "economist_kinda",
+        "to_user": "Dry_Cat7920",
+        "to_user_registered": 0,
+        "weight": 0.0119,
+        "amount": 1,
+        "token": "donut",
+        "content_id": "t1_og7hz91",
+        "parent_content_id": "t3_1sl3q0m",
+        "submission_content_id": "1sl3q0m",
+        "community": "ethtrader",
+        "created_date": "2026-04-14 21:08:02.183778"
     }
 ]
