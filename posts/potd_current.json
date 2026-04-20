@@ -1,59 +1,23 @@
 {
-    "last_update": 1776063662,
-    "last_update_week": 16,
+    "last_update": 1776668462,
+    "last_update_week": 17,
     "winners": [
         {
             "rank": 1,
             "nominations": 1,
             "weight": 500000,
-            "week_number": 14,
+            "week_number": 15,
             "year": 2026,
             "post": {
-                "post_id": "t3_1sgl66j",
-                "author": "khai0001",
-                "reddit_upvotes": 15,
-                "title": "90% of tokens listed on major CEXs fell below their listing price within 1 year. The odds are heavily against buying new tokens.",
-                "tips": 2,
-                "tips_amount": 2,
-                "url": "https://redd.it/1sgl66j",
-                "created_date": "2026-04-09 09:52:51",
-                "flair": "Link"
-            }
-        },
-        {
-            "rank": 2,
-            "nominations": 1,
-            "weight": 500000,
-            "week_number": 14,
-            "year": 2026,
-            "post": {
-                "post_id": "t3_1serzt0",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 14,
-                "title": "Limitless Prediction Market guide",
-                "tips": 6,
-                "tips_amount": 78,
-                "url": "https://redd.it/1serzt0",
-                "created_date": "2026-04-07 10:21:38",
-                "flair": "Donut"
-            }
-        },
-        {
-            "rank": 3,
-            "nominations": 1,
-            "weight": 411707,
-            "week_number": 14,
-            "year": 2026,
-            "post": {
-                "post_id": "t3_1sia85q",
-                "author": "DBRiMatt",
-                "reddit_upvotes": 9,
-                "title": "Limitless Prediction Market Challenge - less than 5 days to go!",
-                "tips": 5,
-                "tips_amount": 14,
-                "url": "https://redd.it/1sia85q",
-                "created_date": "2026-04-11 05:23:01",
-                "flair": "Trading"
+                "post_id": "t3_1sntyf0",
+                "author": "CymandeTV",
+                "reddit_upvotes": 78,
+                "title": "Please stay safe guys. Chinese fake ledger is circulating",
+                "tips": 3,
+                "tips_amount": 7,
+                "url": "https://redd.it/1sntyf0",
+                "created_date": "2026-04-17 07:30:29",
+                "flair": "Image/Video"
             }
         }
     ]
